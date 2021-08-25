@@ -12,6 +12,123 @@
       "id": "stairs_2",
       "action": "move",
       "direction": "c5-f4"
+    },
+    "c5-f3-n32": {
+      "id": "c5-f3-n32",
+      "name": "Аудитория 32",
+      "action": "info",
+      "disc": "Описание c5-f3-n32",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n33": {
+      "id": "c5-f3-n33",
+      "name": "Аудитория 33",
+      "action": "info",
+      "disc": "Описание c5-f3-n33",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n34": {
+      "id": "c5-f3-n34",
+      "name": "Аудитория 34",
+      "action": "info",
+      "disc": "Описание c5-f3-n34",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n35": {
+      "id": "c5-f3-n35",
+      "name": "Аудитория 35",
+      "action": "info",
+      "disc": "Описание c5-f3-n35",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n36": {
+      "id": "c5-f3-n36",
+      "name": "Аудитория 36",
+      "action": "info",
+      "disc": "Описание c5-f3-n36",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n37": {
+      "id": "c5-f3-n37",
+      "name": "Аудитория 37",
+      "action": "info",
+      "disc": "Описание c5-f3-n37",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-sp": {
+      "id": "c5-f3-sp",
+      "name": "Название c5-f3-sp",
+      "action": "info",
+      "disc": "Описание c5-f3-sp",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-wc": {
+      "id": "c5-f3-wc",
+      "name": "Название c5-f3-wc",
+      "action": "info",
+      "disc": "Описание c5-f3-wc",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f3-n31": {
+      "id": "c5-f3-n31",
+      "name": "Аудитория 31",
+      "action": "info",
+      "disc": "Описание c5-f3-n31",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

@@ -1,38 +1,33 @@
 {
   "config": {
-    "mapName": "c6-f1"
+    "mapName": "gym-f1"
   },
   "items": {
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "gym-f2"
+    },
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "gym-f2"
+    },
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "c3-f1"
+    },
     "enter": {
       "id": "enter",
       "action": "move",
       "direction": "global"
     },
-    "enter_2": {
-      "id": "enter_2",
-      "action": "move",
-      "direction": "global"
-    },
-    "stairs_2": {
-      "id": "stairs_2",
-      "action": "move",
-      "direction": "c6-f2"
-    },
-    "transition": {
-      "id": "transition",
-      "action": "move",
-      "direction": "tarelka-foe"
-    },
-    "transition_2": {
-      "id": "transition_2",
-      "action": "move",
-      "direction": "c3-f2-1"
-    },
-    "numbers": {
-      "id": "numbers",
-      "name": "Название numbers",
+    "coffee": {
+      "id": "coffee",
+      "name": "Название coffee",
       "action": "info",
-      "disc": "Описание numbers",
+      "disc": "Описание coffee",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -41,11 +36,11 @@
         "website": ""
       }
     },
-    "numbers_2": {
-      "id": "numbers_2",
-      "name": "Название numbers_2",
+    "gym-f1-n27": {
+      "id": "gym-f1-n27",
+      "name": "Название gym-f1-n27",
       "action": "info",
-      "disc": "Описание numbers_2",
+      "disc": "Описание gym-f1-n27",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -54,11 +49,11 @@
         "website": ""
       }
     },
-    "stairs": {
-      "id": "stairs",
-      "name": "Название stairs",
+    "gym-f1-n28": {
+      "id": "gym-f1-n28",
+      "name": "Название gym-f1-n28",
       "action": "info",
-      "disc": "Описание stairs",
+      "disc": "Описание gym-f1-n28",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -67,11 +62,11 @@
         "website": ""
       }
     },
-    "c6-f1-n102": {
-      "id": "c6-f1-n102",
-      "name": "Аудитория 102",
+    "gym-f1-n24": {
+      "id": "gym-f1-n24",
+      "name": "Название gym-f1-n24",
       "action": "info",
-      "disc": "Описание c6-f1-n102",
+      "disc": "Описание gym-f1-n24",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -80,11 +75,11 @@
         "website": ""
       }
     },
-    "c6-f1-n104": {
-      "id": "c6-f1-n104",
-      "name": "Аудитория 104",
+    "gym-f1-n23": {
+      "id": "gym-f1-n23",
+      "name": "Название gym-f1-n23",
       "action": "info",
-      "disc": "Описание c6-f1-n104",
+      "disc": "Описание gym-f1-n23",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -93,11 +88,11 @@
         "website": ""
       }
     },
-    "c6-f1-cp1": {
-      "id": "c6-f1-cp1",
-      "name": "Название c6-f1-cp1",
+    "gym-f1-n20": {
+      "id": "gym-f1-n20",
+      "name": "Название gym-f1-n20",
       "action": "info",
-      "disc": "Описание c6-f1-cp1",
+      "disc": "Описание gym-f1-n20",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -106,11 +101,11 @@
         "website": ""
       }
     },
-    "c6-f1-cp1_2": {
-      "id": "c6-f1-cp1_2",
-      "name": "Название c6-f1-cp1_2",
+    "gym-f1-n?": {
+      "id": "gym-f1-n?",
+      "name": "Название gym-f1-n?",
       "action": "info",
-      "disc": "Описание c6-f1-cp1_2",
+      "disc": "Описание gym-f1-n?",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -119,11 +114,11 @@
         "website": ""
       }
     },
-    "c6-f1-cp2": {
-      "id": "c6-f1-cp2",
-      "name": "Название c6-f1-cp2",
+    "gym-f1-n13": {
+      "id": "gym-f1-n13",
+      "name": "Название gym-f1-n13",
       "action": "info",
-      "disc": "Описание c6-f1-cp2",
+      "disc": "Описание gym-f1-n13",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -132,11 +127,11 @@
         "website": ""
       }
     },
-    "c6-f1-buffet": {
-      "id": "c6-f1-buffet",
-      "name": "Название c6-f1-buffet",
+    "gym-f1-n12": {
+      "id": "gym-f1-n12",
+      "name": "Название gym-f1-n12",
       "action": "info",
-      "disc": "Описание c6-f1-buffet",
+      "disc": "Описание gym-f1-n12",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -145,11 +140,11 @@
         "website": ""
       }
     },
-    "c6-f1-n112": {
-      "id": "c6-f1-n112",
-      "name": "Аудитория 112",
+    "gym-f1-n10": {
+      "id": "gym-f1-n10",
+      "name": "Название gym-f1-n10",
       "action": "info",
-      "disc": "Описание c6-f1-n112",
+      "disc": "Описание gym-f1-n10",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -158,11 +153,11 @@
         "website": ""
       }
     },
-    "c6-f1-n110": {
-      "id": "c6-f1-n110",
-      "name": "Аудитория 110",
+    "gym-f1-n11": {
+      "id": "gym-f1-n11",
+      "name": "Название gym-f1-n11",
       "action": "info",
-      "disc": "Описание c6-f1-n110",
+      "disc": "Описание gym-f1-n11",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -171,11 +166,11 @@
         "website": ""
       }
     },
-    "c6-f1-n108": {
-      "id": "c6-f1-n108",
-      "name": "Аудитория 108",
+    "gym-f1-n6": {
+      "id": "gym-f1-n6",
+      "name": "Название gym-f1-n6",
       "action": "info",
-      "disc": "Описание c6-f1-n108",
+      "disc": "Описание gym-f1-n6",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -184,11 +179,11 @@
         "website": ""
       }
     },
-    "c6-f1-n106": {
-      "id": "c6-f1-n106",
-      "name": "Аудитория 106",
+    "gym-f1-n?_2": {
+      "id": "gym-f1-n?_2",
+      "name": "Название gym-f1-n?_2",
       "action": "info",
-      "disc": "Описание c6-f1-n106",
+      "disc": "Описание gym-f1-n?_2",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -197,11 +192,11 @@
         "website": ""
       }
     },
-    "c6-f1-n101": {
-      "id": "c6-f1-n101",
-      "name": "Аудитория 101",
+    "gym-f1-n9": {
+      "id": "gym-f1-n9",
+      "name": "Название gym-f1-n9",
       "action": "info",
-      "disc": "Описание c6-f1-n101",
+      "disc": "Описание gym-f1-n9",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -210,11 +205,11 @@
         "website": ""
       }
     },
-    "c6-f1-n103": {
-      "id": "c6-f1-n103",
-      "name": "Аудитория 103",
+    "gym-f1-n8": {
+      "id": "gym-f1-n8",
+      "name": "Название gym-f1-n8",
       "action": "info",
-      "disc": "Описание c6-f1-n103",
+      "disc": "Описание gym-f1-n8",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -223,11 +218,11 @@
         "website": ""
       }
     },
-    "c6-f1-n111": {
-      "id": "c6-f1-n111",
-      "name": "Аудитория 111",
+    "gym-f1-wc1": {
+      "id": "gym-f1-wc1",
+      "name": "Название gym-f1-wc1",
       "action": "info",
-      "disc": "Описание c6-f1-n111",
+      "disc": "Описание gym-f1-wc1",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -236,11 +231,11 @@
         "website": ""
       }
     },
-    "c6-f1-n109": {
-      "id": "c6-f1-n109",
-      "name": "Аудитория 109",
+    "gym-f1-wc2": {
+      "id": "gym-f1-wc2",
+      "name": "Название gym-f1-wc2",
       "action": "info",
-      "disc": "Описание c6-f1-n109",
+      "disc": "Описание gym-f1-wc2",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -249,11 +244,11 @@
         "website": ""
       }
     },
-    "c6-f1-n107": {
-      "id": "c6-f1-n107",
-      "name": "Аудитория 107",
+    "gym-f1-n5": {
+      "id": "gym-f1-n5",
+      "name": "Название gym-f1-n5",
       "action": "info",
-      "disc": "Описание c6-f1-n107",
+      "disc": "Описание gym-f1-n5",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -262,11 +257,11 @@
         "website": ""
       }
     },
-    "c6-f1-n105": {
-      "id": "c6-f1-n105",
-      "name": "Аудитория 105",
+    "gym-f1-n4": {
+      "id": "gym-f1-n4",
+      "name": "Название gym-f1-n4",
       "action": "info",
-      "disc": "Описание c6-f1-n105",
+      "disc": "Описание gym-f1-n4",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -275,11 +270,11 @@
         "website": ""
       }
     },
-    "c6-f1-wc1": {
-      "id": "c6-f1-wc1",
-      "name": "Название c6-f1-wc1",
+    "gym-f1-n3": {
+      "id": "gym-f1-n3",
+      "name": "Название gym-f1-n3",
       "action": "info",
-      "disc": "Описание c6-f1-wc1",
+      "disc": "Описание gym-f1-n3",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -288,11 +283,11 @@
         "website": ""
       }
     },
-    "c6-f1-wc1_2": {
-      "id": "c6-f1-wc1_2",
-      "name": "Название c6-f1-wc1_2",
+    "gym-f1-n2": {
+      "id": "gym-f1-n2",
+      "name": "Название gym-f1-n2",
       "action": "info",
-      "disc": "Описание c6-f1-wc1_2",
+      "disc": "Описание gym-f1-n2",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -301,11 +296,11 @@
         "website": ""
       }
     },
-    "c6-f1-cloakroom1": {
-      "id": "c6-f1-cloakroom1",
-      "name": "Название c6-f1-cloakroom1",
+    "gym-f1-n?_3": {
+      "id": "gym-f1-n?_3",
+      "name": "Название gym-f1-n?_3",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom1",
+      "disc": "Описание gym-f1-n?_3",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -314,11 +309,11 @@
         "website": ""
       }
     },
-    "c6-f1-security": {
-      "id": "c6-f1-security",
-      "name": "Название c6-f1-security",
+    "gym-f1-n21": {
+      "id": "gym-f1-n21",
+      "name": "Название gym-f1-n21",
       "action": "info",
-      "disc": "Описание c6-f1-security",
+      "disc": "Описание gym-f1-n21",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,11 +322,11 @@
         "website": ""
       }
     },
-    "c6-f1-cloakroom2": {
-      "id": "c6-f1-cloakroom2",
-      "name": "Название c6-f1-cloakroom2",
+    "gym-f1-n15Ñ": {
+      "id": "gym-f1-n15Ñ",
+      "name": "Название gym-f1-n15Ñ",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom2",
+      "disc": "Описание gym-f1-n15Ñ",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -340,11 +335,11 @@
         "website": ""
       }
     },
-    "c6-f1-cloakroom3": {
-      "id": "c6-f1-cloakroom3",
-      "name": "Название c6-f1-cloakroom3",
+    "gym-f1-n25": {
+      "id": "gym-f1-n25",
+      "name": "Название gym-f1-n25",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom3",
+      "disc": "Описание gym-f1-n25",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -353,11 +348,11 @@
         "website": ""
       }
     },
-    "c6-f1-elevator1": {
-      "id": "c6-f1-elevator1",
-      "name": "Название c6-f1-elevator1",
+    "gym-f1-z2": {
+      "id": "gym-f1-z2",
+      "name": "Название gym-f1-z2",
       "action": "info",
-      "disc": "Описание c6-f1-elevator1",
+      "disc": "Описание gym-f1-z2",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -366,11 +361,11 @@
         "website": ""
       }
     },
-    "c6-f1-elevator2": {
-      "id": "c6-f1-elevator2",
-      "name": "Название c6-f1-elevator2",
+    "gym-f1-z1": {
+      "id": "gym-f1-z1",
+      "name": "Название gym-f1-z1",
       "action": "info",
-      "disc": "Описание c6-f1-elevator2",
+      "disc": "Описание gym-f1-z1",
       "additional": {
         "phone": "",
         "responsible": "",

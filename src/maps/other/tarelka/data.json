@@ -1,0 +1,22 @@
+{
+  "config": {
+    "mapName": "tarelka"
+  },
+  "items": {
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "tarelka-foe"
+    },
+    "transition_2": {
+      "id": "transition_2",
+      "action": "move",
+      "direction": "tarelka-foe"
+    },
+    "transition_3": {
+      "id": "transition_3",
+      "action": "move",
+      "direction": "tarelka-foe"
+    }
+  }
+}

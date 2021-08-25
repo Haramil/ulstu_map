@@ -16,7 +16,7 @@
     "transition": {
       "id": "transition",
       "action": "move",
-      "direction": "c3-f2-1"
+      "direction": "gym-f1"
     },
     "transition_2": {
       "id": "transition_2",

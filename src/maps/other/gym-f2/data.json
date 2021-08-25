@@ -1,0 +1,90 @@
+{
+  "config": {
+    "mapName": "gym-f2"
+  },
+  "items": {
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "gym-f1"
+    },
+    "gym-f2-33": {
+      "id": "gym-f2-33",
+      "name": "Название gym-f2-33",
+      "action": "info",
+      "disc": "Описание gym-f2-33",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "gym-f2-30": {
+      "id": "gym-f2-30",
+      "name": "Название gym-f2-30",
+      "action": "info",
+      "disc": "Описание gym-f2-30",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "gym-f2-?": {
+      "id": "gym-f2-?",
+      "name": "Название gym-f2-?",
+      "action": "info",
+      "disc": "Описание gym-f2-?",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "gym-f2-zk": {
+      "id": "gym-f2-zk",
+      "name": "Название gym-f2-zk",
+      "action": "info",
+      "disc": "Описание gym-f2-zk",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "gym-f2-34": {
+      "id": "gym-f2-34",
+      "name": "Название gym-f2-34",
+      "action": "info",
+      "disc": "Описание gym-f2-34",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "gym-f2-tr": {
+      "id": "gym-f2-tr",
+      "name": "Название gym-f2-tr",
+      "action": "info",
+      "disc": "Описание gym-f2-tr",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    }
+  }
+}

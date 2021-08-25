@@ -5,33 +5,35 @@
   "items": {
     "c-n1": {
       "id": "c-n1",
-      "name": "Название 1",
-      "action": "info",
-      "disc": "Описание 1"
+      "name": "Учебная библиотека",
+      "action": "move_info",
+      "disc": "Описание 1",
+      "direction": "c4-f1-1"
     },
     "c-n2": {
       "id": "c-n2",
-      "name": "Название 2",
-      "action": "info",
-      "disc": "Описание 2"
+      "name": "РЦНТК «Тарелка»",
+      "action": "move_info",
+      "disc": "Тарелка",
+      "direction": "tarelka-foe"
     },
     "c-n3": {
       "id": "c-n3",
-      "name": "Название 3",
+      "name": "Главный корпус (№6)",
       "action": "move_info",
       "disc": "Описание 3",
       "direction": "c6-f1"
     },
     "c-n4": {
       "id": "c-n4",
-      "name": "Название 4",
+      "name": "Ауд. 1-5",
       "action": "move_info",
       "disc": "Описание 4",
       "direction": "c3-cr-f1"
     },
     "c-n5": {
       "id": "c-n5",
-      "name": "Название 5",
+      "name": "Корпус №3",
       "action": "move_info",
       "disc": "Это очень большое описание данного объекта. Оно такое большое, что мне пришлось даже писать второе предложение.",
       "direction": "c3-f1",
@@ -43,15 +45,9 @@
         "website": "https://ulstu.ru/"
       }
     },
-    "c-n6": {
-      "id": "c-n6",
-      "name": "Название 6",
-      "action": "info",
-      "disc": "Описание 6"
-    },
     "c-n7": {
       "id": "c-n7",
-      "name": "Название 7",
+      "name": "Корпус №5",
       "action": "move_info",
       "disc": "Описание 7",
       "direction": "c5-f1",
@@ -65,7 +61,7 @@
     },
     "c-n8": {
       "id": "c-n8",
-      "name": "Название 8",
+      "name": "Корпус №4",
       "action": "move_info",
       "disc": "Описание 8",
       "direction": "c4-f1",
@@ -79,9 +75,10 @@
     },
     "c-n9": {
       "id": "c-n9",
-      "name": "Название 9",
-      "action": "info",
+      "name": "«Старый» спортзал",
+      "action": "move_info",
       "disc": "Описание 9",
+      "direction": "gym-f1",
       "additional": {
         "phone": "79999999999",
         "responsible": "Петренко А. В.",
@@ -92,7 +89,7 @@
     },
     "c-n10": {
       "id": "c-n10",
-      "name": "Название 10",
+      "name": "Точка кипения УлГТУ",
       "action": "info",
       "disc": "Описание 10",
       "additional": {
@@ -105,7 +102,7 @@
     },
     "c-n11": {
       "id": "c-n11",
-      "name": "Название 11",
+      "name": "Кафе «Зеленый остров»",
       "action": "info",
       "disc": "Описание 11",
       "additional": {
@@ -118,7 +115,7 @@
     },
     "c-n12": {
       "id": "c-n12",
-      "name": "Название 12",
+      "name": "Общежитие №6",
       "action": "info",
       "disc": "Описание 12",
       "additional": {
@@ -131,7 +128,7 @@
     },
     "c-n13": {
       "id": "c-n13",
-      "name": "Название 13",
+      "name": "Общежитие №3",
       "action": "info",
       "disc": "Описание 13",
       "additional": {
@@ -144,7 +141,7 @@
     },
     "c-n14": {
       "id": "c-n14",
-      "name": "Название 14",
+      "name": "Общежитие №1",
       "action": "info",
       "disc": "Описание 14",
       "additional": {
@@ -157,7 +154,7 @@
     },
     "c-n15": {
       "id": "c-n15",
-      "name": "Название 15",
+      "name": "Общежитие №2, ОЦ «Пирамида»",
       "action": "info",
       "disc": "Описание 15",
       "additional": {
@@ -170,7 +167,7 @@
     },
     "c-n16": {
       "id": "c-n16",
-      "name": "Название 16",
+      "name": "РЦПИМ",
       "action": "info",
       "disc": "Описание 16",
       "additional": {
@@ -181,35 +178,9 @@
         "website": "https://ulstu.ru/"
       }
     },
-    "c-n17": {
-      "id": "c-n17",
-      "name": "Название 17",
-      "action": "info",
-      "disc": "Описание 17",
-      "additional": {
-        "phone": "79999999999",
-        "responsible": "Петренко А. В.",
-        "workingHours": "08:00 - 09:00",
-        "email": "ulstumail@gmail.com",
-        "website": "https://ulstu.ru/"
-      }
-    },
-    "c-n18": {
-      "id": "c-n18",
-      "name": "Название 18",
-      "action": "info",
-      "disc": "Описание 18",
-      "additional": {
-        "phone": "79999999999",
-        "responsible": "Петренко А. В.",
-        "workingHours": "08:00 - 09:00",
-        "email": "ulstumail@gmail.com",
-        "website": "https://ulstu.ru/"
-      }
-    },
     "c-n19": {
       "id": "c-n19",
-      "name": "Название 19",
+      "name": "Бассейн «Северная волна»",
       "action": "info",
       "disc": "Описание 19",
       "additional": {
@@ -222,9 +193,10 @@
     },
     "c-n20": {
       "id": "c-n20",
-      "name": "Название 20",
-      "action": "info",
+      "name": "«Новый» спортзал",
+      "action": "move_info",
       "disc": "Описание 20",
+      "direction": "gym-c2",
       "additional": {
         "phone": "79999999999",
         "responsible": "Петренко А. В.",
@@ -235,7 +207,7 @@
     },
     "c-n21": {
       "id": "c-n21",
-      "name": "Название 21",
+      "name": "Корпус №2",
       "action": "move_info",
       "disc": "Описание 21",
       "direction": "c2-f1",
@@ -249,7 +221,7 @@
     },
     "c-n22": {
       "id": "c-n22",
-      "name": "Название 21",
+      "name": "ИАТУ",
       "action": "info",
       "disc": "Описание 21",
       "additional": {
@@ -262,7 +234,7 @@
     },
     "c-n23": {
       "id": "c-n23",
-      "name": "Название 21",
+      "name": "1-й корпус УлГТУ",
       "action": "move_info",
       "disc": "Описание 21",
       "direction": "c1-f1a",

@@ -3,6 +3,11 @@
     "mapName": "c1-f4"
   },
   "items": {
+    "stairs": {
+      "id": "stairs",
+      "action": "move",
+      "direction": "c1-f3"
+    },
     "c1-f4-staff-only": {
       "id": "c1-f4-staff-only",
       "name": "Название 1",

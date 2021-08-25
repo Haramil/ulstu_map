@@ -12,6 +12,180 @@
       "id": "stairs_2",
       "action": "move",
       "direction": "c5-f3"
+    },
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "c4-f3"
+    },
+    "c5-f4-n42": {
+      "id": "c5-f4-n42",
+      "name": "Аудитория 42",
+      "action": "info",
+      "disc": "Описание c5-f4-n42",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n44": {
+      "id": "c5-f4-n44",
+      "name": "Аудитория 44",
+      "action": "info",
+      "disc": "Описание c5-f4-n44",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n45": {
+      "id": "c5-f4-n45",
+      "name": "Аудитория 45",
+      "action": "info",
+      "disc": "Описание c5-f4-n45",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n43a": {
+      "id": "c5-f4-n43a",
+      "name": "Аудитория 43a",
+      "action": "info",
+      "disc": "Описание c5-f4-n43a",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n43": {
+      "id": "c5-f4-n43",
+      "name": "Аудитория 43",
+      "action": "info",
+      "disc": "Описание c5-f4-n43",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-sp2": {
+      "id": "c5-f4-sp2",
+      "name": "Название c5-f4-sp2",
+      "action": "info",
+      "disc": "Описание c5-f4-sp2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n46": {
+      "id": "c5-f4-n46",
+      "name": "Аудитория 46",
+      "action": "info",
+      "disc": "Описание c5-f4-n46",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n49": {
+      "id": "c5-f4-n49",
+      "name": "Аудитория 49",
+      "action": "info",
+      "disc": "Описание c5-f4-n49",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n47": {
+      "id": "c5-f4-n47",
+      "name": "Аудитория 47",
+      "action": "info",
+      "disc": "Описание c5-f4-n47",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n48": {
+      "id": "c5-f4-n48",
+      "name": "Аудитория 48",
+      "action": "info",
+      "disc": "Описание c5-f4-n48",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-sp1": {
+      "id": "c5-f4-sp1",
+      "name": "Название c5-f4-sp1",
+      "action": "info",
+      "disc": "Описание c5-f4-sp1",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-wc": {
+      "id": "c5-f4-wc",
+      "name": "Название c5-f4-wc",
+      "action": "info",
+      "disc": "Описание c5-f4-wc",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n41": {
+      "id": "c5-f4-n41",
+      "name": "Аудитория 41",
+      "action": "info",
+      "disc": "Описание c5-f4-n41",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

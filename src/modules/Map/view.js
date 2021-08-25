@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { MapInteractionCSS } from 'react-map-interaction';
 
 import ModalContainer from 'components/Common/ModalContainer';
@@ -46,6 +46,14 @@ import C6F7 from 'maps/c6/c6-f7';
 import C6F8 from 'maps/c6/c6-f8';
 import C6F81 from 'maps/c6/c6-f8-1';
 
+import C4F11 from 'maps/other/c4-f1-1';
+import C4F12 from 'maps/other/c4-f1-2';
+import GYMC1 from 'maps/other/gym-c2';
+import GYMF1 from 'maps/other/gym-f1';
+import GYMF2 from 'maps/other/gym-f2';
+import TARELKA from 'maps/other/tarelka';
+import TARELKAFOE from 'maps/other/tarelka-foe';
+
 import styles from './styles.scss';
 
 const minScale = 0.3;
@@ -88,6 +96,13 @@ const mapsVocabulary = {
   'c6-f7': <C6F7 />,
   'c6-f8': <C6F8 />,
   'c6-f8-1': <C6F81 />,
+  'c4-f1-1': <C4F11 />,
+  'c4-f1-2': <C4F12 />,
+  'gym-c2': <GYMC1 />,
+  'gym-f1': <GYMF1 />,
+  'gym-f2': <GYMF2 />,
+  tarelka: <TARELKA />,
+  'tarelka-foe': <TARELKAFOE />,
 };
 
 const View = ({

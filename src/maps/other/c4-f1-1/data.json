@@ -1,0 +1,27 @@
+{
+  "config": {
+    "mapName": "c4-f1-1"
+  },
+  "items": {
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "tarelka-foe"
+    },
+    "transition_2": {
+      "id": "transition_2",
+      "action": "move",
+      "direction": "c4-f1-2"
+    },
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "c4-f1-2"
+    },
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "c4-f1-2"
+    }
+  }
+}

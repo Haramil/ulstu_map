@@ -15,29 +15,13 @@
     },
     "transition": {
       "id": "transition",
-      "name": "Название transition",
-      "action": "info",
-      "disc": "Описание transition",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
+      "action": "move",
+      "direction": "c3-f2-1"
     },
     "transition_2": {
       "id": "transition_2",
-      "name": "Название transition_2",
-      "action": "info",
-      "disc": "Описание transition_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
+      "action": "move",
+      "direction": "c5-f1"
     },
     "numbers": {
       "id": "numbers",

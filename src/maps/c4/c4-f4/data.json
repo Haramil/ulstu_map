@@ -7,6 +7,201 @@
       "id": "stairs",
       "action": "move",
       "direction": "c4-f3"
+    },
+    "c4-f4-n410": {
+      "id": "c4-f4-n410",
+      "name": "Аудитория 410",
+      "action": "info",
+      "disc": "Описание c4-f4-n410",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n409": {
+      "id": "c4-f4-n409",
+      "name": "Аудитория 409",
+      "action": "info",
+      "disc": "Описание c4-f4-n409",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n408": {
+      "id": "c4-f4-n408",
+      "name": "Аудитория 408",
+      "action": "info",
+      "disc": "Описание c4-f4-n408",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n404": {
+      "id": "c4-f4-n404",
+      "name": "Аудитория 404",
+      "action": "info",
+      "disc": "Описание c4-f4-n404",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n411": {
+      "id": "c4-f4-n411",
+      "name": "Аудитория 411",
+      "action": "info",
+      "disc": "Описание c4-f4-n411",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n412": {
+      "id": "c4-f4-n412",
+      "name": "Аудитория 412",
+      "action": "info",
+      "disc": "Описание c4-f4-n412",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n405": {
+      "id": "c4-f4-n405",
+      "name": "Аудитория 405",
+      "action": "info",
+      "disc": "Описание c4-f4-n405",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n413": {
+      "id": "c4-f4-n413",
+      "name": "Аудитория 413",
+      "action": "info",
+      "disc": "Описание c4-f4-n413",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-chancellery": {
+      "id": "c4-f4-chancellery",
+      "name": "Название c4-f4-chancellery",
+      "action": "info",
+      "disc": "Описание c4-f4-chancellery",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n401": {
+      "id": "c4-f4-n401",
+      "name": "Аудитория 401",
+      "action": "info",
+      "disc": "Описание c4-f4-n401",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n403": {
+      "id": "c4-f4-n403",
+      "name": "Аудитория 403",
+      "action": "info",
+      "disc": "Описание c4-f4-n403",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n403a": {
+      "id": "c4-f4-n403a",
+      "name": "Аудитория 403a",
+      "action": "info",
+      "disc": "Описание c4-f4-n403a",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-n402": {
+      "id": "c4-f4-n402",
+      "name": "Аудитория 402",
+      "action": "info",
+      "disc": "Описание c4-f4-n402",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-cp2": {
+      "id": "c4-f4-cp2",
+      "name": "Название c4-f4-cp2",
+      "action": "info",
+      "disc": "Описание c4-f4-cp2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f4-wc": {
+      "id": "c4-f4-wc",
+      "name": "Название c4-f4-wc",
+      "action": "info",
+      "disc": "Описание c4-f4-wc",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

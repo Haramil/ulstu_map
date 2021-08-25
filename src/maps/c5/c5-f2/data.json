@@ -12,6 +12,110 @@
       "id": "stairs_2",
       "action": "move",
       "direction": "c5-f3"
+    },
+    "c5-f2-n22": {
+      "id": "c5-f2-n22",
+      "name": "Аудитория 22",
+      "action": "info",
+      "disc": "Описание c5-f2-n22",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n23": {
+      "id": "c5-f2-n23",
+      "name": "Аудитория 23",
+      "action": "info",
+      "disc": "Описание c5-f2-n23",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n24": {
+      "id": "c5-f2-n24",
+      "name": "Аудитория 24",
+      "action": "info",
+      "disc": "Описание c5-f2-n24",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n25": {
+      "id": "c5-f2-n25",
+      "name": "Аудитория 25",
+      "action": "info",
+      "disc": "Описание c5-f2-n25",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n26": {
+      "id": "c5-f2-n26",
+      "name": "Аудитория 26",
+      "action": "info",
+      "disc": "Описание c5-f2-n26",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n27": {
+      "id": "c5-f2-n27",
+      "name": "Аудитория 27",
+      "action": "info",
+      "disc": "Описание c5-f2-n27",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-storeroom": {
+      "id": "c5-f2-storeroom",
+      "name": "Название c5-f2-storeroom",
+      "action": "info",
+      "disc": "Описание c5-f2-storeroom",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f2-n21": {
+      "id": "c5-f2-n21",
+      "name": "Аудитория 21",
+      "action": "info",
+      "disc": "Описание c5-f2-n21",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

@@ -18,8 +18,11 @@ const getCorpusItems = ({ mapData, setActiveElement, setDirectedElementId, filte
     : Object.values(mapData);
 
   const items = filteredItems.map((mapItem) => {
-    const { id, name, subdivision } = mapItem;
+    const { id, name, subdivision, action } = mapItem;
     const backgroundColor = getBackgroundColor(mapConfig, subdivision);
+    if (action === 'move') {
+      return null;
+    }
 
     return (
       <div

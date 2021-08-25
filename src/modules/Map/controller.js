@@ -94,6 +94,11 @@ const Controller = ({
     setActiveElement(mapElementId);
   };
 
+  // const getDir = (id) => {
+  //   const domEl = document.getElementById(id);
+
+  // };
+
   const moveHandler = (event) => {
     const {
       target: {
@@ -126,6 +131,7 @@ const Controller = ({
       } else {
         mapElement.addEventListener('click', handler);
       }
+
       mapElement.classList.add(styles.interactiveObject);
       if (subdivisions && subdivision) {
         mapElement.style.fill = subdivisions[subdivision].color;

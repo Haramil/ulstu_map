@@ -17,6 +17,162 @@
       "id": "enter",
       "action": "move",
       "direction": "global"
+    },
+    "security": {
+      "id": "security",
+      "name": "Название security",
+      "action": "info",
+      "disc": "Описание security",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "coffee": {
+      "id": "coffee",
+      "name": "Название coffee",
+      "action": "info",
+      "disc": "Описание coffee",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n12": {
+      "id": "c5-f1-n12",
+      "name": "Аудитория 12",
+      "action": "info",
+      "disc": "Описание c5-f1-n12",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n15": {
+      "id": "c5-f1-n15",
+      "name": "Аудитория 15",
+      "action": "info",
+      "disc": "Описание c5-f1-n15",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n13": {
+      "id": "c5-f1-n13",
+      "name": "Аудитория 13",
+      "action": "info",
+      "disc": "Описание c5-f1-n13",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-storeroom": {
+      "id": "c5-f1-storeroom",
+      "name": "Название c5-f1-storeroom",
+      "action": "info",
+      "disc": "Описание c5-f1-storeroom",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n15_2": {
+      "id": "c5-f1-n15_2",
+      "name": "Аудитория 15_2",
+      "action": "info",
+      "disc": "Описание c5-f1-n15_2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n16": {
+      "id": "c5-f1-n16",
+      "name": "Аудитория 16",
+      "action": "info",
+      "disc": "Описание c5-f1-n16",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n17": {
+      "id": "c5-f1-n17",
+      "name": "Аудитория 17",
+      "action": "info",
+      "disc": "Описание c5-f1-n17",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-storeroom_2": {
+      "id": "c5-f1-storeroom_2",
+      "name": "Название c5-f1-storeroom_2",
+      "action": "info",
+      "disc": "Описание c5-f1-storeroom_2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-wc": {
+      "id": "c5-f1-wc",
+      "name": "Название c5-f1-wc",
+      "action": "info",
+      "disc": "Описание c5-f1-wc",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f1-n11": {
+      "id": "c5-f1-n11",
+      "name": "Аудитория 11",
+      "action": "info",
+      "disc": "Описание c5-f1-n11",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }
