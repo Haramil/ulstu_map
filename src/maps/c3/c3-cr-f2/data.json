@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "c3-f2-1"
+    "mapName": "c3-cr-f2",
+    "prevMap": "c3-cr-f1",
+    "nextMap": "",
+    "floorName": 2
   },
   "items": {
     "stairs": {
@@ -12,11 +15,6 @@
       "id": "stairs_2",
       "action": "move",
       "direction": "c3-cr-f1"
-    },
-    "stairs_3": {
-      "id": "stairs_3",
-      "action": "move",
-      "direction": "c3-f1-1"
     },
     "transition": {
       "id": "transition",

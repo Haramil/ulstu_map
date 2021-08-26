@@ -14,7 +14,10 @@
         "name": "ФИСТ2",
         "color": "#6D70DD"
       }
-    }
+    },
+    "prevMap": "c1-f0",
+    "nextMap": "c1-f1a",
+    "floorName": 1
   },
   "items": {
     "c1-f1-n108": {

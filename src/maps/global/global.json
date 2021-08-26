@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "global"
+    "mapName": "global",
+    "prevMap": "",
+    "nextMap": "",
+    "floorName": 1
   },
   "items": {
     "c-n1": {
@@ -222,8 +225,9 @@
     "c-n22": {
       "id": "c-n22",
       "name": "ИАТУ",
-      "action": "info",
+      "action": "move_info",
       "disc": "Описание 21",
+      "direction": "iatu-f1",
       "additional": {
         "phone": "79999999999",
         "responsible": "Петренко А. В.",

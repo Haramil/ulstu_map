@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "c6-f1"
+    "mapName": "c6-f1",
+    "prevMap": "c6-f0",
+    "nextMap": "c6-f2",
+    "floorName": 1
   },
   "items": {
     "enter": {
@@ -26,7 +29,7 @@
     "transition_2": {
       "id": "transition_2",
       "action": "move",
-      "direction": "c3-f2-1"
+      "direction": "c3-cr-f2"
     },
     "numbers": {
       "id": "numbers",

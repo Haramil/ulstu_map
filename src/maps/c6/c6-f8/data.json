@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "c6-f8"
+    "mapName": "c6-f8",
+    "prevMap": "c6-f7",
+    "nextMap": "c6-f9",
+    "floorName": 8
   },
   "items": {
     "stairs": {

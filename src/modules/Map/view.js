@@ -2,6 +2,7 @@ import React from 'react';
 import { MapInteractionCSS } from 'react-map-interaction';
 
 import ModalContainer from 'components/Common/ModalContainer';
+import FloorsButton from 'components/Common/FloorsButton';
 
 import GlobalMap from 'maps/global';
 
@@ -19,9 +20,8 @@ import C2F4 from 'maps/c2/c2-f4';
 
 import C3CRF1 from 'maps/c3/c3-cr-f1';
 import C3F1 from 'maps/c3/c3-f1';
-import C3F11 from 'maps/c3/c3-f1-1';
 import C3F2 from 'maps/c3/c3-f2';
-import C3F21 from 'maps/c3/c3-f2-1';
+import C3F21 from 'maps/c3/c3-cr-f2';
 import C3F3 from 'maps/c3/c3-f3';
 import C3F4 from 'maps/c3/c3-f4';
 
@@ -54,6 +54,11 @@ import GYMF2 from 'maps/other/gym-f2';
 import TARELKA from 'maps/other/tarelka';
 import TARELKAFOE from 'maps/other/tarelka-foe';
 
+import IatuF1 from 'maps/iatu/iatu-f1';
+import IatuF2 from 'maps/iatu/iatu-f2';
+import IatuF3 from 'maps/iatu/iatu-f3';
+import IatuF4 from 'maps/iatu/iatu-f4';
+
 import styles from './styles.scss';
 
 const minScale = 0.3;
@@ -73,9 +78,8 @@ const mapsVocabulary = {
   'c2-f4': <C2F4 />,
   'c3-cr-f1': <C3CRF1 />,
   'c3-f1': <C3F1 />,
-  'c3-f1-1': <C3F11 />,
   'c3-f2': <C3F2 />,
-  'c3-f2-1': <C3F21 />,
+  'c3-cr-f2': <C3F21 />,
   'c3-f3': <C3F3 />,
   'c3-f4': <C3F4 />,
   'c4-f1': <C4F1 />,
@@ -103,6 +107,10 @@ const mapsVocabulary = {
   'gym-f2': <GYMF2 />,
   tarelka: <TARELKA />,
   'tarelka-foe': <TARELKAFOE />,
+  'iatu-f1': <IatuF1 />,
+  'iatu-f2': <IatuF2 />,
+  'iatu-f3': <IatuF3 />,
+  'iatu-f4': <IatuF4 />,
 };
 
 const View = ({
@@ -132,6 +140,7 @@ const View = ({
       </div>
     </MapInteractionCSS>
     <ModalContainer mapContainer={mapContainerRef.current} />
+    <FloorsButton />
   </div>
 );
 export default View;

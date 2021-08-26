@@ -8,12 +8,13 @@ import c4 from 'maps/c4';
 import c5 from 'maps/c5';
 import c6 from 'maps/c6';
 import other from 'maps/other';
+import iatu from 'maps/iatu';
 
 const initialState = {
   activeMapName: 'global',
   activeElement: null,
   activeMapData: global.items,
-  activeMapConfig: null,
+  activeMapConfig: global.config,
   directedElementId: null,
   filter: null,
   mapScale: null,
@@ -26,6 +27,7 @@ const initialState = {
     ...c5,
     ...c6,
     ...other,
+    ...iatu,
   },
 };
 

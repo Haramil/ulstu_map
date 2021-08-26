@@ -1,0 +1,56 @@
+.buttonsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin: 10px;
+    right: 0;
+    top: 0;
+
+    & > button {
+        outline: none;
+        width: 40px;
+        height: 40px;
+        border: 1px solid #666;
+        cursor: pointer;
+
+        &:nth-child(1) {
+            border-radius: 5px 5px 0 0;
+
+            & > svg {
+                transform: rotate(180deg);
+            }
+        }
+
+        &:nth-child(2) {
+            border-radius: 0;
+            color: #666;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: default;
+
+            &:hover {
+                background-color: #efefef;
+            }
+        }
+
+        &:nth-child(3) {
+            border-radius: 0 0 5px 5px;
+        }
+
+        & svg {
+            width: 15px;
+            height: 15px;
+        }
+
+        &:hover {
+            background-color: #ffffff;
+        }
+
+        &:disabled {
+            cursor: not-allowed;
+            background-color: #a5a5a5;
+        }
+    }
+}

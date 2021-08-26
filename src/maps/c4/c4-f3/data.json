@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "c4-f3"
+    "mapName": "c4-f3",
+    "prevMap": "c4-f2",
+    "nextMap": "c4-f4",
+    "floorName": 3
   },
   "items": {
     "stairs": {

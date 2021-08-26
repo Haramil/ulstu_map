@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "tarelka-foe"
+    "mapName": "tarelka-foe",
+    "prevMap": "",
+    "nextMap": "tarelka",
+    "floorName": 1
   },
   "items": {
     "transition": {

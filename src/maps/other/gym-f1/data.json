@@ -1,6 +1,9 @@
 {
   "config": {
-    "mapName": "gym-f1"
+    "mapName": "gym-f1",
+    "prevMap": "",
+    "nextMap": "",
+    "floorName": 1
   },
   "items": {
     "stairs up": {
