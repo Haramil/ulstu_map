@@ -1,11 +1,22 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "iatu-f4",
     "prevMap": "iatu-f3",
     "nextMap": "",
     "floorName": 4
   },
   "items": {
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "iatu-f3"
+    },
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "iatu-f3"
+    },
     "f4-wc": {
       "id": "f4-wc",
       "name": "Название f4-wc",

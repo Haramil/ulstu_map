@@ -5,7 +5,7 @@ import styles from './styles.scss';
 
 const View = ({ className, onClick }) => (
   <button className={cn(styles.button, className)} onClick={onClick}>
-    Перейти
+    Схема
   </button>
 );
 

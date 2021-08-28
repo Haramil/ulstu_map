@@ -1,5 +1,6 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c3-f1",
     "prevMap": "",
     "nextMap": "c3-f2",
@@ -24,7 +25,7 @@
     "transition_2": {
       "id": "transition_2",
       "action": "move",
-      "direction": "c3-cr-f2"
+      "direction": "c3-cr-f1"
     },
     "numbers": {
       "id": "numbers",

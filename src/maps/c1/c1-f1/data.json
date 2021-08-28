@@ -1,5 +1,6 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c1-f1",
     "subdivisions": {
       "FIST": {
@@ -20,6 +21,51 @@
     "floorName": 1
   },
   "items": {
+    "stairs": {
+      "id": "stairs",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "enter": {
+      "id": "enter",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "enter_2": {
+      "id": "enter_2",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "stairs_2": {
+      "id": "stairs_2",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "stairs_3": {
+      "id": "stairs_3",
+      "action": "move",
+      "direction": "c1-f1a"
+    },
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "stairs_4": {
+      "id": "stairs_4",
+      "action": "move",
+      "direction": "c1-f0"
+    },
+    "stairs_5": {
+      "id": "stairs_5",
+      "action": "move",
+      "direction": "global"
+    },
+    "stairs_6": {
+      "id": "stairs_6",
+      "action": "move",
+      "direction": "global"
+    },
     "c1-f1-n108": {
       "id": "c1-f1-n108",
       "name": "Название 1",
@@ -343,54 +389,6 @@
       "id": "c1-f1-n118",
       "name": "118",
       "action": "auditory",
-      "disc": "Описание 1"
-    },
-    "stairs": {
-      "id": "stairs_1",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
-      "disc": "Описание 1"
-    },
-    "stairs_2": {
-      "id": "stairs_2",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
-      "disc": "Описание 1"
-    },
-    "stairs_3": {
-      "id": "stairs_3",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
-      "disc": "Описание 1"
-    },
-    "stairs_4": {
-      "id": "stairs_4",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
-      "disc": "Описание 1"
-    },
-    "stairs_5": {
-      "id": "stairs_5",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
-      "disc": "Описание 1"
-    },
-    "stairs_6": {
-      "id": "stairs_6",
-      "name": "Название 1",
-      "action": "move",
-      "direction": "global",
-      "directionName": "Общая карта",
       "disc": "Описание 1"
     }
   }

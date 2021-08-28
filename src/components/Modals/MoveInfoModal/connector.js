@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 
-import { actions } from 'store/slice';
+import { actions } from 'store';
 
 import Controller from './controller';
 

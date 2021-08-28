@@ -61,6 +61,11 @@ label {
   height: 30px;
   width: 23px;
   padding-top: 3px;
+
+  & > svg {
+    width: 10px;
+    height: 10px;
+  }
 }
 
 .display {

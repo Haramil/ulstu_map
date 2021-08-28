@@ -1,5 +1,6 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c3-f3",
     "prevMap": "c3-f2",
     "nextMap": "c3-f4",

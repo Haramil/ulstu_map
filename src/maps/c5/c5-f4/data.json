@@ -1,9 +1,10 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c5-f4",
     "prevMap": "c5-f3",
     "nextMap": "",
-    "floorName": 1
+    "floorName": 4
   },
   "items": {
     "stairs": {
@@ -11,21 +12,11 @@
       "action": "move",
       "direction": "c5-f3"
     },
-    "stairs_2": {
-      "id": "stairs_2",
-      "action": "move",
-      "direction": "c5-f3"
-    },
-    "transition": {
-      "id": "transition",
-      "action": "move",
-      "direction": "c4-f3"
-    },
-    "c5-f4-n42": {
-      "id": "c5-f4-n42",
-      "name": "Аудитория 42",
+    "c5-f4-n410": {
+      "id": "c5-f4-n410",
+      "name": "Аудитория 410",
       "action": "info",
-      "disc": "Описание c5-f4-n42",
+      "disc": "Описание c5-f4-n410",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -34,11 +25,11 @@
         "website": ""
       }
     },
-    "c5-f4-n44": {
-      "id": "c5-f4-n44",
-      "name": "Аудитория 44",
+    "c5-f4-n409": {
+      "id": "c5-f4-n409",
+      "name": "Аудитория 409",
       "action": "info",
-      "disc": "Описание c5-f4-n44",
+      "disc": "Описание c5-f4-n409",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -47,11 +38,11 @@
         "website": ""
       }
     },
-    "c5-f4-n45": {
-      "id": "c5-f4-n45",
-      "name": "Аудитория 45",
+    "c5-f4-n408": {
+      "id": "c5-f4-n408",
+      "name": "Аудитория 408",
       "action": "info",
-      "disc": "Описание c5-f4-n45",
+      "disc": "Описание c5-f4-n408",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -60,11 +51,11 @@
         "website": ""
       }
     },
-    "c5-f4-n43a": {
-      "id": "c5-f4-n43a",
-      "name": "Аудитория 43a",
+    "c5-f4-n404": {
+      "id": "c5-f4-n404",
+      "name": "Аудитория 404",
       "action": "info",
-      "disc": "Описание c5-f4-n43a",
+      "disc": "Описание c5-f4-n404",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -73,11 +64,11 @@
         "website": ""
       }
     },
-    "c5-f4-n43": {
-      "id": "c5-f4-n43",
-      "name": "Аудитория 43",
+    "c5-f4-n411": {
+      "id": "c5-f4-n411",
+      "name": "Аудитория 411",
       "action": "info",
-      "disc": "Описание c5-f4-n43",
+      "disc": "Описание c5-f4-n411",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -86,11 +77,11 @@
         "website": ""
       }
     },
-    "c5-f4-sp2": {
-      "id": "c5-f4-sp2",
-      "name": "Название c5-f4-sp2",
+    "c5-f4-n412": {
+      "id": "c5-f4-n412",
+      "name": "Аудитория 412",
       "action": "info",
-      "disc": "Описание c5-f4-sp2",
+      "disc": "Описание c5-f4-n412",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -99,11 +90,11 @@
         "website": ""
       }
     },
-    "c5-f4-n46": {
-      "id": "c5-f4-n46",
-      "name": "Аудитория 46",
+    "c5-f4-n405": {
+      "id": "c5-f4-n405",
+      "name": "Аудитория 405",
       "action": "info",
-      "disc": "Описание c5-f4-n46",
+      "disc": "Описание c5-f4-n405",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -112,11 +103,11 @@
         "website": ""
       }
     },
-    "c5-f4-n49": {
-      "id": "c5-f4-n49",
-      "name": "Аудитория 49",
+    "c5-f4-n413": {
+      "id": "c5-f4-n413",
+      "name": "Аудитория 413",
       "action": "info",
-      "disc": "Описание c5-f4-n49",
+      "disc": "Описание c5-f4-n413",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -125,11 +116,11 @@
         "website": ""
       }
     },
-    "c5-f4-n47": {
-      "id": "c5-f4-n47",
-      "name": "Аудитория 47",
+    "c5-f4-chancellery": {
+      "id": "c5-f4-chancellery",
+      "name": "Название c5-f4-chancellery",
       "action": "info",
-      "disc": "Описание c5-f4-n47",
+      "disc": "Описание c5-f4-chancellery",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -138,11 +129,11 @@
         "website": ""
       }
     },
-    "c5-f4-n48": {
-      "id": "c5-f4-n48",
-      "name": "Аудитория 48",
+    "c5-f4-n401": {
+      "id": "c5-f4-n401",
+      "name": "Аудитория 401",
       "action": "info",
-      "disc": "Описание c5-f4-n48",
+      "disc": "Описание c5-f4-n401",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -151,11 +142,50 @@
         "website": ""
       }
     },
-    "c5-f4-sp1": {
-      "id": "c5-f4-sp1",
-      "name": "Название c5-f4-sp1",
+    "c5-f4-n403": {
+      "id": "c5-f4-n403",
+      "name": "Аудитория 403",
       "action": "info",
-      "disc": "Описание c5-f4-sp1",
+      "disc": "Описание c5-f4-n403",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n403a": {
+      "id": "c5-f4-n403a",
+      "name": "Аудитория 403a",
+      "action": "info",
+      "disc": "Описание c5-f4-n403a",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-n402": {
+      "id": "c5-f4-n402",
+      "name": "Аудитория 402",
+      "action": "info",
+      "disc": "Описание c5-f4-n402",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c5-f4-cp2": {
+      "id": "c5-f4-cp2",
+      "name": "Название c5-f4-cp2",
+      "action": "info",
+      "disc": "Описание c5-f4-cp2",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -169,19 +199,6 @@
       "name": "Название c5-f4-wc",
       "action": "info",
       "disc": "Описание c5-f4-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c5-f4-n41": {
-      "id": "c5-f4-n41",
-      "name": "Аудитория 41",
-      "action": "info",
-      "disc": "Описание c5-f4-n41",
       "additional": {
         "phone": "",
         "responsible": "",

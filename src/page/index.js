@@ -1,3 +1,3 @@
-import Component from './view';
+import Component from './controller';
 
 export default Component;

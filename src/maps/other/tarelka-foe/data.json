@@ -1,11 +1,17 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "tarelka-foe",
     "prevMap": "",
     "nextMap": "tarelka",
     "floorName": 1
   },
   "items": {
+    "enter": {
+      "id": "enter",
+      "action": "move",
+      "direction": "global"
+    },
     "transition": {
       "id": "transition",
       "action": "move",

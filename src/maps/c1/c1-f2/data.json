@@ -1,11 +1,22 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c1-f2",
     "prevMap": "c1-f1a",
     "nextMap": "c1-f3",
     "floorName": 2
   },
   "items": {
+    "transition": {
+      "id": "transition",
+      "action": "move",
+      "direction": "c1-f1a"
+    },
+    "transition_2": {
+      "id": "transition_2",
+      "action": "move",
+      "direction": "c1-f1a"
+    },
     "stairs_1": {
       "id": "stairs_1",
       "action": "move",
@@ -34,12 +45,12 @@
     "stairs_6": {
       "id": "stairs_6",
       "action": "move",
-      "direction": "c1-f3"
+      "direction": "c1-f1a"
     },
     "stairs_7": {
       "id": "stairs_7",
       "action": "move",
-      "direction": "c1-f3"
+      "direction": "c1-f1a"
     },
     "c1-f2-n215": {
       "id": "c1-f2-n215",

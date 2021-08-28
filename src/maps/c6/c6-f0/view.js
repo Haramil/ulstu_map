@@ -18,7 +18,7 @@ const View = () => (
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <g id="stairs">
+      <g id="stairs up">
         <rect id="Rectangle 18" x="740" y="139" width="30" height="30" rx="3" fill="#3377E4" />
         <path
           id="Vector 1"
@@ -33,8 +33,24 @@ const View = () => (
           strokeLinecap="round"
           strokeLinejoin="round"
         />
+        <path
+          id="Vector 3"
+          d="M755 143L760 144"
+          stroke="white"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          id="Vector 4"
+          d="M760.414 144.084L760 148"
+          stroke="white"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
       </g>
-      <g id="stairs_2">
+      <g id="stairs up_2">
         <rect id="Rectangle 18_2" x="247" y="325" width="30" height="30" rx="3" fill="#3377E4" />
         <path
           id="Vector 1_2"
@@ -44,6 +60,22 @@ const View = () => (
         <path
           id="Vector 2_2"
           d="M251.615 341.695L267.5 330"
+          stroke="white"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          id="Vector 3_2"
+          d="M262 329L267 330"
+          stroke="white"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        />
+        <path
+          id="Vector 4_2"
+          d="M267.414 330.084L267 334"
           stroke="white"
           strokeWidth="2"
           strokeLinecap="round"

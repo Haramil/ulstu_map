@@ -5,8 +5,7 @@ import { selectors, actions } from 'store';
 import View from './view';
 
 const mapStateToProps = (state) => ({
-  config: selectors.getActiveMapConfig(state),
-  mapName: selectors.getActiveMapName(state),
+  prevMapName: selectors.getPrevMapName(state),
 });
 
 const mapDispatchToProps = {

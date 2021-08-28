@@ -1,5 +1,6 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c3-cr-f2",
     "prevMap": "c3-cr-f1",
     "nextMap": "",
@@ -13,6 +14,11 @@
     },
     "stairs_2": {
       "id": "stairs_2",
+      "action": "move",
+      "direction": "c3-cr-f1"
+    },
+    "stairs_3": {
+      "id": "stairs_3",
       "action": "move",
       "direction": "c3-cr-f1"
     },

@@ -1,18 +1,24 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "c3-cr-f1",
     "prevMap": "",
     "nextMap": "c3-cr-f2",
     "floorName": 1
   },
   "items": {
-    "stairs": {
-      "id": "stairs",
+    "stairs up": {
+      "id": "stairs up",
       "action": "move",
       "direction": "c3-cr-f2"
     },
-    "stairs_2": {
-      "id": "stairs_2",
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "c3-cr-f2"
+    },
+    "stairs up_3": {
+      "id": "stairs up_3",
       "action": "move",
       "direction": "c3-cr-f2"
     },

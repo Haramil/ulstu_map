@@ -1,11 +1,37 @@
 {
   "config": {
+    "mapLabel": "c1-f0",
     "mapName": "iatu-f1",
     "prevMap": "",
     "nextMap": "iatu-f2",
     "floorName": 1
   },
   "items": {
+    "enter": {
+      "id": "enter",
+      "action": "move",
+      "direction": "global"
+    },
+    "enter_2": {
+      "id": "enter_2",
+      "action": "move",
+      "direction": "global"
+    },
+    "enter_3": {
+      "id": "enter_3",
+      "action": "move",
+      "direction": "global"
+    },
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "iatu-f2"
+    },
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "iatu-f2"
+    },
     "f1-wc": {
       "id": "f1-wc",
       "name": "Название f1-wc",

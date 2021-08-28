@@ -5,7 +5,7 @@ import View from './view';
 import styles from './styles.scss';
 
 const defaultScale = 0.4;
-const searchContainerWidth = 350;
+const searchContainerWidth = 300;
 
 const defaultMapParams = {
   scale: defaultScale,
@@ -83,6 +83,16 @@ const Controller = ({
   const mapContainerRef = useRef(null);
   const mapRef = useRef(null);
   const [mapParams, setMapParams] = useState(defaultMapParams);
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+
+  const getParentOfElement = (id) => {
+    const domEl = document.getElementById(id);
+    if (domEl.parentElement.nodeName === 'svg' || (mapData[id] && mapData[id].direction)) {
+      return id;
+    }
+
+    return getParentOfElement(domEl.parentElement.id);
+  };
 
   const handler = (event) => {
     const {
@@ -94,21 +104,30 @@ const Controller = ({
     setActiveElement(mapElementId);
   };
 
-  // const getDir = (id) => {
-  //   const domEl = document.getElementById(id);
-
-  // };
-
   const moveHandler = (event) => {
     const {
       target: {
         parentElement: { id: mapElementId },
       },
     } = event;
-    const { direction } = Object.values(mapData).find(({ id }) => id === mapElementId);
+    const elementId = getParentOfElement(mapElementId);
+
+    const { direction } = Object.values(mapData).find(({ id }) => id === elementId);
     setActiveMapName(direction);
     setActiveElement(null);
   };
+
+  useEffect(() => {
+    const windowResizeListener = () => {
+      setWindowWidth(window.innerWidth);
+    };
+
+    window.addEventListener('resize', windowResizeListener);
+
+    return () => {
+      window.removeEventListener('resize', windowResizeListener);
+    };
+  }, []);
 
   useEffect(() => {
     setMapScale(mapParams.scale);
@@ -128,12 +147,14 @@ const Controller = ({
       }
       if (action === 'move') {
         mapElement.addEventListener('click', moveHandler);
+        mapElement.addEventListener('touchend', moveHandler);
       } else {
         mapElement.addEventListener('click', handler);
+        mapElement.addEventListener('touchend', handler);
       }
 
       mapElement.classList.add(styles.interactiveObject);
-      if (subdivisions && subdivision) {
+      if (subdivisions && subdivision && activeMapName !== 'global') {
         mapElement.style.fill = subdivisions[subdivision].color;
         mapElement.children[0].style.fill = subdivisions[subdivision].color;
       }
@@ -147,6 +168,7 @@ const Controller = ({
         }
 
         mapElement.removeEventListener('click', handler);
+        mapElement.addEventListener('touchend', handler);
       });
     };
   }, [mapData, directedElementId, activeMapName]);
@@ -189,6 +211,7 @@ const Controller = ({
       activeMapElement={activeMapElement}
       mapContainerRef={mapContainerRef}
       mapRef={mapRef}
+      windowWidth={windowWidth}
     />
   );
 };

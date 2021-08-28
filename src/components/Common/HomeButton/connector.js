@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import { actions, selectors } from 'store/slice';
+import { actions, selectors } from 'store';
 
 import View from './view';
 

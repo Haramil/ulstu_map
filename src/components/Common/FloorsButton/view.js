@@ -4,8 +4,13 @@ import ArrowIcon from 'assets/svg/arrow.svg';
 
 import styles from './styles.scss';
 
-const View = ({ config: { prevMap, nextMap, floorName }, setActiveMapName, setActiveElement }) => {
-  if (!prevMap && !nextMap) {
+const View = ({
+  config: { prevMap, nextMap, floorName },
+  setActiveMapName,
+  setActiveElement,
+  mapName,
+}) => {
+  if (mapName === 'global') {
     return null;
   }
 
