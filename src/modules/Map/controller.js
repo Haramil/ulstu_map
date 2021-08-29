@@ -46,6 +46,7 @@ const getMapParamsOnActive = ({
     translation: { x: mapX, y: mapY },
     scale,
   },
+  windowWidth,
 }) => {
   if (!mapElement) {
     return {
@@ -59,8 +60,8 @@ const getMapParamsOnActive = ({
   const { width } = document.getElementById(elementId).getBBox();
 
   const centerOfActiveElement = (width / 2) * scale;
-
-  const x = mapX - left + searchContainerWidth - centerOfActiveElement + mapWidth / 2;
+  const leftSpace = windowWidth < 1000 ? 0 : searchContainerWidth;
+  const x = mapX - left + leftSpace - centerOfActiveElement + mapWidth / 2;
   const y = mapY - top + mapHeight / 2;
 
   return {
@@ -182,6 +183,7 @@ const Controller = ({
       mapElement: activeMapElement,
       mapContainer: mapContainerRef.current,
       mapParams,
+      windowWidth,
     });
 
     setMapParams({ ...activeMapParams });

@@ -4,6 +4,19 @@ import View from './view';
 
 const Controller = ({ ...rest }) => {
   const [isTextCopied, setIsTextCopied] = useState(false);
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    const windowResizeListener = () => {
+      setWindowWidth(window.innerWidth);
+    };
+
+    window.addEventListener('resize', windowResizeListener);
+
+    return () => {
+      window.removeEventListener('resize', windowResizeListener);
+    };
+  }, []);
 
   useEffect(() => {
     if (isTextCopied) {
@@ -11,7 +24,14 @@ const Controller = ({ ...rest }) => {
     }
   }, [isTextCopied]);
 
-  return <View {...rest} isTextCopied={isTextCopied} setIsTextCopied={setIsTextCopied} />;
+  return (
+    <View
+      {...rest}
+      isTextCopied={isTextCopied}
+      setIsTextCopied={setIsTextCopied}
+      windowWidth={windowWidth}
+    />
+  );
 };
 
 export default Controller;

@@ -7,4 +7,12 @@
   border-radius: 13px;
   color: white;
   transition: 0.1s !important;
+
+  &.mobContainer {
+    top: 50%;
+    bottom: unset;
+    left: 0px;
+    right: 0px;
+    margin: 0px auto;
+  }
 }

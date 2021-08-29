@@ -5,6 +5,17 @@
   background-color: #ffffff;
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  &.mobContainer {
+    bottom: 50px !important;
+    left: 0px !important;
+    right: 0px !important;
+    top: unset !important;
+    width: 100%;
+    box-shadow: none;
+    border-top: 1px solid #666;
+    border-radius: 0px;
+  }
 }
 
 .crossIcon {
@@ -36,11 +47,8 @@
   margin-right: auto;
   left: 0;
   right: 0;
-}
 
-.point {
-  width: 10px;
-  height: 10px;
-  position: absolute;
-  background-color: red;
+  &.mob {
+    display: none;
+  }
 }

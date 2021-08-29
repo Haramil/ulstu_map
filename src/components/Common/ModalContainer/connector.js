@@ -2,7 +2,7 @@ import { connect } from 'react-redux';
 
 import { selectors, actions } from 'store';
 
-import View from './view';
+import Controller from './controller';
 
 const mapStateToProps = (state) => ({
   activeElement: selectors.getActiveElement(state),
@@ -12,6 +12,6 @@ const mapDispatchToProps = {
   setActiveElement: actions.setActiveElement,
 };
 
-const ConnectedView = connect(mapStateToProps, mapDispatchToProps)(View);
+const ConnectedController = connect(mapStateToProps, mapDispatchToProps)(Controller);
 
-export default ConnectedView;
+export default ConnectedController;

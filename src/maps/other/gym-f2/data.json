@@ -22,7 +22,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "gym-f2-30": {
@@ -35,7 +36,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "gym-f2-?": {
@@ -48,7 +50,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "gym-f2-zk": {
@@ -61,7 +64,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "gym-f2-34": {
@@ -74,7 +78,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "gym-f2-tr": {
@@ -87,7 +92,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     }
   }

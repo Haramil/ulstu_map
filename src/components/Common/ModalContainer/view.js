@@ -1,7 +1,7 @@
 import React from 'react';
+import cn from 'classnames';
 
 import MoveInfoModal from 'components/Modals/MoveInfoModal';
-import AuditoryModal from 'components/Modals/AuditoryModal';
 
 import CrossIcon from 'assets/svg/cross.svg';
 
@@ -14,12 +14,8 @@ const getModalContent = (activeElement) => {
     return <MoveInfoModal element={activeElement} />;
   }
 
-  if (action === 'info') {
+  if (action === 'info' || action === 'auditory') {
     return <MoveInfoModal element={activeElement} isInfoOnly />;
-  }
-
-  if (action === 'auditory') {
-    return <AuditoryModal element={activeElement} />;
   }
 
   return null;
@@ -37,7 +33,7 @@ const getModalPosition = (activeElement, mapContainer) => {
   return { left: mapWidth / 2 - 160, top: mapHeight / 2 - 240 };
 };
 
-const View = ({ activeElement, setActiveElement, mapContainer }) => {
+const View = ({ activeElement, setActiveElement, mapContainer, windowWidth }) => {
   if (!activeElement) {
     return null;
   }
@@ -49,7 +45,7 @@ const View = ({ activeElement, setActiveElement, mapContainer }) => {
     <>
       <div
         id="modalId"
-        className={styles.container}
+        className={cn(styles.container, windowWidth < 1000 ? styles.mobContainer : null)}
         style={{ ...modalPosition }}
         onMouseUp={({ preventDefault }) => preventDefault()}
       >
@@ -57,7 +53,7 @@ const View = ({ activeElement, setActiveElement, mapContainer }) => {
         <button className={styles.crossButton} onClick={() => setActiveElement(null)}>
           <CrossIcon className={styles.crossIcon} />
         </button>
-        <div className={styles.arrow} />
+        <div className={cn(styles.arrow, windowWidth < 1000 ? styles.mob : null)} />
       </div>
     </>
   );

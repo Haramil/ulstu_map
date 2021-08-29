@@ -12,8 +12,10 @@ import styles from './styles.scss';
 
 const View = ({ windowWidth }) => (
   <Grid className={styles.container}>
-    <HomeButton />
-    <PrevMapButton />
+    <div className={cn(styles.buttonsContainer, windowWidth < 1000 ? styles.isMobile : null)}>
+      <HomeButton />
+      <PrevMapButton />
+    </div>
     <Grid
       direction="col"
       className={cn(styles.navContainer, windowWidth < 1000 ? styles.none : null)}

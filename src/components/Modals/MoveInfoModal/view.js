@@ -5,6 +5,7 @@ import CopyModal from 'components/Modals/CopyModal';
 
 import MailIcon from 'assets/svg/mail.svg';
 import LinkIcon from 'assets/svg/link.svg';
+import ClockIcon from 'assets/svg/clock.svg';
 
 import styles from './styles.scss';
 
@@ -20,6 +21,7 @@ const getAdditionalBlocks = (additional) => {
   if (!additional) {
     return null;
   }
+
   const { phone, responsible, workingHours } = additional;
 
   return (
@@ -50,7 +52,7 @@ const getInfoButtons = (additional, setIsTextCopied) => {
   if (!additional) {
     return null;
   }
-  const { email, website } = additional;
+  const { email, website, timetable } = additional;
 
   return (
     <div className={styles.additionalButtons}>
@@ -77,6 +79,17 @@ const getInfoButtons = (additional, setIsTextCopied) => {
           <LinkIcon className={styles.websiteIcon} />
         </a>
       )}
+      {timetable && (
+        <a
+          href={timetable}
+          target="_blank"
+          rel="noreferrer"
+          className={styles.website}
+          title="Скопировать"
+        >
+          <ClockIcon className={styles.websiteIcon} />
+        </a>
+      )}
     </div>
   );
 };
@@ -88,6 +101,7 @@ const View = ({
   isTextCopied,
   setIsTextCopied,
   isInfoOnly,
+  windowWidth,
 }) => {
   const { name, disc, direction, additional } = element;
 
@@ -112,7 +126,11 @@ const View = ({
         />
       )}
       {infoButtons}
-      <CopyModal isTextCopied={isTextCopied} message="Почта скопирована" />
+      <CopyModal
+        isTextCopied={isTextCopied}
+        message="Почта скопирована"
+        isMob={windowWidth < 1000}
+      />
     </div>
   );
 };

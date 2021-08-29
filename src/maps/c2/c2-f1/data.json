@@ -42,7 +42,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-cloakroom2": {
@@ -55,7 +56,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-wc": {
@@ -68,7 +70,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-cloakroom": {
@@ -81,7 +84,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-buffet": {
@@ -94,7 +98,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n101": {
@@ -107,7 +112,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-watchman": {
@@ -120,7 +126,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "security": {
@@ -133,7 +140,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n103": {
@@ -146,7 +154,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n111": {
@@ -159,7 +168,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n113": {
@@ -172,7 +182,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n115": {
@@ -185,7 +196,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n105": {
@@ -198,7 +210,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n107": {
@@ -211,7 +224,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "c2-f1-n109": {
@@ -224,7 +238,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     },
     "coffee": {
@@ -237,7 +252,8 @@
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": ""
       }
     }
   }
