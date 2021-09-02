@@ -46,7 +46,24 @@
         "nextMap": "c1-f1a",
         "floorName": 1
       },
-      "items": {}
+      "items": {
+          "c-n8": {
+          "id": "c-n8",
+          "name": "Корпус №4",
+          "action": "move_info",
+          "disc": "Описание 8",
+          "direction": "c4-f1",
+          "subdivision": "education",
+          "additional": {
+            "phone": "79999999999",
+            "responsible": "Петренко А. В.",
+            "workingHours": "08:00 - 09:00",
+            "email": "ulstumail@gmail.com",
+            "website": "https://ulstu.ru/",
+            "timetable": "https://time.ulstu.ru/timetable"
+          }
+        },
+      }
     }
     
 ## Поле “config”
