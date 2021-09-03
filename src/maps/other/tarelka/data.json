@@ -21,6 +21,136 @@
       "id": "transition_3",
       "action": "move",
       "direction": "tarelka-foe"
+    },
+    "Subtract": {
+      "id": "Subtract",
+      "name": "Название Subtract",
+      "action": "info",
+      "disc": "Описание Subtract",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Subtract_2": {
+      "id": "Subtract_2",
+      "name": "Название Subtract_2",
+      "action": "info",
+      "disc": "Описание Subtract_2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Subtract_3": {
+      "id": "Subtract_3",
+      "name": "Название Subtract_3",
+      "action": "info",
+      "disc": "Описание Subtract_3",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Subtract_4": {
+      "id": "Subtract_4",
+      "name": "Название Subtract_4",
+      "action": "info",
+      "disc": "Описание Subtract_4",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 73": {
+      "id": "Vector 73",
+      "name": "Название Vector 73",
+      "action": "info",
+      "disc": "Описание Vector 73",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 76": {
+      "id": "Vector 76",
+      "name": "Название Vector 76",
+      "action": "info",
+      "disc": "Описание Vector 76",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 74": {
+      "id": "Vector 74",
+      "name": "Название Vector 74",
+      "action": "info",
+      "disc": "Описание Vector 74",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 77": {
+      "id": "Vector 77",
+      "name": "Название Vector 77",
+      "action": "info",
+      "disc": "Описание Vector 77",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 75": {
+      "id": "Vector 75",
+      "name": "Название Vector 75",
+      "action": "info",
+      "disc": "Описание Vector 75",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Vector 78": {
+      "id": "Vector 78",
+      "name": "Название Vector 78",
+      "action": "info",
+      "disc": "Описание Vector 78",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

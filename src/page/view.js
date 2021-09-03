@@ -8,6 +8,7 @@ import Map from 'modules/Map';
 import Search from 'modules/Search';
 import CorpusList from 'modules/CorpusList';
 
+import LogoImg from 'assets/png/logo.jpg';
 import styles from './styles.scss';
 
 const View = ({ windowWidth }) => (
@@ -21,6 +22,10 @@ const View = ({ windowWidth }) => (
       className={cn(styles.navContainer, windowWidth < 1000 ? styles.none : null)}
       id="corpusList"
     >
+      <div className={styles.logo}>
+        <img src={LogoImg} alt="logo" />
+        <span>УлГТУ</span>
+      </div>
       <Search />
       <CorpusList />
     </Grid>

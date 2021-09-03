@@ -7,6 +7,16 @@
     "floorName": 1
   },
   "items": {
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "c6-f3"
+    },
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "c6-f3"
+    },
     "enter": {
       "id": "enter",
       "action": "move",

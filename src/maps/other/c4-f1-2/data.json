@@ -16,6 +16,123 @@
       "id": "stairs up_2",
       "action": "move",
       "direction": "c4-f1-1"
+    },
+    "c4-f1-n111": {
+      "id": "c4-f1-n111",
+      "name": "Название c4-f1-n111",
+      "action": "info",
+      "disc": "Описание c4-f1-n111",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_2": {
+      "id": "c4-f1-n111_2",
+      "name": "Название c4-f1-n111_2",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_3": {
+      "id": "c4-f1-n111_3",
+      "name": "Название c4-f1-n111_3",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_3",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_4": {
+      "id": "c4-f1-n111_4",
+      "name": "Название c4-f1-n111_4",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_4",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_5": {
+      "id": "c4-f1-n111_5",
+      "name": "Название c4-f1-n111_5",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_5",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_6": {
+      "id": "c4-f1-n111_6",
+      "name": "Название c4-f1-n111_6",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_6",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_7": {
+      "id": "c4-f1-n111_7",
+      "name": "Название c4-f1-n111_7",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_7",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_8": {
+      "id": "c4-f1-n111_8",
+      "name": "Название c4-f1-n111_8",
+      "action": "info",
+      "disc": "Описание c4-f1-n111_8",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Group 1": {
+      "id": "Group 1",
+      "name": "Название Group 1",
+      "action": "info",
+      "disc": "Описание Group 1",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

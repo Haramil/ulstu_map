@@ -7,113 +7,301 @@
     "floorName": 0
   },
   "items": {
-    "c5-f1-102": {
-      "id": "c5-f1-102",
-      "name": "Название 1",
-      "action": "info",
-      "disc": "Описание 1"
+    "stairs up": {
+      "id": "stairs up",
+      "action": "move",
+      "direction": "c6-f1"
     },
-    "c5-f1-103": {
-      "id": "c5-f1-103",
-      "name": "Название 1",
-      "action": "info",
-      "disc": "Описание 1"
+    "stairs up_2": {
+      "id": "stairs up_2",
+      "action": "move",
+      "direction": "c6-f1"
     },
-    "c5-f1-106": {
-      "id": "c5-f1-106",
-      "name": "Название 1",
+    "c6-f0-nltm": {
+      "id": "c6-f0-nltm",
+      "name": "Название c6-f0-nltm",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nltm",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-108": {
-      "id": "c5-f1-108",
-      "name": "Название 1",
+    "c6-f0-nsm": {
+      "id": "c6-f0-nsm",
+      "name": "Название c6-f0-nsm",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nsm",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-112": {
-      "id": "c5-f1-112",
-      "name": "Название 1",
+    "c6-f0-nktm": {
+      "id": "c6-f0-nktm",
+      "name": "Название c6-f0-nktm",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nktm",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-105": {
-      "id": "c5-f1-105",
-      "name": "Название 1",
+    "c6-f0-cp1": {
+      "id": "c6-f0-cp1",
+      "name": "Название c6-f0-cp1",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-cp1",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-104": {
-      "id": "c5-f1-104",
-      "name": "Название 1",
+    "c6-f0-cp2": {
+      "id": "c6-f0-cp2",
+      "name": "Название c6-f0-cp2",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-cp2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-cp1": {
-      "id": "c5-f1-cp1",
-      "name": "Название 1",
+    "c6-f0-n08": {
+      "id": "c6-f0-n08",
+      "name": "Название c6-f0-n08",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n08",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-107": {
-      "id": "c5-f1-107",
-      "name": "Название 1",
+    "c6-f0-cp3": {
+      "id": "c6-f0-cp3",
+      "name": "Название c6-f0-cp3",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-cp3",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-111": {
-      "id": "c5-f1-111",
-      "name": "Название 1",
+    "c6-f0-n06": {
+      "id": "c6-f0-n06",
+      "name": "Название c6-f0-n06",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n06",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-101": {
-      "id": "c5-f1-101",
-      "name": "Название 1",
+    "c6-f0-n04": {
+      "id": "c6-f0-n04",
+      "name": "Название c6-f0-n04",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n04",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-100": {
-      "id": "c5-f1-100",
-      "name": "Название 1",
+    "c6-f0-nsmm": {
+      "id": "c6-f0-nsmm",
+      "name": "Название c6-f0-nsmm",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nsmm",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-watchman": {
-      "id": "c5-f1-watchman",
-      "name": "Название 1",
+    "c6-f0-n003": {
+      "id": "c6-f0-n003",
+      "name": "Название c6-f0-n003",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n003",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-110": {
-      "id": "c5-f1-110",
-      "name": "Название 1",
+    "c6-f0-n009": {
+      "id": "c6-f0-n009",
+      "name": "Название c6-f0-n009",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n009",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-109": {
-      "id": "c5-f1-109",
-      "name": "Название 1",
+    "c6-f0-n005": {
+      "id": "c6-f0-n005",
+      "name": "Название c6-f0-n005",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n005",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-cp2": {
-      "id": "c5-f1-cp2",
-      "name": "Название 1",
+    "c6-f0-n011": {
+      "id": "c6-f0-n011",
+      "name": "Название c6-f0-n011",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-n011",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-wc": {
-      "id": "c5-f1-wc",
-      "name": "Название 1",
+    "c6-f0-nc15": {
+      "id": "c6-f0-nc15",
+      "name": "Название c6-f0-nc15",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nc15",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     },
-    "c5-f1-buffet": {
-      "id": "c5-f1-buffet",
-      "name": "Название 1",
+    "c6-f0-nc17": {
+      "id": "c6-f0-nc17",
+      "name": "Название c6-f0-nc17",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Описание c6-f0-nc17",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-nkis": {
+      "id": "c6-f0-nkis",
+      "name": "Название c6-f0-nkis",
+      "action": "info",
+      "disc": "Описание c6-f0-nkis",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-wc2": {
+      "id": "c6-f0-wc2",
+      "name": "Название c6-f0-wc2",
+      "action": "info",
+      "disc": "Описание c6-f0-wc2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-wc1": {
+      "id": "c6-f0-wc1",
+      "name": "Название c6-f0-wc1",
+      "action": "info",
+      "disc": "Описание c6-f0-wc1",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-security": {
+      "id": "c6-f0-security",
+      "name": "Название c6-f0-security",
+      "action": "info",
+      "disc": "Описание c6-f0-security",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-elevator1": {
+      "id": "c6-f0-elevator1",
+      "name": "Название c6-f0-elevator1",
+      "action": "info",
+      "disc": "Описание c6-f0-elevator1",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-elevator2": {
+      "id": "c6-f0-elevator2",
+      "name": "Название c6-f0-elevator2",
+      "action": "info",
+      "disc": "Описание c6-f0-elevator2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }

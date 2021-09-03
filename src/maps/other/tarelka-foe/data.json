@@ -56,6 +56,97 @@
       "id": "stairs up_3",
       "action": "move",
       "direction": "tarelka"
+    },
+    "c4-f1-n111": {
+      "id": "c4-f1-n111",
+      "name": "Название c4-f1-n111",
+      "action": "info",
+      "disc": "Описание c4-f1-n111",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "t-fh": {
+      "id": "t-fh",
+      "name": "Название t-fh",
+      "action": "info",
+      "disc": "Описание t-fh",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "t-fh_2": {
+      "id": "t-fh_2",
+      "name": "Название t-fh_2",
+      "action": "info",
+      "disc": "Описание t-fh_2",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "t-fh_3": {
+      "id": "t-fh_3",
+      "name": "Название t-fh_3",
+      "action": "info",
+      "disc": "Описание t-fh_3",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "t-fh_4": {
+      "id": "t-fh_4",
+      "name": "Название t-fh_4",
+      "action": "info",
+      "disc": "Описание t-fh_4",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ": {
+      "id": "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
+      "name": "Название Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
+      "action": "info",
+      "disc": "Описание Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»": {
+      "id": "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
+      "name": "Название Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
+      "action": "info",
+      "disc": "Описание Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
     }
   }
 }
