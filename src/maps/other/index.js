@@ -5,6 +5,7 @@ import gymf1 from './gym-f1/data.json';
 import gymf2 from './gym-f2/data.json';
 import tarelka from './tarelka/data.json';
 import tarelkaFoe from './tarelka-foe/data.json';
+// import example from './example/data.json';
 
 const mapData = {
   'c4-f1-1': { ...c4f11 },
@@ -14,6 +15,7 @@ const mapData = {
   'gym-f2': { ...gymf2 },
   tarelka: { ...tarelka },
   'tarelka-foe': { ...tarelkaFoe },
+  // 'example': { ...example },
 };
 
 export default mapData;

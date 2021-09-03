@@ -1,0 +1,10 @@
+{
+  "config": {
+    "mapLabel": "example",
+    "mapName": "example",
+    "prevMap": "example",
+    "nextMap": "",
+    "floorName": 0
+  },
+  "items": { }
+}

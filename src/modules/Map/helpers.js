@@ -55,7 +55,10 @@ import IatuF2 from 'maps/iatu/iatu-f2';
 import IatuF3 from 'maps/iatu/iatu-f3';
 import IatuF4 from 'maps/iatu/iatu-f4';
 
+// import Example from 'maps/other/example';
+
 const mapsVocabulary = {
+  // example: <Example />,
   global: <GlobalMap />,
   'c1-f0': <C1F0 />,
   'c1-f1': <C1F1 />,
