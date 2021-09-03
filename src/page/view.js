@@ -24,7 +24,6 @@ const View = ({ windowWidth }) => (
     >
       <div className={styles.logo}>
         <img src={LogoImg} alt="logo" />
-        <span>УлГТУ</span>
       </div>
       <Search />
       <CorpusList />
