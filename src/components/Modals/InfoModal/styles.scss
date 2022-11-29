@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+  padding: 10px;
+  height: 200px;
+  max-height: 150px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.disc {
+  display: block;
+  height: 180px;
+  overflow-y: scroll;
+}
+
+.enterIcon {
+  cursor: pointer;
+  margin: 10px auto 0px auto;
+}
