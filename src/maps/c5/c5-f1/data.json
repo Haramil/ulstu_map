@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №5. Этаж 1",
     "mapName": "c5-f1",
     "prevMap": "",
     "nextMap": "c5-f2",
@@ -17,137 +17,11 @@
       "action": "move",
       "direction": "global"
     },
-    "c5-f1-n102": {
-      "id": "c5-f1-n102",
-      "name": "Аудитория 102",
+    "c5-f1-n100": {
+      "id": "c5-f1-n100",
+      "name": "5-100 ЭФ Каф. «ПЭТБ» Преподавательская",
       "action": "info",
-      "disc": "Описание c5-f1-n102",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n103": {
-      "id": "c5-f1-n103",
-      "name": "Аудитория 103",
-      "action": "info",
-      "disc": "Описание c5-f1-n103",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n106": {
-      "id": "c5-f1-n106",
-      "name": "Аудитория 106",
-      "action": "info",
-      "disc": "Описание c5-f1-n106",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n108": {
-      "id": "c5-f1-n108",
-      "name": "Аудитория 108",
-      "action": "info",
-      "disc": "Описание c5-f1-n108",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n112": {
-      "id": "c5-f1-n112",
-      "name": "Аудитория 112",
-      "action": "info",
-      "disc": "Описание c5-f1-n112",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n105": {
-      "id": "c5-f1-n105",
-      "name": "Аудитория 105",
-      "action": "info",
-      "disc": "Описание c5-f1-n105",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n104": {
-      "id": "c5-f1-n104",
-      "name": "Аудитория 104",
-      "action": "info",
-      "disc": "Описание c5-f1-n104",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-cp1": {
-      "id": "c5-f1-cp1",
-      "name": "Название c5-f1-cp1",
-      "action": "info",
-      "disc": "Описание c5-f1-cp1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n107": {
-      "id": "c5-f1-n107",
-      "name": "Аудитория 107",
-      "action": "info",
-      "disc": "Описание c5-f1-n107",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f1-n111": {
-      "id": "c5-f1-n111",
-      "name": "Аудитория 111",
-      "action": "info",
-      "disc": "Описание c5-f1-n111",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -159,9 +33,9 @@
     },
     "c5-f1-n101": {
       "id": "c5-f1-n101",
-      "name": "Аудитория 101",
+      "name": "5-101 ЭФ Каф. «ПЭТБ» Преподавательская",
       "action": "info",
-      "disc": "Описание c5-f1-n101",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -171,11 +45,39 @@
         "timetable": ""
       }
     },
-    "c5-f1-n100": {
-      "id": "c5-f1-n100",
-      "name": "Аудитория 100",
+    "c5-f1-n102": {
+      "id": "c5-f1-n102",
+      "name": "5-102 ЭФ Каф. «ПЭТБ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c5-f1-n100",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Учебная лаборатория «Безопасность жизнедеятельности».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-102"
+      }
+    },
+    "c5-f1-n103": {
+      "id": "c5-f1-n103",
+      "name": "5-103 ЭФ Каф. «ПЭТБ» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Учебная лаборатория «Безопасность жизнедеятельности».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-103"
+      }
+    },
+    "c5-f1-n104": {
+      "id": "c5-f1-n104",
+      "name": "5-104 ЭФ Каф. «ПЭТБ» Преподавательская Зав. каф.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Преподавательская. Заведующий кафедрой Фалова О.Е.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -185,11 +87,11 @@
         "timetable": ""
       }
     },
-    "c5-f1-watchman": {
-      "id": "c5-f1-watchman",
-      "name": "Название c5-f1-watchman",
+    "c5-f1-n105": {
+      "id": "c5-f1-n105",
+      "name": "5-105 ЭФ Каф. «ПЭТБ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c5-f1-watchman",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Учебная лаборатория «Электромагнитная экология и инженерная защита окружающей среды».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -199,11 +101,11 @@
         "timetable": ""
       }
     },
-    "security": {
-      "id": "security",
-      "name": "Название security",
+    "c5-f1-n106": {
+      "id": "c5-f1-n106",
+      "name": "5-106 ЭФ Каф. «ПЭТБ» НУЦОТ",
       "action": "info",
-      "disc": "Описание security",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Научно-учебный центр по охране труда.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -213,11 +115,25 @@
         "timetable": ""
       }
     },
-    "c5-f1-n110": {
-      "id": "c5-f1-n110",
-      "name": "Аудитория 110",
+    "c5-f1-n107": {
+      "id": "c5-f1-n107",
+      "name": "5-107 Кабинет БЖД",
       "action": "info",
-      "disc": "Описание c5-f1-n110",
+      "disc": "Кабинет безопасности жизнедеятельности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-107"
+      }
+    },
+    "c5-f1-n108": {
+      "id": "c5-f1-n108",
+      "name": "5-108 ЭФ Каф. «ПЭТБ» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Учебная лаборатория «Экология, токсикология, медико-биологические основы безопасности».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -229,9 +145,9 @@
     },
     "c5-f1-n109": {
       "id": "c5-f1-n109",
-      "name": "Аудитория 109",
+      "name": "5-109 ЭФ Каф. «ПЭТБ» Кабинет",
       "action": "info",
-      "disc": "Описание c5-f1-n109",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Кабинет для курсового проектирования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -241,11 +157,11 @@
         "timetable": ""
       }
     },
-    "c5-f1-cp2": {
-      "id": "c5-f1-cp2",
-      "name": "Название c5-f1-cp2",
+    "c5-f1-n110": {
+      "id": "c5-f1-n110",
+      "name": "5-110 ЭФ Каф. «ПЭТБ» Кабинет",
       "action": "info",
-      "disc": "Описание c5-f1-cp2",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Кабинет для хранения оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -255,11 +171,25 @@
         "timetable": ""
       }
     },
-    "c5-f1-wc": {
-      "id": "c5-f1-wc",
-      "name": "Название c5-f1-wc",
+    "c5-f1-n111": {
+      "id": "c5-f1-n111",
+      "name": "5-111 ЭФ Каф. «ПЭТБ»",
       "action": "info",
-      "disc": "Описание c5-f1-wc",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f1-n112": {
+      "id": "c5-f1-n112",
+      "name": "5-112 ЭФ Каф. «ПЭТБ»" ,
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -271,9 +201,65 @@
     },
     "c5-f1-buffet": {
       "id": "c5-f1-buffet",
-      "name": "Название c5-f1-buffet",
+      "name": "Кафе «Как дома»",
       "action": "info",
-      "disc": "Описание c5-f1-buffet",
+      "disc": "Ассортимент: Первые, вторые блюда (можно с собой), шаурма, доннер, выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 09:00 по 16:00, сб выходной.",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f1-watchman": {
+      "id": "c5-f1-watchman",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f1-wc": {
+      "id": "c5-f1-wc",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f1-cp1": {
+      "id": "c5-f1-cp1",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f1-cp2": {
+      "id": "c5-f1-cp2",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №5. Этаж 3",
     "mapName": "c5-f3",
     "prevMap": "c5-f2",
     "nextMap": "c5-f4",
@@ -22,137 +22,11 @@
       "action": "move",
       "direction": "c3-f2"
     },
-    "c5-f3-n59": {
-      "id": "c5-f3-n59",
-      "name": "Аудитория 59",
-      "action": "info",
-      "disc": "Описание c5-f3-n59",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n67": {
-      "id": "c5-f3-n67",
-      "name": "Аудитория 67",
-      "action": "info",
-      "disc": "Описание c5-f3-n67",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n57": {
-      "id": "c5-f3-n57",
-      "name": "Аудитория 57",
-      "action": "info",
-      "disc": "Описание c5-f3-n57",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n55": {
-      "id": "c5-f3-n55",
-      "name": "Аудитория 55",
-      "action": "info",
-      "disc": "Описание c5-f3-n55",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-storeroom": {
-      "id": "c5-f3-storeroom",
-      "name": "Название c5-f3-storeroom",
-      "action": "info",
-      "disc": "Описание c5-f3-storeroom",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n53": {
-      "id": "c5-f3-n53",
-      "name": "Аудитория 53",
-      "action": "info",
-      "disc": "Описание c5-f3-n53",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n65": {
-      "id": "c5-f3-n65",
-      "name": "Аудитория 65",
-      "action": "info",
-      "disc": "Описание c5-f3-n65",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n61": {
-      "id": "c5-f3-n61",
-      "name": "Аудитория 61",
-      "action": "info",
-      "disc": "Описание c5-f3-n61",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-n63": {
-      "id": "c5-f3-n63",
-      "name": "Аудитория 63",
-      "action": "info",
-      "disc": "Описание c5-f3-n63",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c5-f3-n50": {
       "id": "c5-f3-n50",
-      "name": "Аудитория 50",
+      "name": "4-50 СФ Каф. «АСП» Аудитория",
       "action": "info",
-      "disc": "Описание c5-f3-n50",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -164,9 +38,9 @@
     },
     "c5-f3-n52": {
       "id": "c5-f3-n52",
-      "name": "Аудитория 52",
+      "name": "4-52 СФ Каф. «АСП» Аудитория",
       "action": "info",
-      "disc": "Описание c5-f3-n52",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -176,11 +50,39 @@
         "timetable": ""
       }
     },
+    "c5-f3-n53": {
+      "id": "c5-f3-n53",
+      "name": "4-53 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория «Начертательная геометрия и черчение».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-53"
+      }
+    },
     "c5-f3-n54": {
       "id": "c5-f3-n54",
-      "name": "Аудитория 54",
+      "name": "4-54 СФ Каф. «АСП» Аудитория",
       "action": "info",
-      "disc": "Описание c5-f3-n54",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f3-n55": {
+      "id": "c5-f3-n55",
+      "name": "4-55",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -192,9 +94,37 @@
     },
     "c5-f3-n56": {
       "id": "c5-f3-n56",
-      "name": "Аудитория 56",
+      "name": "4-56 СФ Каф. «АСП» Аудитория",
       "action": "info",
-      "disc": "Описание c5-f3-n56",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-56"
+      }
+    },
+    "c5-f3-n57": {
+      "id": "c5-f3-n57",
+      "name": "4-57 СФ Каф. «АСП» Зав. каф.",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Заведующий кафедрой Тур В.И.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-57"
+      }
+    },
+    "c5-f3-n58": {
+      "id": "c5-f3-n58",
+      "name": "4-58 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория «Живопись». Помещение для групповых и индивидуальных консультаций. Аудитория для текущего контроля и промежуточной аттестации. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -204,11 +134,11 @@
         "timetable": ""
       }
     },
-    "c5-f3-n58": {
-      "id": "c5-f3-n58",
-      "name": "Аудитория 58",
+    "c5-f3-n59": {
+      "id": "c5-f3-n59",
+      "name": "4-59 СФ Каф. «АСП» Аудитория",
       "action": "info",
-      "disc": "Описание c5-f3-n58",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -220,9 +150,93 @@
     },
     "c5-f3-n60": {
       "id": "c5-f3-n60",
-      "name": "Аудитория 60",
+      "name": "4-60 СФ Каф. «АСП» Лаборатория",
       "action": "info",
-      "disc": "Описание c5-f3-n60",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория «Рисунок».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-60"
+      }
+    },
+    "c5-f3-n61": {
+      "id": "c5-f3-n61",
+      "name": "4-61 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория «Строительная физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-61"
+      }
+    },
+    "c5-f3-n63": {
+      "id": "c5-f3-n63",
+      "name": "4-63 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория архитектурно-дизайнерского проектирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-63"
+      }
+    },
+    "c5-f3-n65": {
+      "id": "c5-f3-n65",
+      "name": "4-65 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория живописи.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f3-n67": {
+      "id": "c5-f3-n67",
+      "name": "4-67 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория «Скульптура».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-67"
+      }
+    },
+    "c5-f3-wc": {
+      "id": "c5-f3-wc",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f3-storeroom": {
+      "id": "c5-f3-storeroom",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -234,23 +248,9 @@
     },
     "c5-f3-cp2": {
       "id": "c5-f3-cp2",
-      "name": "Название c5-f3-cp2",
+      "name": "Хоз. помещение 2",
       "action": "info",
-      "disc": "Описание c5-f3-cp2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f3-wc": {
-      "id": "c5-f3-wc",
-      "name": "Название c5-f3-wc",
-      "action": "info",
-      "disc": "Описание c5-f3-wc",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

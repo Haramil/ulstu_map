@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №4. Этаж 3",
     "mapName": "c4-f3",
     "prevMap": "c4-f2",
     "nextMap": "c4-f4",
@@ -17,11 +17,25 @@
       "action": "move",
       "direction": "c4-f4"
     },
+    "c4-f3-n31": {
+      "id": "c4-f3-n31",
+      "name": "4-31 УДО IT-лицей Лаб. физики",
+      "action": "info",
+      "disc": "Управление довузовского образования. IT-лицей. Лаборатория физики.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
     "c4-f3-n32": {
       "id": "c4-f3-n32",
-      "name": "Аудитория 32",
+      "name": "4-32 УДО IT-лицей Лаб. химии",
       "action": "info",
-      "disc": "Описание c4-f3-n32",
+      "disc": "Управление довузовского образования. IT-лицей. Лаборатория химии и биологии.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -33,9 +47,9 @@
     },
     "c4-f3-n33": {
       "id": "c4-f3-n33",
-      "name": "Аудитория 33",
+      "name": "4-33 СФ Помещение для самост. раб.",
       "action": "info",
-      "disc": "Описание c4-f3-n33",
+      "disc": "Строительный факультет. Помещение для самостоятельной работы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -47,9 +61,9 @@
     },
     "c4-f3-n34": {
       "id": "c4-f3-n34",
-      "name": "Аудитория 34",
+      "name": "4-34",
       "action": "info",
-      "disc": "Описание c4-f3-n34",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -61,51 +75,37 @@
     },
     "c4-f3-n35": {
       "id": "c4-f3-n35",
-      "name": "Аудитория 35",
+      "name": "4-35 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f3-n35",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория «Геология и механика грунтов».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-35"
       }
     },
     "c4-f3-n36": {
       "id": "c4-f3-n36",
-      "name": "Аудитория 36",
+      "name": "4-36 СФ Поточная аудитория",
       "action": "info",
-      "disc": "Описание c4-f3-n36",
+      "disc": "Строительный факультет. Поточная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-36"
       }
     },
     "c4-f3-n37": {
       "id": "c4-f3-n37",
-      "name": "Аудитория 37",
+      "name": "4-37 УДО IT-лицей Биология",
       "action": "info",
-      "disc": "Описание c4-f3-n37",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f3-sp": {
-      "id": "c4-f3-sp",
-      "name": "Название c4-f3-sp",
-      "action": "info",
-      "disc": "Описание c4-f3-sp",
+      "disc": "Управление довузовского образования. IT-лицей. Биология.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -117,9 +117,9 @@
     },
     "c4-f3-wc": {
       "id": "c4-f3-wc",
-      "name": "Название c4-f3-wc",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c4-f3-wc",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -129,11 +129,11 @@
         "timetable": ""
       }
     },
-    "c4-f3-n31": {
-      "id": "c4-f3-n31",
-      "name": "Аудитория 31",
+    "c4-f3-sp": {
+      "id": "c4-f3-sp",
+      "name": "Хоз. помещение",
       "action": "info",
-      "disc": "Описание c4-f3-n31",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

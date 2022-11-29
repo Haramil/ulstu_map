@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 3",
     "mapName": "c1-f3",
     "prevMap": "c1-f2",
     "nextMap": "c1-f4",
@@ -22,151 +22,25 @@
       "action": "move",
       "direction": "c1-f2"
     },
-    "c1-f3-n308": {
-      "id": "c1-f3-n308",
-      "name": "Аудитория 308",
+    "c1-f3-n300": {
+      "id": "c1-f3-n300",
+      "name": "1-300 ИННО Мультимедийная ауд.",
       "action": "info",
-      "disc": "Описание c1-f3-n308",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-300"
       }
     },
-    "c1-f3-n312": {
-      "id": "c1-f3-n312",
-      "name": "Аудитория 312",
+    "c1-f3-n300a": {
+      "id": "c1-f3-n300a",
+      "name": "1-300а ИННО Зам. директора Зам. декана",
       "action": "info",
-      "disc": "Описание c1-f3-n312",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n312a": {
-      "id": "c1-f3-n312a",
-      "name": "Аудитория 312a",
-      "action": "info",
-      "disc": "Описание c1-f3-n312a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n310": {
-      "id": "c1-f3-n310",
-      "name": "Аудитория 310",
-      "action": "info",
-      "disc": "Описание c1-f3-n310",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n315": {
-      "id": "c1-f3-n315",
-      "name": "Аудитория 315",
-      "action": "info",
-      "disc": "Описание c1-f3-n315",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n313": {
-      "id": "c1-f3-n313",
-      "name": "Аудитория 313",
-      "action": "info",
-      "disc": "Описание c1-f3-n313",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n311": {
-      "id": "c1-f3-n311",
-      "name": "Аудитория 311",
-      "action": "info",
-      "disc": "Описание c1-f3-n311",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n309": {
-      "id": "c1-f3-n309",
-      "name": "Аудитория 309",
-      "action": "info",
-      "disc": "Описание c1-f3-n309",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n306": {
-      "id": "c1-f3-n306",
-      "name": "Аудитория 306",
-      "action": "info",
-      "disc": "Описание c1-f3-n306",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n307": {
-      "id": "c1-f3-n307",
-      "name": "Аудитория 307",
-      "action": "info",
-      "disc": "Описание c1-f3-n307",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n302": {
-      "id": "c1-f3-n302",
-      "name": "Аудитория 302",
-      "action": "info",
-      "disc": "Описание c1-f3-n302",
+      "disc": "Институт непрерывного образования. Заместитель директора по учебно-методической работе. Заместитель декана по ДО.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -178,51 +52,9 @@
     },
     "c1-f3-n302b": {
       "id": "c1-f3-n302b",
-      "name": "Аудитория 302b",
+      "name": "1-300б ИННО Преподавательская",
       "action": "info",
-      "disc": "Описание c1-f3-n302b",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-wc": {
-      "id": "c1-f3-wc",
-      "name": "Название c1-f3-wc",
-      "action": "info",
-      "disc": "Описание c1-f3-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n304": {
-      "id": "c1-f3-n304",
-      "name": "Аудитория 304",
-      "action": "info",
-      "disc": "Описание c1-f3-n304",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n300": {
-      "id": "c1-f3-n300",
-      "name": "Аудитория 300",
-      "action": "info",
-      "disc": "Описание c1-f3-n300",
+      "disc": "Институт непрерывного образования. Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -234,9 +66,9 @@
     },
     "c1-f3-n301": {
       "id": "c1-f3-n301",
-      "name": "Аудитория 301",
+      "name": "1-301 ИННО Зам. директора",
       "action": "info",
-      "disc": "Описание c1-f3-n301",
+      "disc": "Институт непрерывного образования. Заместитель директора по учебно-воспитательной работе Сяпукова Любовь Владимировна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -246,25 +78,11 @@
         "timetable": ""
       }
     },
-    "c1-f3-n300a": {
-      "id": "c1-f3-n300a",
-      "name": "Аудитория 300a",
+    "c1-f3-n302": {
+      "id": "c1-f3-n302",
+      "name": "1-302 ФСПО КЭИ Кабинет",
       "action": "info",
-      "disc": "Описание c1-f3-n300a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n305": {
-      "id": "c1-f3-n305",
-      "name": "Аудитория 305",
-      "action": "info",
-      "disc": "Описание c1-f3-n305",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики. Кабинет профилактики безнадзорности и правонарушений.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -276,9 +94,191 @@
     },
     "c1-f3-n303": {
       "id": "c1-f3-n303",
-      "name": "Аудитория 303",
+      "name": "1-303 ФСПО КЭИ Кабинет",
       "action": "info",
-      "disc": "Описание c1-f3-n303",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики. Кабинет по работе со студентами очно-заочной и заочной формы обучения по ускоренным программам.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n304": {
+      "id": "c1-f3-n304",
+      "name": "1-304 ФСПО КЭИ Деканат",
+      "action": "info",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики. Деканат.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n305": {
+      "id": "c1-f3-n305",
+      "name": "1-305 ФСПО КЭИ Кабинет",
+      "action": "info",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики. Кабинет по работе со студентами очно-заочной и заочной формы обучения по полной программе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n306": {
+      "id": "c1-f3-n306",
+      "name": "1-306 МФ Каф. «Автомобили» Преподавательская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n307": {
+      "id": "c1-f3-n307",
+      "name": "1-307 ФСПО КЭИ Деканат ЗВФ",
+      "action": "info",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики. Деканат заочно-вечернего факультета.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n308": {
+      "id": "c1-f3-n308",
+      "name": "1-308 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-308"
+      }
+    },
+    "c1-f3-n309": {
+      "id": "c1-f3-n309",
+      "name": "1-309 ИННО Учебная аудитория",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-309"
+      }
+    },
+    "c1-f3-n310": {
+      "id": "c1-f3-n310",
+      "name": "1-310 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-310"
+      }
+    },
+    "c1-f3-n311": {
+      "id": "c1-f3-n311",
+      "name": "1-311",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-311"
+      }
+    },
+    "c1-f3-n312": {
+      "id": "c1-f3-n312",
+      "name": "1-312 МФ Учебная аудитория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-312"
+      }
+    },
+    "c1-f3-n312a": {
+      "id": "c1-f3-n312a",
+      "name": "1-312а Кабинет",
+      "action": "info",
+      "disc": "Кабинет электротехники и электроники. Кабинет бухгалтерского учёта.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-312а"
+      }
+    },
+    "c1-f3-n313": {
+      "id": "c1-f3-n313",
+      "name": "1-313 МФ Учебная аудитория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-313"
+      }
+    },
+    "c1-f3-n314": {
+      "id": "c1-f3-n314",
+      "name": "1-314 ИННО Мультимедийная ауд. ВШМ Бизнес-класс",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория. Высшая школа менеджмента. Бизнес-класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-314"
+      }
+    },
+    "c1-f3-n315": {
+      "id": "c1-f3-n315",
+      "name": "1-315",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -290,51 +290,23 @@
     },
     "c1-f3-n316": {
       "id": "c1-f3-n316",
-      "name": "Аудитория 316",
+      "name": "1-316 МФ Учебная аудитория",
       "action": "info",
-      "disc": "Описание c1-f3-n316",
+      "disc": "Машиностроительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n327": {
-      "id": "c1-f3-n327",
-      "name": "Аудитория 327",
-      "action": "info",
-      "disc": "Описание c1-f3-n327",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f3-n323": {
-      "id": "c1-f3-n323",
-      "name": "Аудитория 323",
-      "action": "info",
-      "disc": "Описание c1-f3-n323",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-316"
       }
     },
     "c1-f3-n317": {
       "id": "c1-f3-n317",
-      "name": "Аудитория 317",
+      "name": "1-317 ИННО ВШМ Директор",
       "action": "info",
-      "disc": "Описание c1-f3-n317",
+      "disc": "Институт непрерывного образования. Высшая школа менеджмента. Директор.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -346,9 +318,9 @@
     },
     "c1-f3-n319": {
       "id": "c1-f3-n319",
-      "name": "Аудитория 319",
+      "name": "1-319 ИННО ВШМ Офис",
       "action": "info",
-      "disc": "Описание c1-f3-n319",
+      "disc": "Институт непрерывного образования. Высшая школа менеджмента. Офис.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -358,11 +330,39 @@
         "timetable": ""
       }
     },
-    "c1-f3-n314": {
-      "id": "c1-f3-n314",
-      "name": "Аудитория 314",
+    "c1-f3-n323": {
+      "id": "c1-f3-n323",
+      "name": "1-323 МФ Деканат",
       "action": "info",
-      "disc": "Описание c1-f3-n314",
+      "disc": "Машиностроительный факультет. Деканат.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-n327": {
+      "id": "c1-f3-n327",
+      "name": "1-327 Бизнес-класс",
+      "action": "info",
+      "disc": "Бизнес-класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f3-wc": {
+      "id": "c1-f3-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

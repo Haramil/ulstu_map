@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 0",
     "mapName": "c1-f0",
     "prevMap": "",
     "nextMap": "c1-f1",
@@ -52,165 +52,25 @@
       "action": "move",
       "direction": "c1-f1a"
     },
-    "c1-f0-007": {
-      "id": "c1-f0-007",
-      "name": "Аудитория 007",
+    "c1-f0-001": {
+      "id": "c1-f0-001",
+      "name": "1-001",
       "action": "info",
-      "disc": "Описание c1-f0-007",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-001"
       }
     },
-    "c1-f0-?14": {
-      "id": "c1-f0-?14",
-      "name": "Аудитория ?14",
+    "c1-f0-01Ð°": {
+      "id": "c1-f0-01Ð°",
+      "name": "1-001а Служба реставрации и ремонта помещений",
       "action": "info",
-      "disc": "Описание c1-f0-?14",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?13": {
-      "id": "c1-f0-?13",
-      "name": "Аудитория ?13",
-      "action": "info",
-      "disc": "Описание c1-f0-?13",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?12": {
-      "id": "c1-f0-?12",
-      "name": "Аудитория ?12",
-      "action": "info",
-      "disc": "Описание c1-f0-?12",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?11": {
-      "id": "c1-f0-?11",
-      "name": "Аудитория ?11",
-      "action": "info",
-      "disc": "Описание c1-f0-?11",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?11_2": {
-      "id": "c1-f0-?11_2",
-      "name": "Аудитория ?11_2",
-      "action": "info",
-      "disc": "Описание c1-f0-?11_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?10": {
-      "id": "c1-f0-?10",
-      "name": "Аудитория ?10",
-      "action": "info",
-      "disc": "Описание c1-f0-?10",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?10_2": {
-      "id": "c1-f0-?10_2",
-      "name": "Аудитория ?10_2",
-      "action": "info",
-      "disc": "Описание c1-f0-?10_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?9": {
-      "id": "c1-f0-?9",
-      "name": "Аудитория ?9",
-      "action": "info",
-      "disc": "Описание c1-f0-?9",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-cr3": {
-      "id": "c1-f0-cr3",
-      "name": "Аудитория cr3",
-      "action": "info",
-      "disc": "Описание c1-f0-cr3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-cr2": {
-      "id": "c1-f0-cr2",
-      "name": "Аудитория cr2",
-      "action": "info",
-      "disc": "Описание c1-f0-cr2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-cr1": {
-      "id": "c1-f0-cr1",
-      "name": "Аудитория cr1",
-      "action": "info",
-      "disc": "Описание c1-f0-cr1",
+      "disc": "Служба реставрации и ремонта помещений",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -222,191 +82,23 @@
     },
     "c1-f0-002": {
       "id": "c1-f0-002",
-      "name": "Аудитория 002",
+      "name": "1-002 МФ. Кафедра «Материаловедение и ОМД»",
       "action": "info",
-      "disc": "Описание c1-f0-002",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Лаборатория ЛШ, КШО, ТОМД.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-001": {
-      "id": "c1-f0-001",
-      "name": "Аудитория 001",
-      "action": "info",
-      "disc": "Описание c1-f0-001",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?9_2": {
-      "id": "c1-f0-?9_2",
-      "name": "Аудитория ?9_2",
-      "action": "info",
-      "disc": "Описание c1-f0-?9_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?8": {
-      "id": "c1-f0-?8",
-      "name": "Аудитория ?8",
-      "action": "info",
-      "disc": "Описание c1-f0-?8",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-012": {
-      "id": "c1-f0-012",
-      "name": "Аудитория 012",
-      "action": "info",
-      "disc": "Описание c1-f0-012",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?7": {
-      "id": "c1-f0-?7",
-      "name": "Аудитория ?7",
-      "action": "info",
-      "disc": "Описание c1-f0-?7",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-wc": {
-      "id": "c1-f0-wc",
-      "name": "Аудитория wc",
-      "action": "info",
-      "disc": "Описание c1-f0-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?6": {
-      "id": "c1-f0-?6",
-      "name": "Аудитория ?6",
-      "action": "info",
-      "disc": "Описание c1-f0-?6",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-006": {
-      "id": "c1-f0-006",
-      "name": "Аудитория 006",
-      "action": "info",
-      "disc": "Описание c1-f0-006",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-01Ð°": {
-      "id": "c1-f0-01Ð°",
-      "name": "Аудитория 01Ð°",
-      "action": "info",
-      "disc": "Описание c1-f0-01Ð°",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?5": {
-      "id": "c1-f0-?5",
-      "name": "Аудитория ?5",
-      "action": "info",
-      "disc": "Описание c1-f0-?5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-002"
       }
     },
     "c1-f0-02Ð°": {
       "id": "c1-f0-02Ð°",
-      "name": "Аудитория 02Ð°",
+      "name": "1-002а",
       "action": "info",
-      "disc": "Описание c1-f0-02Ð°",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?4": {
-      "id": "c1-f0-?4",
-      "name": "Аудитория ?4",
-      "action": "info",
-      "disc": "Описание c1-f0-?4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f0-?3": {
-      "id": "c1-f0-?3",
-      "name": "Аудитория ?3",
-      "action": "info",
-      "disc": "Описание c1-f0-?3",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -418,23 +110,23 @@
     },
     "c1-f0-003": {
       "id": "c1-f0-003",
-      "name": "Аудитория 003",
+      "name": "1-003",
       "action": "info",
-      "disc": "Описание c1-f0-003",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-003"
       }
     },
     "c1-f0-004": {
       "id": "c1-f0-004",
-      "name": "Аудитория 004",
+      "name": "1-004",
       "action": "info",
-      "disc": "Описание c1-f0-004",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -446,9 +138,51 @@
     },
     "c1-f0-005": {
       "id": "c1-f0-005",
-      "name": "Аудитория 005",
+      "name": "1-005 МФ. Кафедра «Автомобили»",
       "action": "info",
-      "disc": "Описание c1-f0-005",
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Лаборатория конструкции автомобилей и автомобильных двигателей.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-005"
+      }
+    },
+    "c1-f0-006": {
+      "id": "c1-f0-006",
+      "name": "1-006 МФ. Кафедра «МСИ»",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Металлорежущие станки и инструмены». Лаборатория механообработки",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-006"
+      }
+    },
+    "c1-f0-007": {
+      "id": "c1-f0-007",
+      "name": "1-007 МФ. Кафедра «МСИ»",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Металлорежущие станки и инструмены». Лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-007"
+      }
+    },
+    "c1-f0-012": {
+      "id": "c1-f0-012",
+      "name": "1-012",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -458,11 +192,11 @@
         "timetable": ""
       }
     },
-    "c1-f0-?2": {
-      "id": "c1-f0-?2",
-      "name": "Аудитория ?2",
+    "c1-f0-wc": {
+      "id": "c1-f0-wc",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c1-f0-?2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -472,11 +206,11 @@
         "timetable": ""
       }
     },
-    "c1-f0-?2_2": {
-      "id": "c1-f0-?2_2",
-      "name": "Аудитория ?2_2",
+    "c1-f0-cr1": {
+      "id": "c1-f0-cr1",
+      "name": "Хоз. помещение 1",
       "action": "info",
-      "disc": "Описание c1-f0-?2_2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -486,11 +220,25 @@
         "timetable": ""
       }
     },
-    "c1-f0-?1": {
-      "id": "c1-f0-?1",
-      "name": "Аудитория ?1",
+    "c1-f0-cr2": {
+      "id": "c1-f0-cr2",
+      "name": "Хоз. помещение 2",
       "action": "info",
-      "disc": "Описание c1-f0-?1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f0-cr3": {
+      "id": "c1-f0-cr3",
+      "name": "Хоз. помещение 3",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

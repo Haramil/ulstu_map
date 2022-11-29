@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №2. Этаж 3",
     "mapName": "c2-f3",
     "prevMap": "c2-f2",
     "nextMap": "c2-f4",
@@ -27,67 +27,95 @@
       "action": "move",
       "direction": "c2-f4"
     },
-    "Vector 1": {
-      "id": "Vector 1",
-      "name": "Название Vector 1",
+    "c2-f3-n300": {
+      "id": "c2-f3-n300",
+      "name": "2-300 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание Vector 1",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-300"
       }
     },
-    "c2-f3-wc": {
-      "id": "c2-f3-wc",
-      "name": "Название c2-f3-wc",
+    "c2-f3-n301": {
+      "id": "c2-f3-n301",
+      "name": "2-301 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-wc",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-301"
       }
     },
-    "c2-f3-n317": {
-      "id": "c2-f3-n317",
-      "name": "Аудитория 317",
+    "c2-f3-n302": {
+      "id": "c2-f3-n302",
+      "name": "2-302 ИЭФ Каф. «ЭиОП» Преподавательская",
       "action": "info",
-      "disc": "Описание c2-f3-n317",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Преподавательская. Аудитория для самостоятельной работы обучающихся.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-302"
       }
     },
-    "c2-f3-n315": {
-      "id": "c2-f3-n315",
-      "name": "Аудитория 315",
+    "c2-f3-n303": {
+      "id": "c2-f3-n303",
+      "name": "2-303 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-n315",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-303"
       }
     },
-    "c2-f3-n313": {
-      "id": "c2-f3-n313",
-      "name": "Аудитория 313",
+    "c2-f3-n304": {
+      "id": "c2-f3-n304",
+      "name": "2-304 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-n313",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-304"
+      }
+    },
+    "c2-f3-n305": {
+      "id": "c2-f3-n305",
+      "name": "2-305 ИЭФ Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-305"
+      }
+    },
+    "c2-f3-n306": {
+      "id": "c2-f3-n306",
+      "name": "2-306 ИЭФ Каф. «ЭиОП» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -99,51 +127,23 @@
     },
     "c2-f3-n307": {
       "id": "c2-f3-n307",
-      "name": "Аудитория 307",
+      "name": "2-307 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-n307",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-307"
       }
     },
-    "c2-f3-n301": {
-      "id": "c2-f3-n301",
-      "name": "Аудитория 301",
+    "c2-f3-n308": {
+      "id": "c2-f3-n308",
+      "name": "2-308 ИЭФ Каф. «ЭиОП» Лаборантская",
       "action": "info",
-      "disc": "Описание c2-f3-n301",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n302": {
-      "id": "c2-f3-n302",
-      "name": "Аудитория 302",
-      "action": "info",
-      "disc": "Описание c2-f3-n302",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n311": {
-      "id": "c2-f3-n311",
-      "name": "Аудитория 311",
-      "action": "info",
-      "disc": "Описание c2-f3-n311",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -155,121 +155,23 @@
     },
     "c2-f3-n309": {
       "id": "c2-f3-n309",
-      "name": "Аудитория 309",
+      "name": "2-309 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-n309",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n303": {
-      "id": "c2-f3-n303",
-      "name": "Аудитория 303",
-      "action": "info",
-      "disc": "Описание c2-f3-n303",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n318": {
-      "id": "c2-f3-n318",
-      "name": "Аудитория 318",
-      "action": "info",
-      "disc": "Описание c2-f3-n318",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n316": {
-      "id": "c2-f3-n316",
-      "name": "Аудитория 316",
-      "action": "info",
-      "disc": "Описание c2-f3-n316",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n314": {
-      "id": "c2-f3-n314",
-      "name": "Аудитория 314",
-      "action": "info",
-      "disc": "Описание c2-f3-n314",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n300": {
-      "id": "c2-f3-n300",
-      "name": "Аудитория 300",
-      "action": "info",
-      "disc": "Описание c2-f3-n300",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n304": {
-      "id": "c2-f3-n304",
-      "name": "Аудитория 304",
-      "action": "info",
-      "disc": "Описание c2-f3-n304",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n302_2": {
-      "id": "c2-f3-n302_2",
-      "name": "Аудитория 302_2",
-      "action": "info",
-      "disc": "Описание c2-f3-n302_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-309"
       }
     },
     "c2-f3-n310": {
       "id": "c2-f3-n310",
-      "name": "Аудитория 310",
+      "name": "2-310 ИЭФ Каф. «ЭиОП» Зав. каф.",
       "action": "info",
-      "disc": "Описание c2-f3-n310",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Заведующий кафедрой.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -279,25 +181,11 @@
         "timetable": ""
       }
     },
-    "c2-f3-n308": {
-      "id": "c2-f3-n308",
-      "name": "Аудитория 308",
+    "c2-f3-n311": {
+      "id": "c2-f3-n311",
+      "name": "2-311 ИЭФ Преподавательская ЦУФК каф. «ФиК»",
       "action": "info",
-      "disc": "Описание c2-f3-n308",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n306": {
-      "id": "c2-f3-n306",
-      "name": "Аудитория 306",
-      "action": "info",
-      "disc": "Описание c2-f3-n306",
+      "disc": "Инженерно-экономический факультет. Преподавательская. Центр учёта и финансового консалтинга кафедры «Финансы и кредит».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -309,9 +197,9 @@
     },
     "c2-f3-n312": {
       "id": "c2-f3-n312",
-      "name": "Аудитория 312",
+      "name": "2-312 ПФ МИ Центр изучения ин. яз.",
       "action": "info",
-      "disc": "Описание c2-f3-n312",
+      "disc": "Международный институт. Подготовительный факультет. Центр изучения иностранных языков.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -321,11 +209,11 @@
         "timetable": ""
       }
     },
-    "c2-f3-n323": {
-      "id": "c2-f3-n323",
-      "name": "Аудитория 323",
+    "c2-f3-n313": {
+      "id": "c2-f3-n313",
+      "name": "2-313 ИЭФ Зав. ЦУФК каф. «ФиК»",
       "action": "info",
-      "disc": "Описание c2-f3-n323",
+      "disc": "Инженерно-экономический факультет. Заведующий Центром учёта и финансового консалтинга кафедры «Финансы и кредит».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -335,11 +223,67 @@
         "timetable": ""
       }
     },
-    "c2-f3-n321": {
-      "id": "c2-f3-n321",
-      "name": "Аудитория 321",
+    "c2-f3-n314": {
+      "id": "c2-f3-n314",
+      "name": "2-314 ПФ МИ Центр изучения ин. яз.",
       "action": "info",
-      "disc": "Описание c2-f3-n321",
+      "disc": "Международный институт. Подготовительный факультет. Центр изучения иностранных языков.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f3-n315": {
+      "id": "c2-f3-n315",
+      "name": "2-315 ИЭФ Каф. «ЭНиБУ» Зав. каф.",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f3-n316": {
+      "id": "c2-f3-n316",
+      "name": "2-316 УМиИД",
+      "action": "info",
+      "disc": "Управление международной и инновационной деятельности",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-316"
+      }
+    },
+    "c2-f3-n317": {
+      "id": "c2-f3-n317",
+      "name": "2-317 ИЭФ Каф. «ЭНиБУ» Лаборантская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Лаборантская. Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f3-n318": {
+      "id": "c2-f3-n318",
+      "name": "2-318 ФИСТ Каф. «ПМИ» Преподавательская",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -351,23 +295,65 @@
     },
     "c2-f3-n319": {
       "id": "c2-f3-n319",
-      "name": "Аудитория 319",
+      "name": "2-319 ИЭФ Каф. «ЭНиБУ» Преподавательская",
       "action": "info",
-      "disc": "Описание c2-f3-n319",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика, налогообложение и бухгалтерский учет». Преподавательская. Аудитория для групповых и индивидуальных консультаций, текущего контроля и промежуточной аттестации.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-319"
+      }
+    },
+    "c2-f3-n321": {
+      "id": "c2-f3-n321",
+      "name": "2-321 ИЭФ Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-321"
+      }
+    },
+    "c2-f3-n323": {
+      "id": "c2-f3-n323",
+      "name": "2-323 ИЭФ Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-323"
       }
     },
     "c2-f3-n325": {
       "id": "c2-f3-n325",
-      "name": "Аудитория 325",
+      "name": "2-325 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f3-n325",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-325"
+      }
+    },
+    "c2-f3-n327": {
+      "id": "c2-f3-n327",
+      "name": "2-327 ИЭФ Каф. «ФиК» Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Финансы и кредит». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -377,11 +363,11 @@
         "timetable": ""
       }
     },
-    "c2-f3-n327": {
-      "id": "c2-f3-n327",
-      "name": "Аудитория 327",
+    "c2-f3-wc": {
+      "id": "c2-f3-wc",
+      "name": "Туалет",
       "action": "info",
-      "disc": "Описание c2-f3-n327",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

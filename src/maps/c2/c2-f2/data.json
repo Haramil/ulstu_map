@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №2. Этаж 2",
     "mapName": "c2-f2",
     "prevMap": "c2-f1",
     "nextMap": "c2-f3",
@@ -27,109 +27,11 @@
       "action": "move",
       "direction": "c2-f3"
     },
-    "Vector 1": {
-      "id": "Vector 1",
-      "name": "Название Vector 1",
+    "c2-f2-n200": {
+      "id": "c2-f2-n200",
+      "name": "2-200 ИЭФ Каф. «УП» Зав. каф.",
       "action": "info",
-      "disc": "Описание Vector 1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-wc": {
-      "id": "c2-f2-wc",
-      "name": "Название c2-f2-wc",
-      "action": "info",
-      "disc": "Описание c2-f2-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n202": {
-      "id": "c2-f2-n202",
-      "name": "Аудитория 202",
-      "action": "info",
-      "disc": "Описание c2-f2-n202",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n207": {
-      "id": "c2-f2-n207",
-      "name": "Аудитория 207",
-      "action": "info",
-      "disc": "Описание c2-f2-n207",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n211": {
-      "id": "c2-f2-n211",
-      "name": "Аудитория 211",
-      "action": "info",
-      "disc": "Описание c2-f2-n211",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n213": {
-      "id": "c2-f2-n213",
-      "name": "Аудитория 213",
-      "action": "info",
-      "disc": "Описание c2-f2-n213",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n215": {
-      "id": "c2-f2-n215",
-      "name": "Аудитория 215",
-      "action": "info",
-      "disc": "Описание c2-f2-n215",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n221": {
-      "id": "c2-f2-n221",
-      "name": "Аудитория 221",
-      "action": "info",
-      "disc": "Описание c2-f2-n221",
+      "disc": "Инженерно-экономический факультет. Кафедра «Управление персоналом». Заведующий кафедрой.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -141,9 +43,9 @@
     },
     "c2-f2-n201": {
       "id": "c2-f2-n201",
-      "name": "Аудитория 201",
+      "name": "2-201 ПК Ответственный секретарь",
       "action": "info",
-      "disc": "Описание c2-f2-n201",
+      "disc": "Приёмная комиссия. Ответственный секретарь.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -153,11 +55,11 @@
         "timetable": ""
       }
     },
-    "c2-f2-n205": {
-      "id": "c2-f2-n205",
-      "name": "Аудитория 205",
+    "c2-f2-n202": {
+      "id": "c2-f2-n202",
+      "name": "2-202 ИЭФ Каф. «УП» Преподавательская",
       "action": "info",
-      "disc": "Описание c2-f2-n205",
+      "disc": "Инженерно-экономический факультет. Кафедра «Управление персоналом». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -167,109 +69,11 @@
         "timetable": ""
       }
     },
-    "c2-f2-n209": {
-      "id": "c2-f2-n209",
-      "name": "Аудитория 209",
+    "c2-f2-n203": {
+      "id": "c2-f2-n203",
+      "name": "2-203 ИЭФ Зам. декана",
       "action": "info",
-      "disc": "Описание c2-f2-n209",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n230": {
-      "id": "c2-f2-n230",
-      "name": "Аудитория 230",
-      "action": "info",
-      "disc": "Описание c2-f2-n230",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n228": {
-      "id": "c2-f2-n228",
-      "name": "Аудитория 228",
-      "action": "info",
-      "disc": "Описание c2-f2-n228",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n226": {
-      "id": "c2-f2-n226",
-      "name": "Аудитория 226",
-      "action": "info",
-      "disc": "Описание c2-f2-n226",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n200": {
-      "id": "c2-f2-n200",
-      "name": "Аудитория 200",
-      "action": "info",
-      "disc": "Описание c2-f2-n200",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n202_2": {
-      "id": "c2-f2-n202_2",
-      "name": "Аудитория 202_2",
-      "action": "info",
-      "disc": "Описание c2-f2-n202_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n212": {
-      "id": "c2-f2-n212",
-      "name": "Аудитория 212",
-      "action": "info",
-      "disc": "Описание c2-f2-n212",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n214": {
-      "id": "c2-f2-n214",
-      "name": "Аудитория 214",
-      "action": "info",
-      "disc": "Описание c2-f2-n214",
+      "disc": "Инженерно-экономический факультет. Заместитель декана.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -281,9 +85,23 @@
     },
     "c2-f2-n204": {
       "id": "c2-f2-n204",
-      "name": "Аудитория 204",
+      "name": "2-204 ИЭФ Каф. «ЭиМ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c2-f2-n204",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n205": {
+      "id": "c2-f2-n205",
+      "name": "2-205 ИЭФ Деканат",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Деканат.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -295,9 +113,9 @@
     },
     "c2-f2-n206": {
       "id": "c2-f2-n206",
-      "name": "Аудитория 206",
+      "name": "2-206 ИЭФ Каф. «ЭиМ» Лаборантская",
       "action": "info",
-      "disc": "Описание c2-f2-n206",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -307,11 +125,11 @@
         "timetable": ""
       }
     },
-    "c2-f2-n220": {
-      "id": "c2-f2-n220",
-      "name": "Аудитория 220",
+    "c2-f2-n207": {
+      "id": "c2-f2-n207",
+      "name": "2-207 ИЭФ Деканат",
       "action": "info",
-      "disc": "Описание c2-f2-n220",
+      "disc": "Инженерно-экономический факультет. Деканат.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -323,9 +141,9 @@
     },
     "c2-f2-n208": {
       "id": "c2-f2-n208",
-      "name": "Аудитория 208",
+      "name": "2-208 ЗВФ ЦТИУН",
       "action": "info",
-      "disc": "Описание c2-f2-n208",
+      "disc": "Заочно-вечерний факультет. Центр трансфера инженерно-управленческих направлений.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -335,13 +153,13 @@
         "timetable": ""
       }
     },
-    "c2-f2-n218": {
-      "id": "c2-f2-n218",
-      "name": "Аудитория 218",
+    "c2-f2-n209": {
+      "id": "c2-f2-n209",
+      "name": "2-209 ИЭФ Деканат.",
       "action": "info",
-      "disc": "Описание c2-f2-n218",
+      "disc": "Инженерно-экономический факультет. Деканат. Декан - Баландина Екатерина Владимировна.",
       "additional": {
-        "phone": "",
+        "phone": "+78422778602",
         "responsible": "",
         "workingHours": "",
         "email": "",
@@ -351,9 +169,79 @@
     },
     "c2-f2-n210": {
       "id": "c2-f2-n210",
-      "name": "Аудитория 210",
+      "name": "2-210 ООУП ДИТ Мастерская",
       "action": "info",
-      "disc": "Описание c2-f2-n210",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Мастерская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n211": {
+      "id": "c2-f2-n211",
+      "name": "2-211 ИЭФ Методисты деканата",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Методисты деканата.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n212": {
+      "id": "c2-f2-n212",
+      "name": "2-212 Упр. информатизации Серверная",
+      "action": "info",
+      "disc": "Управление информатизации. Серверная.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n213": {
+      "id": "c2-f2-n213",
+      "name": "2-213 ИЭФ Каф. «Маркетинг» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Маркетинг». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n214": {
+      "id": "c2-f2-n214",
+      "name": "2-214 РТЦПИМ Директор Зам. директора",
+      "action": "info",
+      "disc": "Технологический центр промышленного интернета в машиностроении. Директор Киселёв Е.С. Заместитель директора Унянин А.Н.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n215": {
+      "id": "c2-f2-n215",
+      "name": "2-215 ЦБО Методический кабинет",
+      "action": "info",
+      "disc": "Центр бизнес-образования. Методический кабинет.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -365,107 +253,9 @@
     },
     "c2-f2-n216": {
       "id": "c2-f2-n216",
-      "name": "Аудитория 216",
+      "name": "2-216 ИЭФ Каф. «Маркетинг» Зав. каф.",
       "action": "info",
-      "disc": "Описание c2-f2-n216",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n224": {
-      "id": "c2-f2-n224",
-      "name": "Аудитория 224",
-      "action": "info",
-      "disc": "Описание c2-f2-n224",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n224_2": {
-      "id": "c2-f2-n224_2",
-      "name": "Аудитория 224_2",
-      "action": "info",
-      "disc": "Описание c2-f2-n224_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n227": {
-      "id": "c2-f2-n227",
-      "name": "Аудитория 227",
-      "action": "info",
-      "disc": "Описание c2-f2-n227",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n225": {
-      "id": "c2-f2-n225",
-      "name": "Аудитория 225",
-      "action": "info",
-      "disc": "Описание c2-f2-n225",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n223": {
-      "id": "c2-f2-n223",
-      "name": "Аудитория 223",
-      "action": "info",
-      "disc": "Описание c2-f2-n223",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n229": {
-      "id": "c2-f2-n229",
-      "name": "Аудитория 229",
-      "action": "info",
-      "disc": "Описание c2-f2-n229",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f2-n231": {
-      "id": "c2-f2-n231",
-      "name": "Аудитория 231",
-      "action": "info",
-      "disc": "Описание c2-f2-n231",
+      "disc": "Инженерно-экономический факультет. Кафедра «Маркетинг». Заведующий кафедрой.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -477,9 +267,23 @@
     },
     "c2-f2-n217": {
       "id": "c2-f2-n217",
-      "name": "Аудитория 217",
+      "name": "2-217 ЦБО Приёмная",
       "action": "info",
-      "disc": "Описание c2-f2-n217",
+      "disc": "Центр бизнес-образования. Приёмная.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n218": {
+      "id": "c2-f2-n218",
+      "name": "2-218 ИЭФ Каф. «ЭиМ» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -491,9 +295,177 @@
     },
     "c2-f2-n219": {
       "id": "c2-f2-n219",
-      "name": "Аудитория 219",
+      "name": "2-219 ЦБО. Секретарь",
       "action": "info",
-      "disc": "Описание c2-f2-n219",
+      "disc": "Центр бизнес-образования. Секретарь",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n220": {
+      "id": "c2-f2-n220",
+      "name": "2-220 ИЭФ Каф. «ЭиМ» Зав. циклом «Коммерция»",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Заведующий циклом «Коммерция».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n221": {
+      "id": "c2-f2-n221",
+      "name": "2-221 ЦБО Аудитория",
+      "action": "info",
+      "disc": "Центр бизнес-образования. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-221"
+      }
+    },
+    "c2-f2-n224_2": {
+      "id": "c2-f2-n224_2",
+      "name": "2-222 РТЦПИМ Преподавательская",
+      "action": "info",
+      "disc": "Технологический центр промышленного интернета в машиностроении. Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n223": {
+      "id": "c2-f2-n223",
+      "name": "2-223 ЦБО Аудитория",
+      "action": "info",
+      "disc": "Центр бизнес-образования. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-223"
+      }
+    },
+    "c2-f2-n224": {
+      "id": "c2-f2-n224",
+      "name": "2-224 РТЦПИМ Учебно-исслед. лаб.",
+      "action": "info",
+      "disc": "Технологический центр промышленного интернета в машиностроении. Учебно-исследовательская лаборатория промышленного интернета.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-224"
+      }
+    },
+    "c2-f2-n225": {
+      "id": "c2-f2-n225",
+      "name": "2-225 ИЭФ Каф. «Маркетинг» Лаборантская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Маркетинг». Лаборантская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n226": {
+      "id": "c2-f2-n226",
+      "name": "2-226 ИЭФ Каф. «ЭиМ» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n227": {
+      "id": "c2-f2-n227",
+      "name": "2-227 ИЭФ Каф. «Маркетинг» Лаборатория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Маркетинг». Лаборатория маркетинговых исследований.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-227"
+      }
+    },
+    "c2-f2-n228": {
+      "id": "c2-f2-n228",
+      "name": "2-228 ИЭФ Каф. «ФиК» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Финансы и кредит». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n229": {
+      "id": "c2-f2-n229",
+      "name": "2-229 ИЭФ Зал заседаний уч. совета",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Зал заседаний учёного совета факультета.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n230": {
+      "id": "c2-f2-n230",
+      "name": "2-230 ИЭФ Каф. «ФиК» Зав. каф.",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Финансы и кредит». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-n231": {
+      "id": "c2-f2-n231",
+      "name": "2-231 АХЧ Комендант",
+      "action": "info",
+      "disc": "Административно-хозяйственная часть. Комендант.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -505,9 +477,23 @@
     },
     "coffee": {
       "id": "coffee",
-      "name": "Название coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание coffee",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f2-wc": {
+      "id": "c2-f2-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

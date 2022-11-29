@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №2. Этаж 4",
     "mapName": "c2-f4",
     "prevMap": "c2-f3",
     "nextMap": "",
@@ -27,81 +27,11 @@
       "action": "move",
       "direction": "c2-f3"
     },
-    "Vector 1": {
-      "id": "Vector 1",
-      "name": "Название Vector 1",
+    "c2-f4-n400": {
+      "id": "c2-f4-n400",
+      "name": "2-400 ФИСТ Каф. «ПМИ» Помещение",
       "action": "info",
-      "disc": "Описание Vector 1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-wc": {
-      "id": "c2-f4-wc",
-      "name": "Название c2-f4-wc",
-      "action": "info",
-      "disc": "Описание c2-f4-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n413": {
-      "id": "c2-f4-n413",
-      "name": "Аудитория 413",
-      "action": "info",
-      "disc": "Описание c2-f4-n413",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n411": {
-      "id": "c2-f4-n411",
-      "name": "Аудитория 411",
-      "action": "info",
-      "disc": "Описание c2-f4-n411",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n409": {
-      "id": "c2-f4-n409",
-      "name": "Аудитория 409",
-      "action": "info",
-      "disc": "Описание c2-f4-n409",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f3-n305": {
-      "id": "c2-f3-n305",
-      "name": "Аудитория 305",
-      "action": "info",
-      "disc": "Описание c2-f3-n305",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -113,107 +43,65 @@
     },
     "c2-f4-n401": {
       "id": "c2-f4-n401",
-      "name": "Аудитория 401",
+      "name": "2-401 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f4-n401",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n407": {
-      "id": "c2-f4-n407",
-      "name": "Аудитория 407",
-      "action": "info",
-      "disc": "Описание c2-f4-n407",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n403": {
-      "id": "c2-f4-n403",
-      "name": "Аудитория 403",
-      "action": "info",
-      "disc": "Описание c2-f4-n403",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n420": {
-      "id": "c2-f4-n420",
-      "name": "Аудитория 420",
-      "action": "info",
-      "disc": "Описание c2-f4-n420",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n418": {
-      "id": "c2-f4-n418",
-      "name": "Аудитория 418",
-      "action": "info",
-      "disc": "Описание c2-f4-n418",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n416": {
-      "id": "c2-f4-n416",
-      "name": "Аудитория 416",
-      "action": "info",
-      "disc": "Описание c2-f4-n416",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-401"
       }
     },
     "c2-f4-n402": {
       "id": "c2-f4-n402",
-      "name": "Аудитория 402",
+      "name": "2-402 ФИСТ Каф. «ПМИ» Лаборатория",
       "action": "info",
-      "disc": "Описание c2-f4-n402",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Лаборатория САПР.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-402"
       }
     },
-    "c2-f4-n400": {
-      "id": "c2-f4-n400",
-      "name": "Аудитория 400",
+    "c2-f4-n403": {
+      "id": "c2-f4-n403",
+      "name": "2-403 ООУП ДИТ Компьютерный класс",
       "action": "info",
-      "disc": "Описание c2-f4-n400",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-403"
+      }
+    },
+    "c2-f4-n404": {
+      "id": "c2-f4-n404",
+      "name": "2-404 ФИСТ Каф. «ПМИ» Лаборатория",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Лаборатория обработки изображения.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-404"
+      }
+    },
+    "c2-f3-n305": {
+      "id": "c2-f3-n305",
+      "name": "2-405 ООУП ДИТ Лаборантская",
+      "action": "info",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -225,9 +113,37 @@
     },
     "c2-f4-n406": {
       "id": "c2-f4-n406",
-      "name": "Аудитория 406",
+      "name": "2-406 ФИСТ Каф. «ПМИ» Лаборатория",
       "action": "info",
-      "disc": "Описание c2-f4-n406",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Лаборатория математического моделирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-406"
+      }
+    },
+    "c2-f4-n407": {
+      "id": "c2-f4-n407",
+      "name": "2-407 ООУП ДИТ Компьютерный класс",
+      "action": "info",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-407"
+      }
+    },
+    "c2-f4-n408": {
+      "id": "c2-f4-n408",
+      "name": "2-408 ФИСТ Каф. «ПМИ» Лаборантская",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -237,25 +153,11 @@
         "timetable": ""
       }
     },
-    "c2-f4-n404": {
-      "id": "c2-f4-n404",
-      "name": "Аудитория 404",
+    "c2-f4-n409": {
+      "id": "c2-f4-n409",
+      "name": "2-409 РТФ Каф. «УвТС» Аудитория",
       "action": "info",
-      "disc": "Описание c2-f4-n404",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f4-n412": {
-      "id": "c2-f4-n412",
-      "name": "Аудитория 412",
-      "action": "info",
-      "disc": "Описание c2-f4-n412",
+      "disc": "Радиотехнический факультет. Кафедра «Управление в технических системах». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -267,9 +169,9 @@
     },
     "c2-f4-n410": {
       "id": "c2-f4-n410",
-      "name": "Аудитория 410",
+      "name": "2-410 ФИСТ Каф. «ПМИ» Зав. лаб.",
       "action": "info",
-      "disc": "Описание c2-f4-n410",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Заведующий лабораторией.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -279,11 +181,39 @@
         "timetable": ""
       }
     },
-    "c2-f4-n408": {
-      "id": "c2-f4-n408",
-      "name": "Аудитория 408",
+    "c2-f4-n411": {
+      "id": "c2-f4-n411",
+      "name": "2-411 РТФ Каф. «УвТС» Зав. каф.",
       "action": "info",
-      "disc": "Описание c2-f4-n408",
+      "disc": "Радиотехнический факультет. Кафедра «Управление в технических системах». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f4-n412": {
+      "id": "c2-f4-n412",
+      "name": "2-412 ФИСТ Каф. «ПМИ» Зав. каф.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Прикладная математика и информатика». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f4-n413": {
+      "id": "c2-f4-n413",
+      "name": "2-413 РТФ Каф. «УвТС» Аудитория",
+      "action": "info",
+      "disc": "Радиотехнический факультет. Кафедра «Управление в технических системах». Аудитория для самостоятельной работы. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -295,9 +225,37 @@
     },
     "c2-f4-n414": {
       "id": "c2-f4-n414",
-      "name": "Аудитория 414",
+      "name": "2-414 ООУП ДИТ Компьютерный класс",
       "action": "info",
-      "disc": "Описание c2-f4-n414",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-414"
+      }
+    },
+    "c2-f4-n415": {
+      "id": "c2-f4-n415",
+      "name": "2-415 РТФ Каф. «УвТС» Преподавательская",
+      "action": "info",
+      "disc": "Радиотехнический факультет. Кафедра «Управление в технических системах». Преподавательская. Аудитория для групповых и индивидуальных консультаций, текущего контроля и промежуточной аттестации.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f4-n416": {
+      "id": "c2-f4-n416",
+      "name": "2-416 ООУП ДИТ Лаборантская",
+      "action": "info",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -309,37 +267,65 @@
     },
     "c2-f4-n417": {
       "id": "c2-f4-n417",
-      "name": "Аудитория 417",
+      "name": "2-417 РТФ Каф. «УвТС» Лаборатория",
       "action": "info",
-      "disc": "Описание c2-f4-n417",
+      "disc": "Радиотехнический факультет. Кафедра «Управление в технических системах». Лаборатория «Методология, стандартизация и сертификация».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-417"
       }
     },
-    "c2-f4-n415": {
-      "id": "c2-f4-n415",
-      "name": "Аудитория 415",
+    "c2-f4-n418": {
+      "id": "c2-f4-n418",
+      "name": "2-418 ООУП ДИТ Компьютерный класс",
       "action": "info",
-      "disc": "Описание c2-f4-n415",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-418"
       }
     },
     "c2-f4-n419": {
       "id": "c2-f4-n419",
-      "name": "Аудитория 419",
+      "name": "2-419 ИЭФ Каф. «ЭиМ» Лаборатория",
       "action": "info",
-      "disc": "Описание c2-f4-n419",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Лаборатория товароведения и экспертизы товаров.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-419"
+      }
+    },
+    "c2-f4-n420": {
+      "id": "c2-f4-n420",
+      "name": "2-420 ИЭФ Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-420"
+      }
+    },
+    "c2-f4-n421": {
+      "id": "c2-f4-n421",
+      "name": "2-421 ИЭФ Каф. «ЭиМ» Преподавательская",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -349,11 +335,11 @@
         "timetable": ""
       }
     },
-    "c2-f4-n421": {
-      "id": "c2-f4-n421",
-      "name": "Аудитория 421",
+    "c2-f4-wc": {
+      "id": "c2-f4-wc",
+      "name": "Туалет",
       "action": "info",
-      "disc": "Описание c2-f4-n421",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

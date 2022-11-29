@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №4. Этаж 4",
     "mapName": "c4-f4",
     "prevMap": "c4-f3",
     "nextMap": "",
@@ -22,39 +22,39 @@
       "action": "move",
       "direction": "c5-f3"
     },
+    "c4-f4-n41": {
+      "id": "c4-f4-n41",
+      "name": "4-41 СФ Поточная аудитория",
+      "action": "info",
+      "disc": "Строительный факультет. Поточная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-41"
+      }
+    },
     "c4-f4-n42": {
       "id": "c4-f4-n42",
-      "name": "Аудитория 42",
+      "name": "4-42 СФ Поточная аудитория",
       "action": "info",
-      "disc": "Описание c4-f4-n42",
+      "disc": "Строительный факультет. Поточная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-42"
       }
     },
-    "c4-f4-n44": {
-      "id": "c4-f4-n44",
-      "name": "Аудитория 44",
+    "c4-f4-n43": {
+      "id": "c4-f4-n43",
+      "name": "4-43 СФ Каф. «ПГС» Преподавательская",
       "action": "info",
-      "disc": "Описание c4-f4-n44",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f4-n45": {
-      "id": "c4-f4-n45",
-      "name": "Аудитория 45",
-      "action": "info",
-      "disc": "Описание c4-f4-n45",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -66,9 +66,9 @@
     },
     "c4-f4-n43a": {
       "id": "c4-f4-n43a",
-      "name": "Аудитория 43a",
+      "name": "4-43а СФ Каф. «ПГС» Лаборантская",
       "action": "info",
-      "disc": "Описание c4-f4-n43a",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -78,11 +78,11 @@
         "timetable": ""
       }
     },
-    "c4-f4-n43": {
-      "id": "c4-f4-n43",
-      "name": "Аудитория 43",
+    "c4-f4-n44": {
+      "id": "c4-f4-n44",
+      "name": "4-44 СФ Каф. «ПГС» Зав. каф.",
       "action": "info",
-      "disc": "Описание c4-f4-n43",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Заведующий кафедрой Карсунин Владимир Викторович.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -92,53 +92,39 @@
         "timetable": ""
       }
     },
-    "c4-f4-sp2": {
-      "id": "c4-f4-sp2",
-      "name": "Название c4-f4-sp2",
+    "c4-f4-n45": {
+      "id": "c4-f4-n45",
+      "name": "4-45 СФ Каф. «ТГВ» Учебная НИЛ",
       "action": "info",
-      "disc": "Описание c4-f4-sp2",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Учебная научно-исследовательская лаборатория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-45"
       }
     },
     "c4-f4-n46": {
       "id": "c4-f4-n46",
-      "name": "Аудитория 46",
+      "name": "4-46 СФ Поточная аудитория",
       "action": "info",
-      "disc": "Описание c4-f4-n46",
+      "disc": "Строительный факультет. Поточная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f4-n49": {
-      "id": "c4-f4-n49",
-      "name": "Аудитория 49",
-      "action": "info",
-      "disc": "Описание c4-f4-n49",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-46"
       }
     },
     "c4-f4-n47": {
       "id": "c4-f4-n47",
-      "name": "Аудитория 47",
+      "name": "4-47 СФ Каф. «ТГВ» Кабинет",
       "action": "info",
-      "disc": "Описание c4-f4-n47",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Кабинет дипломного проектирования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -150,9 +136,9 @@
     },
     "c4-f4-n48": {
       "id": "c4-f4-n48",
-      "name": "Аудитория 48",
+      "name": "4-48",
       "action": "info",
-      "disc": "Описание c4-f4-n48",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -162,11 +148,11 @@
         "timetable": ""
       }
     },
-    "c4-f4-sp1": {
-      "id": "c4-f4-sp1",
-      "name": "Название c4-f4-sp1",
+    "c4-f4-n49": {
+      "id": "c4-f4-n49",
+      "name": "4-49 СФ Каф. «ТГВ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c4-f4-sp1",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Заведующий кафедрой Замалеев М.М.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -178,9 +164,9 @@
     },
     "c4-f4-wc": {
       "id": "c4-f4-wc",
-      "name": "Название c4-f4-wc",
+      "name": "Туалет (муж.)",
       "action": "info",
-      "disc": "Описание c4-f4-wc",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -190,11 +176,25 @@
         "timetable": ""
       }
     },
-    "c4-f4-n41": {
-      "id": "c4-f4-n41",
-      "name": "Аудитория 41",
+    "c4-f4-sp1": {
+      "id": "c4-f4-sp1",
+      "name": "Хоз помещение 1",
       "action": "info",
-      "disc": "Описание c4-f4-n41",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c4-f4-sp2": {
+      "id": "c4-f4-sp2",
+      "name": "Хоз помещение 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

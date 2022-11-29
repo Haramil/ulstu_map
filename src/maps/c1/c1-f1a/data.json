@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 1а",
     "mapName": "c1-f1a",
     "prevMap": "c1-f1",
     "nextMap": "c1-f2",
@@ -52,221 +52,11 @@
       "action": "move",
       "direction": "c1-f2"
     },
-    "c1-f1-n108": {
-      "id": "c1-f1-n108",
-      "name": "Аудитория 108",
-      "action": "info",
-      "disc": "Описание c1-f1-n108",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n123": {
-      "id": "c1-f1-n123",
-      "name": "Аудитория 123",
-      "action": "info",
-      "disc": "Описание c1-f1-n123",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n121": {
-      "id": "c1-f1-n121",
-      "name": "Аудитория 121",
-      "action": "info",
-      "disc": "Описание c1-f1-n121",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n119": {
-      "id": "c1-f1-n119",
-      "name": "Аудитория 119",
-      "action": "info",
-      "disc": "Описание c1-f1-n119",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n119a": {
-      "id": "c1-f1-n119a",
-      "name": "Аудитория 119a",
-      "action": "info",
-      "disc": "Описание c1-f1-n119a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n104": {
-      "id": "c1-f1-n104",
-      "name": "Аудитория 104",
-      "action": "info",
-      "disc": "Описание c1-f1-n104",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n104_2": {
-      "id": "c1-f1-n104_2",
-      "name": "Аудитория 104_2",
-      "action": "info",
-      "disc": "Описание c1-f1-n104_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n104_3": {
-      "id": "c1-f1-n104_3",
-      "name": "Аудитория 104_3",
-      "action": "info",
-      "disc": "Описание c1-f1-n104_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n104_4": {
-      "id": "c1-f1-n104_4",
-      "name": "Аудитория 104_4",
-      "action": "info",
-      "disc": "Описание c1-f1-n104_4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n104_5": {
-      "id": "c1-f1-n104_5",
-      "name": "Аудитория 104_5",
-      "action": "info",
-      "disc": "Описание c1-f1-n104_5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n115": {
-      "id": "c1-f1-n115",
-      "name": "Аудитория 115",
-      "action": "info",
-      "disc": "Описание c1-f1-n115",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n113": {
-      "id": "c1-f1-n113",
-      "name": "Аудитория 113",
-      "action": "info",
-      "disc": "Описание c1-f1-n113",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n109": {
-      "id": "c1-f1-n109",
-      "name": "Аудитория 109",
-      "action": "info",
-      "disc": "Описание c1-f1-n109",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n107": {
-      "id": "c1-f1-n107",
-      "name": "Аудитория 107",
-      "action": "info",
-      "disc": "Описание c1-f1-n107",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c1-f1-n09": {
       "id": "c1-f1-n09",
-      "name": "Аудитория 09",
+      "name": "1-009 МФ Кафедра «Металлорежущие станки и инструменты»",
       "action": "info",
-      "disc": "Описание c1-f1-n09",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n200": {
-      "id": "c1-f1-n200",
-      "name": "Аудитория 200",
-      "action": "info",
-      "disc": "Описание c1-f1-n200",
+      "disc": "Машиностроительный факультет. Кафедра «Металлорежущие станки и инструменты». Лаборатория «Износостойкие покрытия» ",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -278,79 +68,9 @@
     },
     "c1-f1-n011": {
       "id": "c1-f1-n011",
-      "name": "Аудитория 011",
+      "name": "1-011 МФ Каф. «ИТвМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c1-f1-n011",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n102": {
-      "id": "c1-f1-n102",
-      "name": "Аудитория 102",
-      "action": "info",
-      "disc": "Описание c1-f1-n102",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n105": {
-      "id": "c1-f1-n105",
-      "name": "Аудитория 105",
-      "action": "info",
-      "disc": "Описание c1-f1-n105",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n101": {
-      "id": "c1-f1-n101",
-      "name": "Аудитория 101",
-      "action": "info",
-      "disc": "Описание c1-f1-n101",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n99": {
-      "id": "c1-f1-n99",
-      "name": "Аудитория 99",
-      "action": "info",
-      "disc": "Описание c1-f1-n99",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-wc": {
-      "id": "c1-f1-wc",
-      "name": "Название c1-f1-wc",
-      "action": "info",
-      "disc": "Описание c1-f1-wc",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Учебная лаборатория «Технология машиностроения».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -362,9 +82,9 @@
     },
     "c1-f1-n91": {
       "id": "c1-f1-n91",
-      "name": "Аудитория 91",
+      "name": "1-91 ИННО ИТО Начальник",
       "action": "info",
-      "disc": "Описание c1-f1-n91",
+      "disc": "Институт непрерывного образования. ИТО. Начальник.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -376,9 +96,9 @@
     },
     "c1-f1-n92": {
       "id": "c1-f1-n92",
-      "name": "Аудитория 92",
+      "name": "1-92 ИННО Сектор тех. обеспечения",
       "action": "info",
-      "disc": "Описание c1-f1-n92",
+      "disc": "Институт непрерывного образования. Сектор технического обеспечения.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -390,9 +110,9 @@
     },
     "c1-f1-n93": {
       "id": "c1-f1-n93",
-      "name": "Аудитория 93",
+      "name": "1-93 ИННО",
       "action": "info",
-      "disc": "Описание c1-f1-n93",
+      "disc": "Институт непрерывного образования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -404,23 +124,9 @@
     },
     "c1-f1-n94": {
       "id": "c1-f1-n94",
-      "name": "Аудитория 94",
+      "name": "1-94 ИННО Мультимедийная ауд.",
       "action": "info",
-      "disc": "Описание c1-f1-n94",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n96": {
-      "id": "c1-f1-n96",
-      "name": "Аудитория 96",
-      "action": "info",
-      "disc": "Описание c1-f1-n96",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -432,9 +138,9 @@
     },
     "c1-f1-n95": {
       "id": "c1-f1-n95",
-      "name": "Аудитория 95",
+      "name": "1-95 ИННО Видеопреподавательская",
       "action": "info",
-      "disc": "Описание c1-f1-n95",
+      "disc": "Институт непрерывного образования. Видеопреподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -444,25 +150,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-n103": {
-      "id": "c1-f1-n103",
-      "name": "Аудитория 103",
+    "c1-f1-n96": {
+      "id": "c1-f1-n96",
+      "name": "1-96 ИННО Методический отдел",
       "action": "info",
-      "disc": "Описание c1-f1-n103",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n100": {
-      "id": "c1-f1-n100",
-      "name": "Аудитория 100",
-      "action": "info",
-      "disc": "Описание c1-f1-n100",
+      "disc": "Институт непрерывного образования. Методический отдел.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -474,9 +166,9 @@
     },
     "c1-f1-n97": {
       "id": "c1-f1-n97",
-      "name": "Аудитория 97",
+      "name": "1-97 ИННО ГМТО",
       "action": "info",
-      "disc": "Описание c1-f1-n97",
+      "disc": "Институт непрерывного образования. ГМТО.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -486,11 +178,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-n117Ð²": {
-      "id": "c1-f1-n117Ð²",
-      "name": "Аудитория 117Ð²",
+    "c1-f1-n99": {
+      "id": "c1-f1-n99",
+      "name": "1-99 ИННО Консультационный пункт",
       "action": "info",
-      "disc": "Описание c1-f1-n117Ð²",
+      "disc": "Институт непрерывного образования. Справочно-информационный консультационный пункт.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -500,11 +192,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-n137Ð±": {
-      "id": "c1-f1-n137Ð±",
-      "name": "Аудитория 137Ð±",
+    "c1-f1-n100": {
+      "id": "c1-f1-n100",
+      "name": "1-100 МФ Каф. «МиОМД» Зав. каф.",
       "action": "info",
-      "disc": "Описание c1-f1-n137Ð±",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Заведующий кафедрой Кокорин Валерий Николаевич.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -514,11 +206,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-n137Ð±_2": {
-      "id": "c1-f1-n137Ð±_2",
-      "name": "Аудитория 137Ð±_2",
+    "c1-f1-n101": {
+      "id": "c1-f1-n101",
+      "name": "1-101 МФ Каф. «МиОМД» Преподавательская",
       "action": "info",
-      "disc": "Описание c1-f1-n137Ð±_2",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -528,11 +220,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-cloakroom": {
-      "id": "c1-f1-cloakroom",
-      "name": "Название c1-f1-cloakroom",
+    "c1-f1-n102": {
+      "id": "c1-f1-n102",
+      "name": "1-102",
       "action": "info",
-      "disc": "Описание c1-f1-cloakroom",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -542,11 +234,11 @@
         "timetable": ""
       }
     },
-    "c1-f1-security": {
-      "id": "c1-f1-security",
-      "name": "Название c1-f1-security",
+    "c1-f1-n103": {
+      "id": "c1-f1-n103",
+      "name": "1-103 МФ Каф. «МиОМД» Преподавательская Аспирантская",
       "action": "info",
-      "disc": "Описание c1-f1-security",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Преподавательская. Аспирантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -556,11 +248,25 @@
         "timetable": ""
       }
     },
-    "c1-f1-n119a_2": {
-      "id": "c1-f1-n119a_2",
-      "name": "Аудитория 119a_2",
+    "c1-f1-n104": {
+      "id": "c1-f1-n104",
+      "name": "1-104 МФ Каф. «МиОМД» Лекц. ауд.",
       "action": "info",
-      "disc": "Описание c1-f1-n119a_2",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Лекционная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-104"
+      }
+    },
+    "c1-f1-n105": {
+      "id": "c1-f1-n105",
+      "name": "1-105 МФ Каф. «МиОМД» Зав. лаб.",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Заведующий лабораторией. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -570,11 +276,25 @@
         "timetable": ""
       }
     },
-    "c1-f1-n117": {
-      "id": "c1-f1-n117",
-      "name": "Аудитория 117",
+    "c1-f1-n107": {
+      "id": "c1-f1-n107",
+      "name": "1-107 МФ Каф. «МиОМД» Лаборатория",
       "action": "info",
-      "disc": "Описание c1-f1-n117",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Лаборатория АКШП и КШО. Кабинет для практических занятий.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-107"
+      }
+    },
+    "c1-f1-n108": {
+      "id": "c1-f1-n108",
+      "name": "1-108 ИННО КРОСС и оборудование АТС",
+      "action": "info",
+      "disc": "Институт непрерывного образования. КРОСС и оборудование АТС.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -584,207 +304,25 @@
         "timetable": ""
       }
     },
-    "c1-f1-n127": {
-      "id": "c1-f1-n127",
-      "name": "Аудитория 127",
+    "c1-f1-n109": {
+      "id": "c1-f1-n109",
+      "name": "1-109 МФ Каф. «МиОМД» Комп. класс",
       "action": "info",
-      "disc": "Описание c1-f1-n127",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Компьютерный класс. Кабинет для курсового проектирования.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-109"
       }
     },
-    "c1-f1-n125": {
-      "id": "c1-f1-n125",
-      "name": "Аудитория 125",
+    "c1-f1-n111": {
+      "id": "c1-f1-n111",
+      "name": "1-111",
       "action": "info",
-      "disc": "Описание c1-f1-n125",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n134": {
-      "id": "c1-f1-n134",
-      "name": "Аудитория 134",
-      "action": "info",
-      "disc": "Описание c1-f1-n134",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n129": {
-      "id": "c1-f1-n129",
-      "name": "Аудитория 129",
-      "action": "info",
-      "disc": "Описание c1-f1-n129",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n130": {
-      "id": "c1-f1-n130",
-      "name": "Аудитория 130",
-      "action": "info",
-      "disc": "Описание c1-f1-n130",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n133": {
-      "id": "c1-f1-n133",
-      "name": "Аудитория 133",
-      "action": "info",
-      "disc": "Описание c1-f1-n133",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n135": {
-      "id": "c1-f1-n135",
-      "name": "Аудитория 135",
-      "action": "info",
-      "disc": "Описание c1-f1-n135",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n131": {
-      "id": "c1-f1-n131",
-      "name": "Аудитория 131",
-      "action": "info",
-      "disc": "Описание c1-f1-n131",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n140a": {
-      "id": "c1-f1-n140a",
-      "name": "Аудитория 140a",
-      "action": "info",
-      "disc": "Описание c1-f1-n140a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n120": {
-      "id": "c1-f1-n120",
-      "name": "Аудитория 120",
-      "action": "info",
-      "disc": "Описание c1-f1-n120",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n132": {
-      "id": "c1-f1-n132",
-      "name": "Аудитория 132",
-      "action": "info",
-      "disc": "Описание c1-f1-n132",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n134a": {
-      "id": "c1-f1-n134a",
-      "name": "Аудитория 134a",
-      "action": "info",
-      "disc": "Описание c1-f1-n134a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n137a": {
-      "id": "c1-f1-n137a",
-      "name": "Аудитория 137a",
-      "action": "info",
-      "disc": "Описание c1-f1-n137a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n140b": {
-      "id": "c1-f1-n140b",
-      "name": "Аудитория 140b",
-      "action": "info",
-      "disc": "Описание c1-f1-n140b",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n136": {
-      "id": "c1-f1-n136",
-      "name": "Аудитория 136",
-      "action": "info",
-      "disc": "Описание c1-f1-n136",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -796,9 +334,9 @@
     },
     "c1-f1-n112": {
       "id": "c1-f1-n112",
-      "name": "Аудитория 112",
+      "name": "1-112 ИННО Серверная",
       "action": "info",
-      "disc": "Описание c1-f1-n112",
+      "disc": "Институт непрерывного образования. Серверная. Дежурный АТС.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -808,39 +346,25 @@
         "timetable": ""
       }
     },
-    "c1-f1-n111": {
-      "id": "c1-f1-n111",
-      "name": "Аудитория 111",
+    "c1-f1-n113": {
+      "id": "c1-f1-n113",
+      "name": "1-113 ООУП ДИТ Компьютерный класс",
       "action": "info",
-      "disc": "Описание c1-f1-n111",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-n136a": {
-      "id": "c1-f1-n136a",
-      "name": "Аудитория 136a",
-      "action": "info",
-      "disc": "Описание c1-f1-n136a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-113"
       }
     },
     "c1-f1-n114": {
       "id": "c1-f1-n114",
-      "name": "Аудитория 114",
+      "name": "1-114 ИННО Транспортная служба",
       "action": "info",
-      "disc": "Описание c1-f1-n114",
+      "disc": "Институт непрерывного образования. Транспортная служба. Начальник.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -850,11 +374,53 @@
         "timetable": ""
       }
     },
+    "c1-f1-n115": {
+      "id": "c1-f1-n115",
+      "name": "1-115 ООУП ИННО Комп. класс",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Отдел обеспечения учебного процесса. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-115"
+      }
+    },
     "c1-f1-n116": {
       "id": "c1-f1-n116",
-      "name": "Аудитория 116",
+      "name": "1-116 ИННО Директор.",
       "action": "info",
-      "disc": "Описание c1-f1-n116",
+      "disc": "Институт непрерывного образования. Директор - Нестерова Анна Александровна",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n117": {
+      "id": "c1-f1-n117",
+      "name": "1-117 Мультимедийная аудитория",
+      "action": "info",
+      "disc": "Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-117"
+      }
+    },
+    "c1-f1-n117Ð²": {
+      "id": "c1-f1-n117Ð²",
+      "name": "1-117в ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -866,9 +432,401 @@
     },
     "c1-f1-n118": {
       "id": "c1-f1-n118",
-      "name": "Аудитория 118",
+      "name": "1-118 ИННО Зам. директора",
       "action": "info",
-      "disc": "Описание c1-f1-n118",
+      "disc": "Институт непрерывного образования. Заместитель директора по экономике и финансам. Заместитель директора по учебной работе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n119": {
+      "id": "c1-f1-n119",
+      "name": "1-119 ИННО КЭИ Кабинет",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Колледж экономики и информатики. Кабинет по работе с обучающимися и абитуриентами.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n119a": {
+      "id": "c1-f1-n119a",
+      "name": "1-119a ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-119а"
+      }
+    },
+    "c1-f1-n120": {
+      "id": "c1-f1-n120",
+      "name": "1-120 ДНИИ Лаборатория",
+      "action": "info",
+      "disc": "Департамент научных исследований и инноваций. Лаборатория «Инновационные виртуальные технологии проектирования и обучения».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n121": {
+      "id": "c1-f1-n121",
+      "name": "1-121 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-121"
+      }
+    },
+    "c1-f1-n123": {
+      "id": "c1-f1-n123",
+      "name": "1-123 ИННО ЦДО",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Центр дополнительного образования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n125": {
+      "id": "c1-f1-n125",
+      "name": "1-125 ИННО Сектор организации мероприятий ИГА",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Сектор организации мероприятий ИГА.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n127": {
+      "id": "c1-f1-n127",
+      "name": "1-127 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n129": {
+      "id": "c1-f1-n129",
+      "name": "1-129 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-129"
+      }
+    },
+    "c1-f1-n130": {
+      "id": "c1-f1-n130",
+      "name": "1-130 ДНИИ Лаборатория",
+      "action": "info",
+      "disc": "Департамент научных исследований и инноваций. Лаборатория «Инновационные виртуальные технологии проектирования и обучения». Заведующий лабораторией Войт Николай Николаевич.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n131": {
+      "id": "c1-f1-n131",
+      "name": "1-131 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-131"
+      }
+    },
+    "c1-f1-n132": {
+      "id": "c1-f1-n132",
+      "name": "1-132 ИННО Научно-исслед. отдел",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Научно-исследовательский отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n133": {
+      "id": "c1-f1-n133",
+      "name": "1-133 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-133"
+      }
+    },
+    "c1-f1-n134": {
+      "id": "c1-f1-n134",
+      "name": "1-134 ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-134"
+      }
+    },
+    "c1-f1-n134a": {
+      "id": "c1-f1-n134a",
+      "name": "1-134а КЭИ ФСПО Отдел организации сопровождения практик",
+      "action": "info",
+      "disc": "Колледж экономики и информатики. Факультет среднего профессионального образования. Отдел организации сопровождения практик обучающихся колледжа.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n135": {
+      "id": "c1-f1-n135",
+      "name": "1-135 ИННО. Мультимедийная аудитория",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория. Кабинет экологических основ природопользования",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-135"
+      }
+    },
+    "c1-f1-n136": {
+      "id": "c1-f1-n136",
+      "name": "1-136 ИННО Каб. иностранного языка",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Кабинет иностранного языка.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-136"
+      }
+    },
+    "c1-f1-n136a": {
+      "id": "c1-f1-n136a",
+      "name": "1-136а ИННО Каб. иностранного языка",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Кабинет иностранного языка.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n137Ð±_2": {
+      "id": "c1-f1-n137Ð±_2",
+      "name": "1-137 ИННО ЦДО",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Центр дополнительного образования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n137a": {
+      "id": "c1-f1-n137a",
+      "name": "1-137а",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n137Ð±": {
+      "id": "c1-f1-n137Ð±",
+      "name": "1-137б ИННО Мультимедийная ауд.",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-137б"
+      }
+    },
+    "c1-f1-n140a": {
+      "id": "c1-f1-n140a",
+      "name": "1-140а ИННО Учебный отдел",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Учебный отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n140b": {
+      "id": "c1-f1-n140b",
+      "name": "1-140б ИННО Учебный отдел",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Учебный отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n200": {
+      "id": "c1-f1-n200",
+      "name": "1-200 МФ Кафедра «Технология машиностроения»",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Технология машиностроения»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-cloakroom": {
+      "id": "c1-f1-cloakroom",
+      "name": "Гардероб",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n104_2": {
+      "id": "c1-f1-n104_2",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n104_3": {
+      "id": "c1-f1-n104_3",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n104_4": {
+      "id": "c1-f1-n104_4",
+      "name": "Хоз. помещение 3",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-n104_5": {
+      "id": "c1-f1-n104_5",
+      "name": "Хоз. помещение 4",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -880,9 +838,9 @@
     },
     "coffee": {
       "id": "coffee",
-      "name": "Название coffee",
+      "name": "Кофейный автомат 1",
       "action": "info",
-      "disc": "Описание coffee",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -894,9 +852,37 @@
     },
     "coffee_2": {
       "id": "coffee_2",
-      "name": "Название coffee_2",
+      "name": "Кофейный автомат 2",
       "action": "info",
-      "disc": "Описание coffee_2",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-security": {
+      "id": "c1-f1-security",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-wc": {
+      "id": "c1-f1-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

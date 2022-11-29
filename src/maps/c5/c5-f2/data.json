@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №5. Этаж 2",
     "mapName": "c5-f2",
     "prevMap": "c5-f1",
     "nextMap": "c5-f3",
@@ -12,221 +12,11 @@
       "action": "move",
       "direction": "c5-f3"
     },
-    "c5-f2-n209": {
-      "id": "c5-f2-n209",
-      "name": "Аудитория 209",
+    "c5-f2-n201": {
+      "id": "c5-f2-n201",
+      "name": "5-201 Нач. спец. отдела",
       "action": "info",
-      "disc": "Описание c5-f2-n209",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n208a": {
-      "id": "c5-f2-n208a",
-      "name": "Аудитория 208a",
-      "action": "info",
-      "disc": "Описание c5-f2-n208a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n210": {
-      "id": "c5-f2-n210",
-      "name": "Аудитория 210",
-      "action": "info",
-      "disc": "Описание c5-f2-n210",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n208": {
-      "id": "c5-f2-n208",
-      "name": "Аудитория 208",
-      "action": "info",
-      "disc": "Описание c5-f2-n208",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n210_2": {
-      "id": "c5-f2-n210_2",
-      "name": "Аудитория 210_2",
-      "action": "info",
-      "disc": "Описание c5-f2-n210_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n202": {
-      "id": "c5-f2-n202",
-      "name": "Аудитория 202",
-      "action": "info",
-      "disc": "Описание c5-f2-n202",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n201b": {
-      "id": "c5-f2-n201b",
-      "name": "Аудитория 201b",
-      "action": "info",
-      "disc": "Описание c5-f2-n201b",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n207": {
-      "id": "c5-f2-n207",
-      "name": "Аудитория 207",
-      "action": "info",
-      "disc": "Описание c5-f2-n207",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n206b": {
-      "id": "c5-f2-n206b",
-      "name": "Аудитория 206b",
-      "action": "info",
-      "disc": "Описание c5-f2-n206b",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n206c": {
-      "id": "c5-f2-n206c",
-      "name": "Аудитория 206c",
-      "action": "info",
-      "disc": "Описание c5-f2-n206c",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n206a": {
-      "id": "c5-f2-n206a",
-      "name": "Аудитория 206a",
-      "action": "info",
-      "disc": "Описание c5-f2-n206a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n203": {
-      "id": "c5-f2-n203",
-      "name": "Аудитория 203",
-      "action": "info",
-      "disc": "Описание c5-f2-n203",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n213": {
-      "id": "c5-f2-n213",
-      "name": "Аудитория 213",
-      "action": "info",
-      "disc": "Описание c5-f2-n213",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n212": {
-      "id": "c5-f2-n212",
-      "name": "Аудитория 212",
-      "action": "info",
-      "disc": "Описание c5-f2-n212",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n212a": {
-      "id": "c5-f2-n212a",
-      "name": "Аудитория 212a",
-      "action": "info",
-      "disc": "Описание c5-f2-n212a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f2-n214": {
-      "id": "c5-f2-n214",
-      "name": "Аудитория 214",
-      "action": "info",
-      "disc": "Описание c5-f2-n214",
+      "disc": "Начальник специального отдела.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -238,9 +28,9 @@
     },
     "c5-f2-n201a": {
       "id": "c5-f2-n201a",
-      "name": "Аудитория 201a",
+      "name": "5-201а Мобилизац. отдел",
       "action": "info",
-      "disc": "Описание c5-f2-n201a",
+      "disc": "Мобилизационный отдел.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -250,11 +40,11 @@
         "timetable": ""
       }
     },
-    "c5-f2-n201": {
-      "id": "c5-f2-n201",
-      "name": "Аудитория 201",
+    "c5-f2-n201b": {
+      "id": "c5-f2-n201b",
+      "name": "5-201б Мобилизац. отдел",
       "action": "info",
-      "disc": "Описание c5-f2-n201",
+      "disc": "Мобилизационный отдел.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -264,11 +54,207 @@
         "timetable": ""
       }
     },
-    "c5-f2-cp2": {
-      "id": "c5-f2-cp2",
-      "name": "Название c5-f2-cp2",
+    "c5-f2-n202": {
+      "id": "c5-f2-n202",
+      "name": "5-202 Секр. часть",
       "action": "info",
-      "disc": "Описание c5-f2-cp2",
+      "disc": "Секретная часть.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n203": {
+      "id": "c5-f2-n203",
+      "name": "5-203 СКБ Класс ОТ ГО и ЧС",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Класс охраны труда, ГО и ЧС.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n206a": {
+      "id": "c5-f2-n206a",
+      "name": "5-206а СКБ Нач. отдела охраны",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Начальник отдела охраны.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n206b": {
+      "id": "c5-f2-n206b",
+      "name": "5-206б Упр. информатизации Зам. нач. управления",
+      "action": "info",
+      "disc": "Управление информатизации. Заместитель начальника управления по информационной безопасности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n206c": {
+      "id": "c5-f2-n206c",
+      "name": "5-206в",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n207": {
+      "id": "c5-f2-n207",
+      "name": "5-207 Ректорат Проректор по реж. об.",
+      "action": "info",
+      "disc": "Ректорат. Проректор по режимному объекту.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n208": {
+      "id": "c5-f2-n208",
+      "name": "5-208 Ректорат Ведущий спец. СКБ",
+      "action": "info",
+      "disc": "Ректорат. Ведущий специалист службы комплексной безопасности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n208a": {
+      "id": "c5-f2-n208a",
+      "name": "5-208а СКБ ВУС",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Военно-учётный стол.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n209": {
+      "id": "c5-f2-n209",
+      "name": "5-209 СКБ Класс АТЗ и ПП",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Класс АТЗ и профилактики правонарушении.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n210": {
+      "id": "c5-f2-n210",
+      "name": "5-210 УлГТУ Служба охраны труда",
+      "action": "info",
+      "disc": "Ульяновский государственный технический университет. Служба охраны труда.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n211": {
+      "id": "c5-f2-n211",
+      "name": "5-211 СКБ Нач. отдела ПП",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Начальник отдела профилактики правонарушений.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n212": {
+      "id": "c5-f2-n212",
+      "name": "5-212 СКБ Отдел ГО и ЧС",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Отдел ГО и ЧС.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n212a": {
+      "id": "c5-f2-n212a",
+      "name": "5-212а СКБ Отдел ЭБ",
+      "action": "info",
+      "disc": "Служба комплексной безопасности. Отдел экономической безопасности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n213": {
+      "id": "c5-f2-n213",
+      "name": "5-213 Ректорат Пом. ректора",
+      "action": "info",
+      "disc": "Ректорат. Помощник ректора.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-n214": {
+      "id": "c5-f2-n214",
+      "name": "5-214 Комната для хранения оружия",
+      "action": "info",
+      "disc": "Комната для хранения оружия.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -280,9 +266,23 @@
     },
     "c5-f2-wc": {
       "id": "c5-f2-wc",
-      "name": "Название c5-f2-wc",
+      "name": "Туалет (муж.)",
       "action": "info",
-      "disc": "Описание c5-f2-wc",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f2-cp2": {
+      "id": "c5-f2-cp2",
+      "name": "Хоз. помещение",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
