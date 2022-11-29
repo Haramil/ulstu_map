@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c6-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 0",
     "mapName": "c6-f0",
     "prevMap": "",
     "nextMap": "c6-f1",
@@ -17,154 +17,25 @@
       "action": "move",
       "direction": "c6-f1"
     },
-    "c6-f0-nltm": {
-      "id": "c6-f0-nltm",
-      "name": "Название c6-f0-nltm",
+    "c6-f0-n003": {
+      "id": "c6-f0-n003",
+      "name": "6-003 СФ Каф. «ТГВ» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f0-nltm",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Лаборатория «Гидравлика, инженерные сети и оборудование».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-nsm": {
-      "id": "c6-f0-nsm",
-      "name": "Название c6-f0-nsm",
-      "action": "info",
-      "disc": "Описание c6-f0-nsm",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-nktm": {
-      "id": "c6-f0-nktm",
-      "name": "Название c6-f0-nktm",
-      "action": "info",
-      "disc": "Описание c6-f0-nktm",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-cp1": {
-      "id": "c6-f0-cp1",
-      "name": "Название c6-f0-cp1",
-      "action": "info",
-      "disc": "Описание c6-f0-cp1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-cp2": {
-      "id": "c6-f0-cp2",
-      "name": "Название c6-f0-cp2",
-      "action": "info",
-      "disc": "Описание c6-f0-cp2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-n08": {
-      "id": "c6-f0-n08",
-      "name": "Название c6-f0-n08",
-      "action": "info",
-      "disc": "Описание c6-f0-n08",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-cp3": {
-      "id": "c6-f0-cp3",
-      "name": "Название c6-f0-cp3",
-      "action": "info",
-      "disc": "Описание c6-f0-cp3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-n06": {
-      "id": "c6-f0-n06",
-      "name": "Название c6-f0-n06",
-      "action": "info",
-      "disc": "Описание c6-f0-n06",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-003"
       }
     },
     "c6-f0-n04": {
       "id": "c6-f0-n04",
-      "name": "Название c6-f0-n04",
+      "name": "6-004 МФ Каф. «МиОМД» Мастерская",
       "action": "info",
-      "disc": "Описание c6-f0-n04",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-nsmm": {
-      "id": "c6-f0-nsmm",
-      "name": "Название c6-f0-nsmm",
-      "action": "info",
-      "disc": "Описание c6-f0-nsmm",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-n003": {
-      "id": "c6-f0-n003",
-      "name": "Название c6-f0-n003",
-      "action": "info",
-      "disc": "Описание c6-f0-n003",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-n009": {
-      "id": "c6-f0-n009",
-      "name": "Название c6-f0-n009",
-      "action": "info",
-      "disc": "Описание c6-f0-n009",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Мастерская. Кабинет для хранения и профилактического обслуживания учебного заведения.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -175,35 +46,78 @@
     },
     "c6-f0-n005": {
       "id": "c6-f0-n005",
-      "name": "Название c6-f0-n005",
+      "name": "6-005 ИФ МИ Каф. «НД» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f0-n005",
+      "disc": "Международный институт. Инженерный факультет. Кафедра «Нефтегазовое дело». Учебная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-005"
+      }
+    },
+    "c6-f0-n06": {
+      "id": "c6-f0-n06",
+      "name": "6-006 МФ Каф. «МиОМД» Лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Лаборатория сварки. Кабинет для практических занятий.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": ""
+      }
+    },
+    "c6-f0-n08": {
+      "id": "c6-f0-n08",
+      "name": "6-008 МФ Каф. «МиОМД» Лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Материаловедение и ОМД». Лаборатория технологии конструкционных материалов. Кабинет для практических занятий.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-008"
+      }
+    },
+    "c6-f0-n009": {
+      "id": "c6-f0-n009",
+      "name": "6-009",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-009"
       }
     },
     "c6-f0-n011": {
       "id": "c6-f0-n011",
-      "name": "Название c6-f0-n011",
+      "name": "6-011 СФ Каф. «ТГВ» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f0-n011",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Лаборатория «Вентиляция и кондиционирование воздуха зданий».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
-        "website": ""
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-011"
       }
     },
     "c6-f0-nc15": {
       "id": "c6-f0-nc15",
-      "name": "Название c6-f0-nc15",
+      "name": "6-Ц15 СТСБ Начальник службы",
       "action": "info",
-      "disc": "Описание c6-f0-nc15",
+      "disc": "Служба технических средств безопасности. Начальник службы. Начальник пункта управления.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -214,9 +128,9 @@
     },
     "c6-f0-nc17": {
       "id": "c6-f0-nc17",
-      "name": "Название c6-f0-nc17",
+      "name": "6-Ц17 СТСБ Пункт управления ОПС",
       "action": "info",
-      "disc": "Описание c6-f0-nc17",
+      "disc": "Служба технических средств безопасности. Пункт управления охранно-пожарной сигнализацией, оповещения и видеонаблюдения. Мастерская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -227,9 +141,9 @@
     },
     "c6-f0-nkis": {
       "id": "c6-f0-nkis",
-      "name": "Название c6-f0-nkis",
+      "name": "Кабинет инженерных сетей и оборудования территорий, зданий и стройплощадок",
       "action": "info",
-      "disc": "Описание c6-f0-nkis",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -238,11 +152,11 @@
         "website": ""
       }
     },
-    "c6-f0-wc2": {
-      "id": "c6-f0-wc2",
-      "name": "Название c6-f0-wc2",
+    "c6-f0-nktm": {
+      "id": "c6-f0-nktm",
+      "name": "Кабинет технической механики",
       "action": "info",
-      "disc": "Описание c6-f0-wc2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -251,24 +165,11 @@
         "website": ""
       }
     },
-    "c6-f0-wc1": {
-      "id": "c6-f0-wc1",
-      "name": "Название c6-f0-wc1",
+    "c6-f0-nltm": {
+      "id": "c6-f0-nltm",
+      "name": "Лаборатория технической механики",
       "action": "info",
-      "disc": "Описание c6-f0-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c6-f0-security": {
-      "id": "c6-f0-security",
-      "name": "Название c6-f0-security",
-      "action": "info",
-      "disc": "Описание c6-f0-security",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -279,9 +180,9 @@
     },
     "c6-f0-elevator1": {
       "id": "c6-f0-elevator1",
-      "name": "Название c6-f0-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f0-elevator1",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -292,9 +193,113 @@
     },
     "c6-f0-elevator2": {
       "id": "c6-f0-elevator2",
-      "name": "Название c6-f0-elevator2",
+      "name": "Лифт 2",
       "action": "info",
-      "disc": "Описание c6-f0-elevator2",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-nsm": {
+      "id": "c6-f0-nsm",
+      "name": "Слесарная мастерская",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-nsmm": {
+      "id": "c6-f0-nsmm",
+      "name": "Слесарно-механическая мастерская",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-wc1": {
+      "id": "c6-f0-wc1",
+      "name": "Туалет 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-wc2": {
+      "id": "c6-f0-wc2",
+      "name": "Туалет 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-security": {
+      "id": "c6-f0-security",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-cp1": {
+      "id": "c6-f0-cp1",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-cp2": {
+      "id": "c6-f0-cp2",
+      "name": "Хоз. помещение 3",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c6-f0-cp3": {
+      "id": "c6-f0-cp3",
+      "name": "Хоз. помещение 4",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

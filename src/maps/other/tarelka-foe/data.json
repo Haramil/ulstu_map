@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "РЦНТК «Тарелка». Фойе",
     "mapName": "tarelka-foe",
     "prevMap": "",
     "nextMap": "tarelka",
@@ -57,37 +57,11 @@
       "action": "move",
       "direction": "tarelka"
     },
-    "c4-f1-n111": {
-      "id": "c4-f1-n111",
-      "name": "Название c4-f1-n111",
+    "bank": {
+      "id": "bank",
+      "name": "Банкомат. Банк «Открытие»",
       "action": "info",
-      "disc": "Описание c4-f1-n111",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "t-fh": {
-      "id": "t-fh",
-      "name": "Название t-fh",
-      "action": "info",
-      "disc": "Описание t-fh",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "t-fh_2": {
-      "id": "t-fh_2",
-      "name": "Название t-fh_2",
-      "action": "info",
-      "disc": "Описание t-fh_2",
+      "disc": "Банкомат. Банк «Открытие»",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -98,9 +72,9 @@
     },
     "t-fh_3": {
       "id": "t-fh_3",
-      "name": "Название t-fh_3",
+      "name": "Дом интернета",
       "action": "info",
-      "disc": "Описание t-fh_3",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -109,11 +83,11 @@
         "website": ""
       }
     },
-    "t-fh_4": {
-      "id": "t-fh_4",
-      "name": "Название t-fh_4",
+    "coffee": {
+      "id": "coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание t-fh_4",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -122,11 +96,11 @@
         "website": ""
       }
     },
-    "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ": {
-      "id": "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
-      "name": "Название Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
+    "t-fh_2": {
+      "id": "t-fh_2",
+      "name": "Студенческий клуб",
       "action": "info",
-      "disc": "Описание Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. ÐÐ±Ð¾Ð½ÐµÐ¼ÐµÐ½Ñ",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -135,11 +109,11 @@
         "website": ""
       }
     },
-    "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»": {
-      "id": "Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
-      "name": "Название Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
+    "food": {
+      "id": "food",
+      "name": "Торговый автомат",
       "action": "info",
-      "disc": "Описание Ð£ÑÐµÐ±Ð½Ð°Ñ Ð±Ð¸Ð±Ð»Ð¸Ð¾ÑÐµÐºÐ°. Ð§Ð¸ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð·Ð°Ð»",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

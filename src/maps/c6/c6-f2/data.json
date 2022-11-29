@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 2",
     "mapName": "c5-f1",
     "prevMap": "c6-f1",
     "nextMap": "c6-f3",
@@ -17,123 +17,11 @@
       "action": "move",
       "direction": "c6-f3"
     },
-    "c6-f2-n224": {
-      "id": "c6-f2-n224",
-      "name": "Аудитория 224",
-      "action": "info",
-      "disc": "Описание c6-f2-n224",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n226": {
-      "id": "c6-f2-n226",
-      "name": "Аудитория 226",
-      "action": "info",
-      "disc": "Описание c6-f2-n226",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n222": {
-      "id": "c6-f2-n222",
-      "name": "Аудитория 222",
-      "action": "info",
-      "disc": "Описание c6-f2-n222",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n208": {
-      "id": "c6-f2-n208",
-      "name": "Аудитория 208",
-      "action": "info",
-      "disc": "Описание c6-f2-n208",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n206": {
-      "id": "c6-f2-n206",
-      "name": "Аудитория 206",
-      "action": "info",
-      "disc": "Описание c6-f2-n206",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n207": {
-      "id": "c6-f2-n207",
-      "name": "Аудитория 207",
-      "action": "info",
-      "disc": "Описание c6-f2-n207",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n204": {
-      "id": "c6-f2-n204",
-      "name": "Аудитория 204",
-      "action": "info",
-      "disc": "Описание c6-f2-n204",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n205": {
-      "id": "c6-f2-n205",
-      "name": "Аудитория 205",
-      "action": "info",
-      "disc": "Описание c6-f2-n205",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f2-n200": {
       "id": "c6-f2-n200",
-      "name": "Аудитория 200",
+      "name": "6-200 ДНИИ Отдел асп. и докт.",
       "action": "info",
-      "disc": "Описание c6-f2-n200",
+      "disc": "Департамент научных исследований и инноваций. Отдел аспирантуры и докторантуры.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -145,107 +33,9 @@
     },
     "c6-f2-n201": {
       "id": "c6-f2-n201",
-      "name": "Аудитория 201",
+      "name": "6-201 ДЭФиКО Отдел труда и з/п",
       "action": "info",
-      "disc": "Описание c6-f2-n201",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n217": {
-      "id": "c6-f2-n217",
-      "name": "Аудитория 217",
-      "action": "info",
-      "disc": "Описание c6-f2-n217",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n212": {
-      "id": "c6-f2-n212",
-      "name": "Аудитория 212",
-      "action": "info",
-      "disc": "Описание c6-f2-n212",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n213": {
-      "id": "c6-f2-n213",
-      "name": "Аудитория 213",
-      "action": "info",
-      "disc": "Описание c6-f2-n213",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n209": {
-      "id": "c6-f2-n209",
-      "name": "Аудитория 209",
-      "action": "info",
-      "disc": "Описание c6-f2-n209",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n211": {
-      "id": "c6-f2-n211",
-      "name": "Аудитория 211",
-      "action": "info",
-      "disc": "Описание c6-f2-n211",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n214": {
-      "id": "c6-f2-n214",
-      "name": "Аудитория 214",
-      "action": "info",
-      "disc": "Описание c6-f2-n214",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n210": {
-      "id": "c6-f2-n210",
-      "name": "Аудитория 210",
-      "action": "info",
-      "disc": "Описание c6-f2-n210",
+      "disc": "Департамент экономики, финансов и кадрового обеспечения. Отдел труда и заработной платы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -257,9 +47,9 @@
     },
     "c6-f2-n202": {
       "id": "c6-f2-n202",
-      "name": "Аудитория 202",
+      "name": "6-202 ДЭФиКО Отдел доходов",
       "action": "info",
-      "disc": "Описание c6-f2-n202",
+      "disc": "Департамент экономики, финансов и кадрового обеспечения. Отдел доходов, бюджетирования и анализа.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -271,9 +61,163 @@
     },
     "c6-f2-n203": {
       "id": "c6-f2-n203",
-      "name": "Аудитория 203",
+      "name": "6-203 ЦСТВ УУ",
       "action": "info",
-      "disc": "Описание c6-f2-n203",
+      "disc": "Учебное управление. Центр содействия занятости студентов и трудоустройству выпускников.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n204": {
+      "id": "c6-f2-n204",
+      "name": "6-204 ДЭФиКО Директор",
+      "action": "info",
+      "disc": "Департамент экономики, финансов и кадрового обеспечения. Директор.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n205": {
+      "id": "c6-f2-n205",
+      "name": "6-205 УУ Отдел по работе с НПР",
+      "action": "info",
+      "disc": "Учебное управление. Отдел по работе с научно-педагогическими работниками.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n206": {
+      "id": "c6-f2-n206",
+      "name": "6-206 УУ Методический отдел",
+      "action": "info",
+      "disc": "Учебное управление. Методический отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n207": {
+      "id": "c6-f2-n207",
+      "name": "6-207 УЛАКО Начальник",
+      "action": "info",
+      "disc": "Управление лицензирования, аккредитации и качества образования. Начальник.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n208": {
+      "id": "c6-f2-n208",
+      "name": "6-208 ООУП УУ",
+      "action": "info",
+      "disc": "Учебное управление. Отдел организации учебного процесса.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n209": {
+      "id": "c6-f2-n209",
+      "name": "6-209 Ректорат Проректор по уч. раб.",
+      "action": "info",
+      "disc": "Ректорат. Первый проректор, проректор по учебной работе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n210": {
+      "id": "c6-f2-n210",
+      "name": "6-210 УУ Начальник",
+      "action": "info",
+      "disc": "Учебное управление. Начальник.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n211": {
+      "id": "c6-f2-n211",
+      "name": "6-211 Ректорат Зал заседаний",
+      "action": "info",
+      "disc": "Ректорат. Зал заседаний.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n212": {
+      "id": "c6-f2-n212",
+      "name": "6-212 Общий отдел Начальник",
+      "action": "info",
+      "disc": "Общий отдел. Начальник общего отдела.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n213": {
+      "id": "c6-f2-n213",
+      "name": "6-213 Ректорат Директор ИННО",
+      "action": "info",
+      "disc": "Ректорат. Проректор по развитию, директор Института непрерывного образования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n214": {
+      "id": "c6-f2-n214",
+      "name": "6-214 Общий отдел",
+      "action": "info",
+      "disc": "Общий отдел.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -285,37 +229,9 @@
     },
     "c6-f2-n215": {
       "id": "c6-f2-n215",
-      "name": "Аудитория 215",
+      "name": "6-215 Профком Председатель",
       "action": "info",
-      "disc": "Описание c6-f2-n215",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n220": {
-      "id": "c6-f2-n220",
-      "name": "Аудитория 220",
-      "action": "info",
-      "disc": "Описание c6-f2-n220",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n218": {
-      "id": "c6-f2-n218",
-      "name": "Аудитория 218",
-      "action": "info",
-      "disc": "Описание c6-f2-n218",
+      "disc": "Профсоюзный комитет сотрудников университета. Председатель.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,9 +243,9 @@
     },
     "c6-f2-n216": {
       "id": "c6-f2-n216",
-      "name": "Аудитория 216",
+      "name": "6-216 Ректорат Проректор по науч. раб.",
       "action": "info",
-      "disc": "Описание c6-f2-n216",
+      "disc": "Ректорат. Проректор по научной работе.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -339,11 +255,11 @@
         "timetable": ""
       }
     },
-    "c6-f2-n223": {
-      "id": "c6-f2-n223",
-      "name": "Аудитория 223",
+    "c6-f2-n217": {
+      "id": "c6-f2-n217",
+      "name": "6-217 Ректорат Зал заседаний",
       "action": "info",
-      "disc": "Описание c6-f2-n223",
+      "disc": "Ректорат. Зал заседаний.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -353,11 +269,11 @@
         "timetable": ""
       }
     },
-    "c6-f2-n225": {
-      "id": "c6-f2-n225",
-      "name": "Аудитория 225",
+    "c6-f2-n218": {
+      "id": "c6-f2-n218",
+      "name": "6-218 УНИ Начальник",
       "action": "info",
-      "disc": "Описание c6-f2-n225",
+      "disc": "Управление научных исследований. Начальник управления научных исследований.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -369,9 +285,93 @@
     },
     "c6-f2-n219": {
       "id": "c6-f2-n219",
-      "name": "Аудитория 219",
+      "name": "6-219 Приёмная ректора",
       "action": "info",
-      "disc": "Описание c6-f2-n219",
+      "disc": "Приёмная ректора.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n220": {
+      "id": "c6-f2-n220",
+      "name": "6-220 Упр. информатизации Начальник",
+      "action": "info",
+      "disc": "Управление информатизации. Начальник управления информатизации.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n222": {
+      "id": "c6-f2-n222",
+      "name": "6-222 СГИ Дежурный",
+      "action": "info",
+      "disc": "Служба главного инженера. Дежурный службы по учебному корпусу.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n223": {
+      "id": "c6-f2-n223",
+      "name": "6-223 ДБУиК Оперативно-финансовый отд.",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Оперативно-финансовый отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n224": {
+      "id": "c6-f2-n224",
+      "name": "6-224 ДБУиК Главный бухгалтер",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Главный бухгалтер, директор департамента.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n225": {
+      "id": "c6-f2-n225",
+      "name": "6-225 ДБУиК Отд. по расч. со студ.",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Отдел по расчетам со студентами и аспирантами.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n226": {
+      "id": "c6-f2-n226",
+      "name": "6-226 ДБУиК Зам. глав. бухгалтера",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Заместитель главного бухгалтера, директора департамента.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,37 +383,9 @@
     },
     "c6-f2-n227": {
       "id": "c6-f2-n227",
-      "name": "Аудитория 227",
+      "name": "6-227 ДБУиК Нач. оперативно-финансового отд.",
       "action": "info",
-      "disc": "Описание c6-f2-n227",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n229": {
-      "id": "c6-f2-n229",
-      "name": "Аудитория 229",
-      "action": "info",
-      "disc": "Описание c6-f2-n229",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-n231": {
-      "id": "c6-f2-n231",
-      "name": "Аудитория 231",
-      "action": "info",
-      "disc": "Описание c6-f2-n231",
+      "disc": "Департамент бухгалтерского учёта и контроля. Начальник оперативно-финансового отдела.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -425,9 +397,23 @@
     },
     "c6-f2-n228": {
       "id": "c6-f2-n228",
-      "name": "Аудитория 228",
+      "name": "6-228 УКО Начальник",
       "action": "info",
-      "disc": "Описание c6-f2-n228",
+      "disc": "Управление кадрового обеспечения. Начальник.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n229": {
+      "id": "c6-f2-n229",
+      "name": "6-229 ДБУиК Отдел налогообложения",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Отдел налогообложения.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -439,9 +425,23 @@
     },
     "c6-f2-n230": {
       "id": "c6-f2-n230",
-      "name": "Аудитория 230",
+      "name": "6-230 УКО Сектор по раб. со студ.",
       "action": "info",
-      "disc": "Описание c6-f2-n230",
+      "disc": "Управление кадрового обеспечения. Сектор по работе со студентами. Сектор учёта прохождения дипломов.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-n231": {
+      "id": "c6-f2-n231",
+      "name": "6-231 ДБУиК Отдел по учёту НФА",
+      "action": "info",
+      "disc": "Департамент бухгалтерского учёта и контроля. Отдел по учёту нефинансовых активов.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -453,51 +453,9 @@
     },
     "c6-f2-cashbox": {
       "id": "c6-f2-cashbox",
-      "name": "Название c6-f2-cashbox",
+      "name": "КАССА",
       "action": "info",
-      "disc": "Описание c6-f2-cashbox",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-wc1": {
-      "id": "c6-f2-wc1",
-      "name": "Название c6-f2-wc1",
-      "action": "info",
-      "disc": "Описание c6-f2-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-wc1_2": {
-      "id": "c6-f2-wc1_2",
-      "name": "Название c6-f2-wc1_2",
-      "action": "info",
-      "disc": "Описание c6-f2-wc1_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f2-elevator2": {
-      "id": "c6-f2-elevator2",
-      "name": "Название c6-f2-elevator2",
-      "action": "info",
-      "disc": "Описание c6-f2-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -509,9 +467,51 @@
     },
     "c6-f2-elevator1": {
       "id": "c6-f2-elevator1",
-      "name": "Название c6-f2-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f2-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-elevator2": {
+      "id": "c6-f2-elevator2",
+      "name": "Лифт 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-wc1": {
+      "id": "c6-f2-wc1",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f2-wc1_2": {
+      "id": "c6-f2-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

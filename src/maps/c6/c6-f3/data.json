@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 3",
     "mapName": "c6-f3",
     "prevMap": "c6-f2",
     "nextMap": "c6-f4",
@@ -17,277 +17,11 @@
       "action": "move",
       "direction": "c6-f4"
     },
-    "c6-f3-n316": {
-      "id": "c6-f3-n316",
-      "name": "Аудитория 316",
-      "action": "info",
-      "disc": "Описание c6-f3-n316",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n318": {
-      "id": "c6-f3-n318",
-      "name": "Аудитория 318",
-      "action": "info",
-      "disc": "Описание c6-f3-n318",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n325": {
-      "id": "c6-f3-n325",
-      "name": "Аудитория 325",
-      "action": "info",
-      "disc": "Описание c6-f3-n325",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n320": {
-      "id": "c6-f3-n320",
-      "name": "Аудитория 320",
-      "action": "info",
-      "disc": "Описание c6-f3-n320",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n312": {
-      "id": "c6-f3-n312",
-      "name": "Аудитория 312",
-      "action": "info",
-      "disc": "Описание c6-f3-n312",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n310": {
-      "id": "c6-f3-n310",
-      "name": "Аудитория 310",
-      "action": "info",
-      "disc": "Описание c6-f3-n310",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n317": {
-      "id": "c6-f3-n317",
-      "name": "Аудитория 317",
-      "action": "info",
-      "disc": "Описание c6-f3-n317",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n327": {
-      "id": "c6-f3-n327",
-      "name": "Аудитория 327",
-      "action": "info",
-      "disc": "Описание c6-f3-n327",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-sp": {
-      "id": "c6-f3-sp",
-      "name": "Название c6-f3-sp",
-      "action": "info",
-      "disc": "Описание c6-f3-sp",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n306": {
-      "id": "c6-f3-n306",
-      "name": "Аудитория 306",
-      "action": "info",
-      "disc": "Описание c6-f3-n306",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n315": {
-      "id": "c6-f3-n315",
-      "name": "Аудитория 315",
-      "action": "info",
-      "disc": "Описание c6-f3-n315",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n313": {
-      "id": "c6-f3-n313",
-      "name": "Аудитория 313",
-      "action": "info",
-      "disc": "Описание c6-f3-n313",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n311": {
-      "id": "c6-f3-n311",
-      "name": "Аудитория 311",
-      "action": "info",
-      "disc": "Описание c6-f3-n311",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n309": {
-      "id": "c6-f3-n309",
-      "name": "Аудитория 309",
-      "action": "info",
-      "disc": "Описание c6-f3-n309",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n307": {
-      "id": "c6-f3-n307",
-      "name": "Аудитория 307",
-      "action": "info",
-      "disc": "Описание c6-f3-n307",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n305": {
-      "id": "c6-f3-n305",
-      "name": "Аудитория 305",
-      "action": "info",
-      "disc": "Описание c6-f3-n305",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n303": {
-      "id": "c6-f3-n303",
-      "name": "Аудитория 303",
-      "action": "info",
-      "disc": "Описание c6-f3-n303",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n308": {
-      "id": "c6-f3-n308",
-      "name": "Аудитория 308",
-      "action": "info",
-      "disc": "Описание c6-f3-n308",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f3-n304": {
-      "id": "c6-f3-n304",
-      "name": "Аудитория 304",
-      "action": "info",
-      "disc": "Описание c6-f3-n304",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f3-n300": {
       "id": "c6-f3-n300",
-      "name": "Аудитория 300",
+      "name": "6-300 Юридическое упр. Начальник",
       "action": "info",
-      "disc": "Описание c6-f3-n300",
+      "disc": "Юридическое управление. Начальник. Юрисконсульты",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -299,9 +33,9 @@
     },
     "c6-f3-n301": {
       "id": "c6-f3-n301",
-      "name": "Аудитория 301",
+      "name": "6-301 Ректорат Отдел капстроительства",
       "action": "info",
-      "disc": "Описание c6-f3-n301",
+      "disc": "Ректорат. Отдел капитального строительства.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -313,9 +47,163 @@
     },
     "c6-f3-n302": {
       "id": "c6-f3-n302",
-      "name": "Аудитория 302",
+      "name": "6-302 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f3-n302",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n303": {
+      "id": "c6-f3-n303",
+      "name": "6-303 ГФ Каф. «ИК» Зав. каф.",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «История и культура». Заведующий кафедрой Петухов Валерий Борисович." ,
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n304": {
+      "id": "c6-f3-n304",
+      "name": "6-304 ГФ Каф. «Философия» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Философия». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n305": {
+      "id": "c6-f3-n305",
+      "name": "6-305 Юридическое упр. Отд. фед. имущ. и зем. кад.",
+      "action": "info",
+      "disc": "Юридическое управление. Отдел федерального имущества и земельного кадастра.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n306": {
+      "id": "c6-f3-n306",
+      "name": "6-306 УДО ДДО Руководитель отделов",
+      "action": "info",
+      "disc": "Департамент довузовского образования. Управление довузовского образования. Руководитель отделов, специалисты.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n307": {
+      "id": "c6-f3-n307",
+      "name": "6-307 ДИТ",
+      "action": "info",
+      "disc": "Департамент информационных технологий.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n308": {
+      "id": "c6-f3-n308",
+      "name": "6-308 ГФ Каф. «ПСиСО» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Политология, социология и связи с общественностью». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n309": {
+      "id": "c6-f3-n309",
+      "name": "6-309 ДСИ Зам. директора",
+      "action": "info",
+      "disc": "Департамент социальной инфраструктуры. Заместитель директора департамента.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n310": {
+      "id": "c6-f3-n310",
+      "name": "6-310 Ректорат Проректор по раб. с молодежью",
+      "action": "info",
+      "disc": "Ректорат. Проректор по работе с молодежью.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n311": {
+      "id": "c6-f3-n311",
+      "name": "6-311 ГФ. Каф. «Философия» Зав. каф.",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Философия». Заведующий кафедрой Волков Михаил Павлович.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n312": {
+      "id": "c6-f3-n312",
+      "name": "6-312 ГФ Каф. «ПСиСО» Зав. каф.",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Политология, социология и связи с общественностью». Заведующий кафедрой Шиняева Ольга Викторовна.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n313": {
+      "id": "c6-f3-n313",
+      "name": "6-313 ГФ Деканат",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Деканат. Декан Соснина Екатерина Петровна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,9 +215,9 @@
     },
     "c6-f3-n314": {
       "id": "c6-f3-n314",
-      "name": "Аудитория 314",
+      "name": "6-314 ФСПО КЭИ",
       "action": "info",
-      "disc": "Описание c6-f3-n314",
+      "disc": "Факультет среднего профессионального образования. Колледж экономики и информатики.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -339,11 +227,11 @@
         "timetable": ""
       }
     },
-    "c6-f3-n331": {
-      "id": "c6-f3-n331",
-      "name": "Аудитория 331",
+    "c6-f3-n315": {
+      "id": "c6-f3-n315",
+      "name": "6-315 ИЭФ Каф. «ЭТ» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f3-n331",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономическая теория». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -353,11 +241,11 @@
         "timetable": ""
       }
     },
-    "c6-f3-n329": {
-      "id": "c6-f3-n329",
-      "name": "Аудитория 329",
+    "c6-f3-n316": {
+      "id": "c6-f3-n316",
+      "name": "6-316 ГФ Каф. «ФМиГД» Аудитория",
       "action": "info",
-      "disc": "Описание c6-f3-n329",
+      "disc": "Гуманитарный факультет. Кафедра «Филология, медиатехнологии и графический дизайн». Аудитория для групповых и индивидуальных консультаций, текущего контроля и промежуточной аттестации. Аудитория для проведения занятий лекционного и семинарского типа. Аудитория для самостоятельной работы обучающихся.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -367,11 +255,25 @@
         "timetable": ""
       }
     },
-    "c6-f3-n321": {
-      "id": "c6-f3-n321",
-      "name": "Аудитория 321",
+    "c6-f3-n317": {
+      "id": "c6-f3-n317",
+      "name": "6-317 ГФ Каф. «ИК» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f3-n321",
+      "disc": "Гуманитарный факультет. Кафедра «История и культура». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n318": {
+      "id": "c6-f3-n318",
+      "name": "6-318 ГФ Каф. «ФМиГД» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Филология, медиатехнологии и графический дизайн». Преподавательская. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,9 +285,37 @@
     },
     "c6-f3-n319": {
       "id": "c6-f3-n319",
-      "name": "Аудитория 319",
+      "name": "6-319 Попечительский совет УлГТУ Председатель",
       "action": "info",
-      "disc": "Описание c6-f3-n319",
+      "disc": "Попечительский совет УлГТУ. Председатель попечительского совета.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n320": {
+      "id": "c6-f3-n320",
+      "name": "6-320 ДЭФиКО Отдел договоров",
+      "action": "info",
+      "disc": "Департамент экономики, финансов и кадрового обеспечения. Отдел договоров.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-n321": {
+      "id": "c6-f3-n321",
+      "name": "6-321 Отдел МТС Начальник",
+      "action": "info",
+      "disc": "Отдел материально-технического снабжения. Начальник. Товароведы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -397,9 +327,9 @@
     },
     "c6-f3-n322": {
       "id": "c6-f3-n322",
-      "name": "Аудитория 322",
+      "name": "6-322 УКО Отдел по упр. перс.",
       "action": "info",
-      "disc": "Описание c6-f3-n322",
+      "disc": "Управление кадрового обеспечения. Отдел по управлению персоналом.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -411,9 +341,9 @@
     },
     "c6-f3-n323": {
       "id": "c6-f3-n323",
-      "name": "Аудитория 323",
+      "name": "6-323 НИО ДНИИ Начальник",
       "action": "info",
-      "disc": "Описание c6-f3-n323",
+      "disc": "Департамент научных исследований и инновации. Научно-исследовательский отдел. Начальник отдела.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -423,11 +353,25 @@
         "timetable": ""
       }
     },
-    "c6-f3-wc1": {
-      "id": "c6-f3-wc1",
-      "name": "Название c6-f3-wc1",
+    "c6-f3-n325": {
+      "id": "c6-f3-n325",
+      "name": "6-325 ДБУиК Отд. расч. по опл. труда",
       "action": "info",
-      "disc": "Описание c6-f3-wc1",
+      "disc": "Департамент бухгалтерского учёта и контроля. Отдел расчётов по оплате труда.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-325"
+      }
+    },
+    "c6-f3-n327": {
+      "id": "c6-f3-n327",
+      "name": "6-327 ГФ Каф. «ФМиГД» Зав. каф.",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Филология, медиатехнологии и графический дизайн». Заведующий кафедрой Крошнева Марина Евгеньевна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -437,11 +381,39 @@
         "timetable": ""
       }
     },
-    "c6-f3-wc1_2": {
-      "id": "c6-f3-wc1_2",
-      "name": "Название c6-f3-wc1_2",
+    "c6-f3-n329": {
+      "id": "c6-f3-n329",
+      "name": "6-329 ООУП ДИТ Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f3-wc1_2",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Лаборатория информационных технологий в профессиональной деятельности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-329"
+      }
+    },
+    "c6-f3-n331": {
+      "id": "c6-f3-n331",
+      "name": "6-331 ООУП ДИТ Комп. класс",
+      "action": "info",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс. Аудитория для текущего контроля и промежуточной аттестации. Аудитория для самостоятельной работы обучающихся.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-331"
+      }
+    },
+    "c6-f3-elevator1": {
+      "id": "c6-f3-elevator1",
+      "name": "Лифт 1",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -453,9 +425,9 @@
     },
     "c6-f3-elevator2": {
       "id": "c6-f3-elevator2",
-      "name": "Название c6-f3-elevator2",
+      "name": "Лифт 2",
       "action": "info",
-      "disc": "Описание c6-f3-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -465,11 +437,39 @@
         "timetable": ""
       }
     },
-    "c6-f3-elevator1": {
-      "id": "c6-f3-elevator1",
-      "name": "Название c6-f3-elevator1",
+    "c6-f3-wc1": {
+      "id": "c6-f3-wc1",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c6-f3-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-wc1_2": {
+      "id": "c6-f3-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f3-sp": {
+      "id": "c6-f3-sp",
+      "name": "Хоз. помещение",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

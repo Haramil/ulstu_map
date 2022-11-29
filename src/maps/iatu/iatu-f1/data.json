@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус ИАТУ. Этаж 1",
     "mapName": "iatu-f1",
     "prevMap": "",
     "nextMap": "iatu-f2",
@@ -32,277 +32,11 @@
       "action": "move",
       "direction": "iatu-f2"
     },
-    "f1-wc": {
-      "id": "f1-wc",
-      "name": "Название f1-wc",
-      "action": "info",
-      "disc": "Описание f1-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n108": {
-      "id": "f1-n108",
-      "name": "Аудитория 108",
-      "action": "info",
-      "disc": "Описание f1-n108",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n109": {
-      "id": "f1-n109",
-      "name": "Аудитория 109",
-      "action": "info",
-      "disc": "Описание f1-n109",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110": {
-      "id": "f1-n110",
-      "name": "Аудитория 110",
-      "action": "info",
-      "disc": "Описание f1-n110",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_2": {
-      "id": "f1-n110_2",
-      "name": "Аудитория 110_2",
-      "action": "info",
-      "disc": "Описание f1-n110_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_3": {
-      "id": "f1-n110_3",
-      "name": "Аудитория 110_3",
-      "action": "info",
-      "disc": "Описание f1-n110_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_4": {
-      "id": "f1-n110_4",
-      "name": "Аудитория 110_4",
-      "action": "info",
-      "disc": "Описание f1-n110_4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_5": {
-      "id": "f1-n110_5",
-      "name": "Аудитория 110_5",
-      "action": "info",
-      "disc": "Описание f1-n110_5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_6": {
-      "id": "f1-n110_6",
-      "name": "Аудитория 110_6",
-      "action": "info",
-      "disc": "Описание f1-n110_6",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_7": {
-      "id": "f1-n110_7",
-      "name": "Аудитория 110_7",
-      "action": "info",
-      "disc": "Описание f1-n110_7",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_8": {
-      "id": "f1-n110_8",
-      "name": "Аудитория 110_8",
-      "action": "info",
-      "disc": "Описание f1-n110_8",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_9": {
-      "id": "f1-n110_9",
-      "name": "Аудитория 110_9",
-      "action": "info",
-      "disc": "Описание f1-n110_9",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_10": {
-      "id": "f1-n110_10",
-      "name": "Аудитория 110_10",
-      "action": "info",
-      "disc": "Описание f1-n110_10",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "f1-n110_11": {
       "id": "f1-n110_11",
-      "name": "Аудитория 110_11",
+      "name": "Буфет",
       "action": "info",
-      "disc": "Описание f1-n110_11",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_12": {
-      "id": "f1-n110_12",
-      "name": "Аудитория 110_12",
-      "action": "info",
-      "disc": "Описание f1-n110_12",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_13": {
-      "id": "f1-n110_13",
-      "name": "Аудитория 110_13",
-      "action": "info",
-      "disc": "Описание f1-n110_13",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_14": {
-      "id": "f1-n110_14",
-      "name": "Аудитория 110_14",
-      "action": "info",
-      "disc": "Описание f1-n110_14",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_15": {
-      "id": "f1-n110_15",
-      "name": "Аудитория 110_15",
-      "action": "info",
-      "disc": "Описание f1-n110_15",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_16": {
-      "id": "f1-n110_16",
-      "name": "Аудитория 110_16",
-      "action": "info",
-      "disc": "Описание f1-n110_16",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_17": {
-      "id": "f1-n110_17",
-      "name": "Аудитория 110_17",
-      "action": "info",
-      "disc": "Описание f1-n110_17",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -314,9 +48,9 @@
     },
     "f1-n110_18": {
       "id": "f1-n110_18",
-      "name": "Аудитория 110_18",
+      "name": "Гардероб",
       "action": "info",
-      "disc": "Описание f1-n110_18",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -326,11 +60,11 @@
         "timetable": ""
       }
     },
-    "f1-n110_19": {
-      "id": "f1-n110_19",
-      "name": "Аудитория 110_19",
+    "f1-n110_5": {
+      "id": "f1-n110_5",
+      "name": "ИАТУ-101 Здравпункт Фельдшер",
       "action": "info",
-      "disc": "Описание f1-n110_19",
+      "disc": "Здравпункт. Фельдшер Андреева Марина Владимировна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -340,11 +74,11 @@
         "timetable": ""
       }
     },
-    "f1-n110_20": {
-      "id": "f1-n110_20",
-      "name": "Аудитория 110_20",
+    "f1-n110_7": {
+      "id": "f1-n110_7",
+      "name": "ИАТУ-101а АХЧ Зам. директора",
       "action": "info",
-      "disc": "Описание f1-n110_20",
+      "disc": "Заместитель директора по АХЧ Мулянов Геннадий Николаевич.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -354,11 +88,25 @@
         "timetable": ""
       }
     },
-    "f1-n110_21": {
-      "id": "f1-n110_21",
-      "name": "Аудитория 110_21",
+    "f1-n110_6": {
+      "id": "f1-n110_6",
+      "name": "ИАТУ-102 АХЧ",
       "action": "info",
-      "disc": "Описание f1-n110_21",
+      "disc": "АХЧ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_4": {
+      "id": "f1-n110_4",
+      "name": "ИАТУ-103 Бухгалтерия",
+      "action": "info",
+      "disc": "Бухгалтерия.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -370,9 +118,9 @@
     },
     "f1-n110_22": {
       "id": "f1-n110_22",
-      "name": "Аудитория 110_22",
+      "name": "ИАТУ-104",
       "action": "info",
-      "disc": "Описание f1-n110_22",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -382,25 +130,11 @@
         "timetable": ""
       }
     },
-    "f1-n110_23": {
-      "id": "f1-n110_23",
-      "name": "Аудитория 110_23",
+    "f1-n110_19": {
+      "id": "f1-n110_19",
+      "name": "ИАТУ-105 НИЛ «Композит» Помещение",
       "action": "info",
-      "disc": "Описание f1-n110_23",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n110_24": {
-      "id": "f1-n110_24",
-      "name": "Аудитория 110_24",
-      "action": "info",
-      "disc": "Описание f1-n110_24",
+      "disc": "НИЛ «Композит». Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -412,9 +146,261 @@
     },
     "f1-n110_25": {
       "id": "f1-n110_25",
-      "name": "Аудитория 110_25",
+      "name": "ИАТУ-106 ССФ Каф. «СС» Лаборатория",
       "action": "info",
-      "disc": "Описание f1-n110_25",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Сопровождение материалов».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_24": {
+      "id": "f1-n110_24",
+      "name": "ИАТУ-107 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n108": {
+      "id": "f1-n108",
+      "name": "ИАТУ-108 ССФ Каф. «СС» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n109": {
+      "id": "f1-n109",
+      "name": "ИАТУ-109 ССФ Каф. «ОНД» Каб. ин. яз.",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Кабинет иностранного языка.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110": {
+      "id": "f1-n110",
+      "name": "ИАТУ-110 ССФ Деканат",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Деканат.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_23": {
+      "id": "f1-n110_23",
+      "name": "ИАТУ-111 ССФ Каф. «СС» Лаборатория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория сборки и монтажно-испытательных работ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_2": {
+      "id": "f1-n110_2",
+      "name": "ИАТУ-112 Зав. лаб.",
+      "action": "info",
+      "disc": "Заведующий лабораториями ИАТУ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_20": {
+      "id": "f1-n110_20",
+      "name": "ИАТУ-113 ССФ Каф. «СС» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_3": {
+      "id": "f1-n110_3",
+      "name": "ИАТУ-114 ССФ Каф. «СС» Преподавательская",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_21": {
+      "id": "f1-n110_21",
+      "name": "ИАТУ-115 ССФ Каф. «СС» Лаборатория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория механической обработки.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_8": {
+      "id": "f1-n110_8",
+      "name": "ИАТУ-116 ПК Подготов. курсы",
+      "action": "info",
+      "disc": "Приёмная комиссия. Подготовительные курсы.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_13": {
+      "id": "f1-n110_13",
+      "name": "ИАТУ-117 Касса",
+      "action": "info",
+      "disc": "Касса.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_10": {
+      "id": "f1-n110_10",
+      "name": "ИАТУ-118 АХЧ Служебное помещение",
+      "action": "info",
+      "disc": "АХЧ. Служебное помещение.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_16": {
+      "id": "f1-n110_16",
+      "name": "ИАТУ-119 АХЧ Служебное помещение",
+      "action": "info",
+      "disc": "АХЧ. Служебное помещение.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_9": {
+      "id": "f1-n110_9",
+      "name": "ИАТУ-120 АХЧ Служебное помещение",
+      "action": "info",
+      "disc": "АХЧ. Служебное помещение.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_17": {
+      "id": "f1-n110_17",
+      "name": "ИАТУ-121 АХЧ Служебное помещение",
+      "action": "info",
+      "disc": "АХЧ. Служебное помещение.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_15": {
+      "id": "f1-n110_15",
+      "name": "Медпункт",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-n110_12": {
+      "id": "f1-n110_12",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f1-wc": {
+      "id": "f1-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

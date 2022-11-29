@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 9",
     "mapName": "c6-f9",
     "prevMap": "c6-f8",
     "nextMap": "",
@@ -17,39 +17,11 @@
       "action": "move",
       "direction": "c6-f8"
     },
-    "c6-f9-n": {
-      "id": "c6-f9-n",
-      "name": "Аудитория ",
-      "action": "info",
-      "disc": "Описание c6-f9-n",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f9-n901": {
       "id": "c6-f9-n901",
-      "name": "Аудитория 901",
+      "name": "6-901",
       "action": "info",
-      "disc": "Описание c6-f9-n901",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n_2": {
-      "id": "c6-f9-n_2",
-      "name": "Аудитория _2",
-      "action": "info",
-      "disc": "Описание c6-f9-n_2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -61,9 +33,9 @@
     },
     "c6-f9-n902": {
       "id": "c6-f9-n902",
-      "name": "Аудитория 902",
+      "name": "6-902 Упр. автоматизации ЛАОДУ",
       "action": "info",
-      "disc": "Описание c6-f9-n902",
+      "disc": "Управление автоматизации. Лаборатория автоматизации организационной деятельности университета.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -75,79 +47,9 @@
     },
     "c6-f9-n903": {
       "id": "c6-f9-n903",
-      "name": "Аудитория 903",
+      "name": "6-903 УОК УУ Отдел УМР и маркетинга",
       "action": "info",
-      "disc": "Описание c6-f9-n903",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n905": {
-      "id": "c6-f9-n905",
-      "name": "Аудитория 905",
-      "action": "info",
-      "disc": "Описание c6-f9-n905",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n905_2": {
-      "id": "c6-f9-n905_2",
-      "name": "Аудитория 905_2",
-      "action": "info",
-      "disc": "Описание c6-f9-n905_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n_3": {
-      "id": "c6-f9-n_3",
-      "name": "Аудитория _3",
-      "action": "info",
-      "disc": "Описание c6-f9-n_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n_4": {
-      "id": "c6-f9-n_4",
-      "name": "Аудитория _4",
-      "action": "info",
-      "disc": "Описание c6-f9-n_4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f9-n_5": {
-      "id": "c6-f9-n_5",
-      "name": "Аудитория _5",
-      "action": "info",
-      "disc": "Описание c6-f9-n_5",
+      "disc": "Учебное управление. Управление обеспечения качества. Отдел учебно-методической работы. Отдел маркетинга.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -159,9 +61,37 @@
     },
     "c6-f9-n904": {
       "id": "c6-f9-n904",
-      "name": "Аудитория 904",
+      "name": "6-904 ИАО УОЗиМТС",
       "action": "info",
-      "disc": "Описание c6-f9-n904",
+      "disc": "Управление организации закупок и материально-технического снабжения. Информационно-аналитический отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f9-n905": {
+      "id": "c6-f9-n905",
+      "name": "6-905 УОЗиМТС Начальник",
+      "action": "info",
+      "disc": "Управление организации закупок и материально-технического снабжения. Начальник.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f9-n905_2": {
+      "id": "c6-f9-n905_2",
+      "name": "6-906 Упр. информатизации Серверная",
+      "action": "info",
+      "disc": "Управление информатизации. Серверная.",
       "additional": {
         "phone": "",
         "responsible": "",

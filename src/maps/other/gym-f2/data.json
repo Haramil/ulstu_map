@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "«Старый» спортзал. Этаж 2",
     "mapName": "gym-f2",
     "prevMap": "gym-f1",
     "nextMap": "",
@@ -12,11 +12,11 @@
       "action": "move",
       "direction": "gym-f1"
     },
-    "gym-f2-33": {
-      "id": "gym-f2-33",
-      "name": "Название gym-f2-33",
+    "gym-f2-zk": {
+      "id": "gym-f2-zk",
+      "name": "Зав. кафедрой",
       "action": "info",
-      "disc": "Описание gym-f2-33",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -28,9 +28,9 @@
     },
     "gym-f2-30": {
       "id": "gym-f2-30",
-      "name": "Название gym-f2-30",
+      "name": "ССЗ-30",
       "action": "info",
-      "disc": "Описание gym-f2-30",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -40,25 +40,11 @@
         "timetable": ""
       }
     },
-    "gym-f2-?": {
-      "id": "gym-f2-?",
-      "name": "Название gym-f2-?",
+    "gym-f2-33": {
+      "id": "gym-f2-33",
+      "name": "ССЗ-33",
       "action": "info",
-      "disc": "Описание gym-f2-?",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f2-zk": {
-      "id": "gym-f2-zk",
-      "name": "Название gym-f2-zk",
-      "action": "info",
-      "disc": "Описание gym-f2-zk",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -70,9 +56,9 @@
     },
     "gym-f2-34": {
       "id": "gym-f2-34",
-      "name": "Название gym-f2-34",
+      "name": "ССЗ-34",
       "action": "info",
-      "disc": "Описание gym-f2-34",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -84,9 +70,23 @@
     },
     "gym-f2-tr": {
       "id": "gym-f2-tr",
-      "name": "Название gym-f2-tr",
+      "name": "Трибуны",
       "action": "info",
-      "disc": "Описание gym-f2-tr",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f2-?": {
+      "id": "gym-f2-?",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

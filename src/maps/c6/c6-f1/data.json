@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 1",
     "mapName": "c6-f1",
     "prevMap": "c6-f0",
     "nextMap": "c6-f2",
@@ -10,12 +10,12 @@
     "stairs up": {
       "id": "stairs up",
       "action": "move",
-      "direction": "c6-f3"
+      "direction": "c6-f2"
     },
     "stairs up_2": {
       "id": "stairs up_2",
       "action": "move",
-      "direction": "c6-f3"
+      "direction": "c6-f2"
     },
     "enter": {
       "id": "enter",
@@ -27,11 +27,6 @@
       "action": "move",
       "direction": "global"
     },
-    "stairs_2": {
-      "id": "stairs_2",
-      "action": "move",
-      "direction": "c6-f2"
-    },
     "transition": {
       "id": "transition",
       "action": "move",
@@ -42,382 +37,340 @@
       "action": "move",
       "direction": "c3-cr-f2"
     },
-    "numbers": {
-      "id": "numbers",
-      "name": "Название numbers",
+    "c6-f1-n101": {
+      "id": "c6-f1-n101",
+      "name": "6-101 ЭФ Каф. «ТТЭ»",
       "action": "info",
-      "disc": "Описание numbers",
+      "disc": "Энергетический факультет. Кафедра «Тепловая и топливная энергетика».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "numbers_2": {
-      "id": "numbers_2",
-      "name": "Название numbers_2",
-      "action": "info",
-      "disc": "Описание numbers_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "stairs": {
-      "id": "stairs",
-      "name": "Название stairs",
-      "action": "info",
-      "disc": "Описание stairs",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": "https://time.ulstu.ru/?filter=6-101"
       }
     },
     "c6-f1-n102": {
       "id": "c6-f1-n102",
-      "name": "Аудитория 102",
+      "name": "6-102 ЦДП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f1-n102",
+      "disc": "Центр довузовской подготовки. Аудитория профориентационного тестирования.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n104": {
-      "id": "c6-f1-n104",
-      "name": "Аудитория 104",
-      "action": "info",
-      "disc": "Описание c6-f1-n104",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-cp1": {
-      "id": "c6-f1-cp1",
-      "name": "Название c6-f1-cp1",
-      "action": "info",
-      "disc": "Описание c6-f1-cp1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-cp1_2": {
-      "id": "c6-f1-cp1_2",
-      "name": "Название c6-f1-cp1_2",
-      "action": "info",
-      "disc": "Описание c6-f1-cp1_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-cp2": {
-      "id": "c6-f1-cp2",
-      "name": "Название c6-f1-cp2",
-      "action": "info",
-      "disc": "Описание c6-f1-cp2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-buffet": {
-      "id": "c6-f1-buffet",
-      "name": "Название c6-f1-buffet",
-      "action": "info",
-      "disc": "Описание c6-f1-buffet",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n112": {
-      "id": "c6-f1-n112",
-      "name": "Аудитория 112",
-      "action": "info",
-      "disc": "Описание c6-f1-n112",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n110": {
-      "id": "c6-f1-n110",
-      "name": "Аудитория 110",
-      "action": "info",
-      "disc": "Описание c6-f1-n110",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n108": {
-      "id": "c6-f1-n108",
-      "name": "Аудитория 108",
-      "action": "info",
-      "disc": "Описание c6-f1-n108",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n106": {
-      "id": "c6-f1-n106",
-      "name": "Аудитория 106",
-      "action": "info",
-      "disc": "Описание c6-f1-n106",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n101": {
-      "id": "c6-f1-n101",
-      "name": "Аудитория 101",
-      "action": "info",
-      "disc": "Описание c6-f1-n101",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": "https://time.ulstu.ru/?filter=6-102"
       }
     },
     "c6-f1-n103": {
       "id": "c6-f1-n103",
-      "name": "Аудитория 103",
+      "name": "6-103 СФ Каф. «ТГВ» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f1-n103",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Лаборатория «Отопление, теплофикация и теплоснабжение».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": "https://time.ulstu.ru/?filter=6-103"
       }
     },
-    "c6-f1-n111": {
-      "id": "c6-f1-n111",
-      "name": "Аудитория 111",
+    "c6-f1-n104": {
+      "id": "c6-f1-n104",
+      "name": "6-104 ЦДП Подготовительное отд.",
       "action": "info",
-      "disc": "Описание c6-f1-n111",
+      "disc": "Центр довузовской подготовки. Подготовительное отделение. Подготовительные курсы.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n109": {
-      "id": "c6-f1-n109",
-      "name": "Аудитория 109",
-      "action": "info",
-      "disc": "Описание c6-f1-n109",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-n107": {
-      "id": "c6-f1-n107",
-      "name": "Аудитория 107",
-      "action": "info",
-      "disc": "Описание c6-f1-n107",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
       }
     },
     "c6-f1-n105": {
       "id": "c6-f1-n105",
-      "name": "Аудитория 105",
+      "name": "6-105 ЭФ Каф. «ТТЭ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c6-f1-n105",
+      "disc": "Энергетический факультет. Кафедра «Тепловая и топливная энергетика». Заведующий кафедрой. Помещение для хранения и профилактического обслуживания учебного оборудования",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
       }
     },
-    "c6-f1-wc1": {
-      "id": "c6-f1-wc1",
-      "name": "Название c6-f1-wc1",
+    "c6-f1-n106": {
+      "id": "c6-f1-n106",
+      "name": "6-106 ИФ МИ Каф. «НД» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f1-wc1",
+      "disc": "Международный институт. Инженерный факультет. Кафедра «Нефтегазовое дело». Учебная лаборатория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": "https://time.ulstu.ru/?filter=6-106"
       }
     },
-    "c6-f1-wc1_2": {
-      "id": "c6-f1-wc1_2",
-      "name": "Название c6-f1-wc1_2",
+    "c6-f1-n107": {
+      "id": "c6-f1-n107",
+      "name": "6-107 АХЧ Комендант",
       "action": "info",
-      "disc": "Описание c6-f1-wc1_2",
+      "disc": "Административно-хозяйственная часть. Комендант.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
+      }
+    },
+    "c6-f1-n108": {
+      "id": "c6-f1-n108",
+      "name": "6-108 ИФ МИ Каф. «НД» Учебно-тренажерный центр" ,
+      "action": "info",
+      "disc": "Международный институт. Инженерный факультет. Кафедра «Нефтегазовое дело». Учебно-тренажерный центр. Кабинет информационных технологий в профессиональной деятельности. Учебная лаборатория. Помещение для курсового проектирования. Аудитория для текущего контроля и промежуточной аттестации. Помещение для групповых и индивидуальных консультаций. Лаборатория автоматизации производственных процессов.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-108"
+      }
+    },
+    "c6-f1-n109": {
+      "id": "c6-f1-n109",
+      "name": "6-109 СФ Каф. «ТГВ» НИЛ",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Научно-исследовательская лаборатория «Теплоэнергетические системы и установки».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-n110": {
+      "id": "c6-f1-n110",
+      "name": "6-110 ИФ МИ Каф. «НД» Учебная лаб.",
+      "action": "info",
+      "disc": "Международный институт. Инженерный факультет. Кафедра «Нефтегазовое дело». Учебная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-110"
+      }
+    },
+    "c6-f1-n111": {
+      "id": "c6-f1-n111",
+      "name": "6-111 ЭФ Каф. «ТТЭ» Учебная ауд.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Тепловая и топливная энергетика». Учебная аудитория. Учебная лаборатория. Помещение для курсового проектирования. Помещение для текущего контроля и промежуточной аттестации. Помещение для групповых и индивидуальных консультаций. Кабинет метрологии, стандартизации и сертификации.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-111"
+      }
+    },
+    "c6-f1-n112": {
+      "id": "c6-f1-n112",
+      "name": "6-112 ОГМ Слесарная мастерская",
+      "action": "info",
+      "disc": "ОГМ. Слесарная мастерская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
       }
     },
     "c6-f1-cloakroom1": {
       "id": "c6-f1-cloakroom1",
-      "name": "Название c6-f1-cloakroom1",
+      "name": "Гардероб 1",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom1",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
-      }
-    },
-    "c6-f1-security": {
-      "id": "c6-f1-security",
-      "name": "Название c6-f1-security",
-      "action": "info",
-      "disc": "Описание c6-f1-security",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
       }
     },
     "c6-f1-cloakroom2": {
       "id": "c6-f1-cloakroom2",
-      "name": "Название c6-f1-cloakroom2",
+      "name": "Гардероб 2",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
       }
     },
     "c6-f1-cloakroom3": {
       "id": "c6-f1-cloakroom3",
-      "name": "Название c6-f1-cloakroom3",
+      "name": "Гардероб 3",
       "action": "info",
-      "disc": "Описание c6-f1-cloakroom3",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
+      }
+    },
+    "c6-f1-buffet": {
+      "id": "c6-f1-buffet",
+      "name": "Кафе «Зелёный остров»",
+      "action": "info",
+      "disc": "Ассортимент: Шаурма, выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 08:00 до 17:00. 2 и 4 сб с 8:00 до 14:00.",
+        "email": "",
+        "website": "",
+        "timetable": ""
       }
     },
     "c6-f1-elevator1": {
       "id": "c6-f1-elevator1",
-      "name": "Название c6-f1-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f1-elevator1",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
       }
     },
     "c6-f1-elevator2": {
       "id": "c6-f1-elevator2",
-      "name": "Название c6-f1-elevator2",
+      "name": "Лифт 2",
       "action": "info",
-      "disc": "Описание c6-f1-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": "https://time.ulstu.ru/timetable"
+        "timetable": ""
+      }
+    },
+    "c6-f1-security": {
+      "id": "c6-f1-security",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-wc1": {
+      "id": "c6-f1-wc1",
+      "name": "Туалет 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-wc1_2": {
+      "id": "c6-f1-wc1_2",
+      "name": "Туалет 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-cp1": {
+      "id": "c6-f1-cp1",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-cp1_2": {
+      "id": "c6-f1-cp1_2",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f1-cp2": {
+      "id": "c6-f1-cp2",
+      "name": "Хоз. помещение 3",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Учебная библиотека. Этаж 1",
     "mapName": "c4-f1-1",
     "prevMap": "",
     "nextMap": "c4-f1-2",
@@ -27,89 +27,11 @@
       "action": "move",
       "direction": "c4-f1-2"
     },
-    "c4-f1-n111": {
-      "id": "c4-f1-n111",
-      "name": "Название c4-f1-n111",
+    "c4-f1-n111_8": {
+      "id": "c4-f1-n111_8",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c4-f1-n111",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_2": {
-      "id": "c4-f1-n111_2",
-      "name": "Название c4-f1-n111_2",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_3": {
-      "id": "c4-f1-n111_3",
-      "name": "Название c4-f1-n111_3",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_4": {
-      "id": "c4-f1-n111_4",
-      "name": "Название c4-f1-n111_4",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_5": {
-      "id": "c4-f1-n111_5",
-      "name": "Название c4-f1-n111_5",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_6": {
-      "id": "c4-f1-n111_6",
-      "name": "Название c4-f1-n111_6",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_6",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n25": {
-      "id": "c4-f1-n25",
-      "name": "Название c4-f1-n25",
-      "action": "info",
-      "disc": "Описание c4-f1-n25",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -120,9 +42,9 @@
     },
     "c4-f1-n111_7": {
       "id": "c4-f1-n111_7",
-      "name": "Название c4-f1-n111_7",
+      "name": "Туалет (муж.)",
       "action": "info",
-      "disc": "Описание c4-f1-n111_7",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -131,11 +53,63 @@
         "website": ""
       }
     },
-    "c4-f1-n111_8": {
-      "id": "c4-f1-n111_8",
-      "name": "Название c4-f1-n111_8",
+    "c4-f1-n111_4": {
+      "id": "c4-f1-n111_4",
+      "name": "УБ-21",
       "action": "info",
-      "disc": "Описание c4-f1-n111_8",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_3": {
+      "id": "c4-f1-n111_3",
+      "name": "УБ-22",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_2": {
+      "id": "c4-f1-n111_2",
+      "name": "УБ-23",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_5": {
+      "id": "c4-f1-n111_5",
+      "name": "УБ-24",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n25": {
+      "id": "c4-f1-n25",
+      "name": "УБ-25",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -146,9 +120,22 @@
     },
     "c4-f1-n111_9": {
       "id": "c4-f1-n111_9",
-      "name": "Название c4-f1-n111_9",
+      "name": "Учебная библиотека Абонемент",
       "action": "info",
-      "disc": "Описание c4-f1-n111_9",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111": {
+      "id": "c4-f1-n111",
+      "name": "Учебная библиотека Книгохранилище",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
