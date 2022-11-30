@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 5",
     "mapName": "c6-f5",
     "prevMap": "c6-f4",
     "nextMap": "c6-f6",
@@ -17,291 +17,67 @@
       "action": "move",
       "direction": "c6-f6"
     },
-    "coffee": {
-      "id": "coffee",
-      "name": "Название coffee",
-      "action": "info",
-      "disc": "Описание coffee",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n524": {
-      "id": "c6-f5-n524",
-      "name": "Аудитория 524",
-      "action": "info",
-      "disc": "Описание c6-f5-n524",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n528": {
-      "id": "c6-f5-n528",
-      "name": "Аудитория 528",
-      "action": "info",
-      "disc": "Описание c6-f5-n528",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n527": {
-      "id": "c6-f5-n527",
-      "name": "Аудитория 527",
-      "action": "info",
-      "disc": "Описание c6-f5-n527",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n525": {
-      "id": "c6-f5-n525",
-      "name": "Аудитория 525",
-      "action": "info",
-      "disc": "Описание c6-f5-n525",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n529": {
-      "id": "c6-f5-n529",
-      "name": "Аудитория 529",
-      "action": "info",
-      "disc": "Описание c6-f5-n529",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n511": {
-      "id": "c6-f5-n511",
-      "name": "Аудитория 511",
-      "action": "info",
-      "disc": "Описание c6-f5-n511",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n518": {
-      "id": "c6-f5-n518",
-      "name": "Аудитория 518",
-      "action": "info",
-      "disc": "Описание c6-f5-n518",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n519": {
-      "id": "c6-f5-n519",
-      "name": "Аудитория 519",
-      "action": "info",
-      "disc": "Описание c6-f5-n519",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n516": {
-      "id": "c6-f5-n516",
-      "name": "Аудитория 516",
-      "action": "info",
-      "disc": "Описание c6-f5-n516",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n517": {
-      "id": "c6-f5-n517",
-      "name": "Аудитория 517",
-      "action": "info",
-      "disc": "Описание c6-f5-n517",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n513": {
-      "id": "c6-f5-n513",
-      "name": "Аудитория 513",
-      "action": "info",
-      "disc": "Описание c6-f5-n513",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n514": {
-      "id": "c6-f5-n514",
-      "name": "Аудитория 514",
-      "action": "info",
-      "disc": "Описание c6-f5-n514",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f5-n500": {
       "id": "c6-f5-n500",
-      "name": "Аудитория 500",
+      "name": "6-500 ООУП ДИТ Комп. класс",
       "action": "info",
-      "disc": "Описание c6-f5-n500",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-500"
       }
     },
     "c6-f5-n501": {
       "id": "c6-f5-n501",
-      "name": "Аудитория 501",
+      "name": "6-501 ГФ Каф. «ИЯ» Лингв. центр",
       "action": "info",
-      "disc": "Описание c6-f5-n501",
+      "disc": "Гуманитарный факультет. Кафедра «Иностранные языки». Лингвистический центр.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-501"
       }
     },
-    "c6-f5-n509": {
-      "id": "c6-f5-n509",
-      "name": "Аудитория 509",
+    "c6-f5-n502": {
+      "id": "c6-f5-n502",
+      "name": "6-502 ООУП Аудитория каф. «ИЯ»",
       "action": "info",
-      "disc": "Описание c6-f5-n509",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-502"
       }
     },
-    "c6-f5-n507": {
-      "id": "c6-f5-n507",
-      "name": "Аудитория 507",
+    "c6-f5-n503": {
+      "id": "c6-f5-n503",
+      "name": "6-503 ООУП Аудитория каф. «ИЯ»",
       "action": "info",
-      "disc": "Описание c6-f5-n507",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-503"
       }
     },
-    "c6-f5-n520": {
-      "id": "c6-f5-n520",
-      "name": "Аудитория 520",
+    "c6-f5-n504": {
+      "id": "c6-f5-n504",
+      "name": "6-504 СФ Каф. «ПГС»",
       "action": "info",
-      "disc": "Описание c6-f5-n520",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n512": {
-      "id": "c6-f5-n512",
-      "name": "Аудитория 512",
-      "action": "info",
-      "disc": "Описание c6-f5-n512",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n522": {
-      "id": "c6-f5-n522",
-      "name": "Аудитория 522",
-      "action": "info",
-      "disc": "Описание c6-f5-n522",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n515": {
-      "id": "c6-f5-n515",
-      "name": "Аудитория 515",
-      "action": "info",
-      "disc": "Описание c6-f5-n515",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Манжосов Владимир Кузьмич.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -313,9 +89,23 @@
     },
     "c6-f5-n505": {
       "id": "c6-f5-n505",
-      "name": "Аудитория 505",
+      "name": "6-505 ООУП Аудитория каф. «ИЯ»",
       "action": "info",
-      "disc": "Описание c6-f5-n505",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-505"
+      }
+    },
+    "c6-f5-n506": {
+      "id": "c6-f5-n506",
+      "name": "6-506 ГФ Каф. «ИЯ» Метод. кабинет",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Иностранные языки». Методический кабинет.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -325,25 +115,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-n503": {
-      "id": "c6-f5-n503",
-      "name": "Аудитория 503",
+    "c6-f5-n507": {
+      "id": "c6-f5-n507",
+      "name": "6-507 ГФ Каф. «ИЯ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c6-f5-n503",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-n510": {
-      "id": "c6-f5-n510",
-      "name": "Аудитория 510",
-      "action": "info",
-      "disc": "Описание c6-f5-n510",
+      "disc": "Гуманитарный факультет. Кафедра «Иностранные языки». Заведующая кафедрой Шарафутдинова Насима Саетовная.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -355,9 +131,23 @@
     },
     "c6-f5-n508": {
       "id": "c6-f5-n508",
-      "name": "Аудитория 508",
+      "name": "6-508 ООУП Аудитория каф. «ИЯ»",
       "action": "info",
-      "disc": "Описание c6-f5-n508",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-508"
+      }
+    },
+    "c6-f5-n509": {
+      "id": "c6-f5-n509",
+      "name": "6-509 ГФ Каф. «ИЯ» Метод. кабинет",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Иностранные языки». Методический кабинет.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -367,11 +157,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-n506": {
-      "id": "c6-f5-n506",
-      "name": "Аудитория 506",
+    "c6-f5-n510": {
+      "id": "c6-f5-n510",
+      "name": "6-510 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f5-n506",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория компьютерной физики.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -381,11 +171,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-n504": {
-      "id": "c6-f5-n504",
-      "name": "Аудитория 504",
+    "c6-f5-n511": {
+      "id": "c6-f5-n511",
+      "name": "6-511 ГФ Каф. «ИЯ» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f5-n504",
+      "disc": "Гуманитарный факультет. Кафедра «Иностранные языки». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -395,11 +185,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-n502": {
-      "id": "c6-f5-n502",
-      "name": "Аудитория 502",
+    "c6-f5-n512": {
+      "id": "c6-f5-n512",
+      "name": "6-512 Ректорат Редакция газеты",
       "action": "info",
-      "disc": "Описание c6-f5-n502",
+      "disc": "Ректорат. Редакция газеты «Университетская панорама».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -409,11 +199,109 @@
         "timetable": ""
       }
     },
-    "c6-f5-n531": {
-      "id": "c6-f5-n531",
-      "name": "Аудитория 531",
+    "c6-f5-n513": {
+      "id": "c6-f5-n513",
+      "name": "6-513 ООУП Аудитория каф. «ИЯ»",
       "action": "info",
-      "disc": "Описание c6-f5-n531",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-513"
+      }
+    },
+    "c6-f5-n514": {
+      "id": "c6-f5-n514",
+      "name": "6-514 Ректорат Проректор по АХР",
+      "action": "info",
+      "disc": "Ректорат. Проректор по административно-хозяйственной работе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-n515": {
+      "id": "c6-f5-n515",
+      "name": "6-515 ЛАОП ДЦТ",
+      "action": "info",
+      "disc": "Лаборатория автоматизации образовательного процесса. Департамент цифровой трансформации. Зав.лаб. - Андреев И.А.",
+      "additional": {
+        "phone": "+78422778357",
+        "responsible": "",
+        "workingHours": "",
+        "email": "laop-ulstu@ya.ru",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-n516": {
+      "id": "c6-f5-n516",
+      "name": "6-516 ООУП Аудитория каф. «ИЯ»",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-516"
+      }
+    },
+    "c6-f5-n517": {
+      "id": "c6-f5-n517",
+      "name": "6-517 ООУП Аудитория каф. «ИЯ»",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Иностранные языки». Аудитория для лекционных, практических, лабораторных занятий и индивидуальных консультаций.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-517"
+      }
+    },
+    "c6-f5-n518": {
+      "id": "c6-f5-n518",
+      "name": "6-518 ООУП Ауд. каф. «Философия»",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория кафедры «Философия».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-518"
+      }
+    },
+    "c6-f5-n519": {
+      "id": "c6-f5-n519",
+      "name": "6-519 ОИС ДНИИ",
+      "action": "info",
+      "disc": "Департамент научных исследований и инноваций. Отдел интеллектуальной собственности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-n520": {
+      "id": "c6-f5-n520",
+      "name": "6-520",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -425,9 +313,23 @@
     },
     "c6-f5-n521": {
       "id": "c6-f5-n521",
-      "name": "Аудитория 521",
+      "name": "6-521 ДНИИ Отделы НТИ и НИРС",
       "action": "info",
-      "disc": "Описание c6-f5-n521",
+      "disc": "Департамент научных исследований и инноваций. Отделы научно-технической информации и научно-исследовательской работы студентов.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-n522": {
+      "id": "c6-f5-n522",
+      "name": "6-522 Отд. компл. безопас. Начальник",
+      "action": "info",
+      "disc": "Отдел комплексной безопасности. Начальник пункта управления ОПС и видеонаблюдения.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -439,9 +341,23 @@
     },
     "c6-f5-n523": {
       "id": "c6-f5-n523",
-      "name": "Аудитория 523",
+      "name": "6-523 ЭФ Каф. «ЭС» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f5-n523",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная лаборатория «Электротехника и электроника». Лаборатория электротехники. Лаборатория электротехники и электронной безопасности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-523"
+      }
+    },
+    "c6-f5-n524": {
+      "id": "c6-f5-n524",
+      "name": "6-524 ЭФ Каф. «ЭС» Мастерская",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Мастерская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -451,11 +367,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-n530": {
-      "id": "c6-f5-n530",
-      "name": "Аудитория 530",
+    "c6-f5-n525": {
+      "id": "c6-f5-n525",
+      "name": "6-525 ЭФ Каф. «ЭС» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f5-n530",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -467,9 +383,79 @@
     },
     "c6-f5-526": {
       "id": "c6-f5-526",
-      "name": "Название c6-f5-526",
+      "name": "6-526 ЭФ Каф. «ЭС» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f5-526",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная лаборатория «Теоретически основы электротехники».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-526"
+      }
+    },
+    "c6-f5-n527": {
+      "id": "c6-f5-n527",
+      "name": "6-527 ЭФ Каф. «ЭС» Учебная ауд.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-527"
+      }
+    },
+    "c6-f5-n528": {
+      "id": "c6-f5-n528",
+      "name": "6-528 ИФ МИ Учебная аудитория",
+      "action": "info",
+      "disc": "Международный институт. Инженерный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-528"
+      }
+    },
+    "c6-f5-n529": {
+      "id": "c6-f5-n529",
+      "name": "6-529 ЭФ Каф. «ТТЭ» Комп. класс",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Тепловая и топливная энергетика». Компьютерный класс. Учебная лаборатория. Помещение для курсового проектирования. Помещение для текущего контроля и промежуточной аттестации. Помещение для групповых и индивидуальных консультаций.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-529"
+      }
+    },
+    "c6-f5-n530": {
+      "id": "c6-f5-n530",
+      "name": "6-530 ЭФ Каф. «ЭС» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-530"
+      }
+    },
+    "c6-f5-n531": {
+      "id": "c6-f5-n531",
+      "name": "6-531 ЭФ Каф. «ЭС» Аспирантская",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Аспирантская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -479,39 +465,11 @@
         "timetable": ""
       }
     },
-    "c6-f5-wc1": {
-      "id": "c6-f5-wc1",
-      "name": "Название c6-f5-wc1",
+    "coffee": {
+      "id": "coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание c6-f5-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-wc1_2": {
-      "id": "c6-f5-wc1_2",
-      "name": "Название c6-f5-wc1_2",
-      "action": "info",
-      "disc": "Описание c6-f5-wc1_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f5-elevator2": {
-      "id": "c6-f5-elevator2",
-      "name": "Название c6-f5-elevator2",
-      "action": "info",
-      "disc": "Описание c6-f5-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -523,9 +481,51 @@
     },
     "c6-f5-elevator1": {
       "id": "c6-f5-elevator1",
-      "name": "Название c6-f5-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f5-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-elevator2": {
+      "id": "c6-f5-elevator2",
+      "name": "Лифт 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-wc1": {
+      "id": "c6-f5-wc1",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f5-wc1_2": {
+      "id": "c6-f5-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -537,9 +537,9 @@
     },
     "c6-f5-CP": {
       "id": "c6-f5-CP",
-      "name": "Название c6-f5-CP",
+      "name": "Хоз. помещение",
       "action": "info",
-      "disc": "Описание c6-f5-CP",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

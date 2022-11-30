@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №3. Этаж 1",
     "mapName": "c3-f1",
     "prevMap": "",
     "nextMap": "c3-f2",
@@ -27,319 +27,11 @@
       "action": "move",
       "direction": "c3-cr-f1"
     },
-    "numbers": {
-      "id": "numbers",
-      "name": "Название numbers",
-      "action": "info",
-      "disc": "Описание numbers",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "numbers_2": {
-      "id": "numbers_2",
-      "name": "Название numbers_2",
-      "action": "info",
-      "disc": "Описание numbers_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-itcube": {
-      "id": "c3-f1-itcube",
-      "name": "Название c3-f1-itcube",
-      "action": "info",
-      "disc": "Описание c3-f1-itcube",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-ipk": {
-      "id": "c3-f1-ipk",
-      "name": "Название c3-f1-ipk",
-      "action": "info",
-      "disc": "Описание c3-f1-ipk",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n115": {
-      "id": "c3-f1-n115",
-      "name": "Аудитория 115",
-      "action": "info",
-      "disc": "Описание c3-f1-n115",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n117": {
-      "id": "c3-f1-n117",
-      "name": "Аудитория 117",
-      "action": "info",
-      "disc": "Описание c3-f1-n117",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n112": {
-      "id": "c3-f1-n112",
-      "name": "Аудитория 112",
-      "action": "info",
-      "disc": "Описание c3-f1-n112",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n116": {
-      "id": "c3-f1-n116",
-      "name": "Аудитория 116",
-      "action": "info",
-      "disc": "Описание c3-f1-n116",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n107": {
-      "id": "c3-f1-n107",
-      "name": "Аудитория 107",
-      "action": "info",
-      "disc": "Описание c3-f1-n107",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n125ab": {
-      "id": "c3-f1-n125ab",
-      "name": "Аудитория 125ab",
-      "action": "info",
-      "disc": "Описание c3-f1-n125ab",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n127": {
-      "id": "c3-f1-n127",
-      "name": "Аудитория 127",
-      "action": "info",
-      "disc": "Описание c3-f1-n127",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n118": {
-      "id": "c3-f1-n118",
-      "name": "Аудитория 118",
-      "action": "info",
-      "disc": "Описание c3-f1-n118",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n129": {
-      "id": "c3-f1-n129",
-      "name": "Аудитория 129",
-      "action": "info",
-      "disc": "Описание c3-f1-n129",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n110a": {
-      "id": "c3-f1-n110a",
-      "name": "Аудитория 110a",
-      "action": "info",
-      "disc": "Описание c3-f1-n110a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n110": {
-      "id": "c3-f1-n110",
-      "name": "Аудитория 110",
-      "action": "info",
-      "disc": "Описание c3-f1-n110",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n119": {
-      "id": "c3-f1-n119",
-      "name": "Аудитория 119",
-      "action": "info",
-      "disc": "Описание c3-f1-n119",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-buffet": {
-      "id": "c3-f1-buffet",
-      "name": "Название c3-f1-buffet",
-      "action": "info",
-      "disc": "Описание c3-f1-buffet",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n105": {
-      "id": "c3-f1-n105",
-      "name": "Аудитория 105",
-      "action": "info",
-      "disc": "Описание c3-f1-n105",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-wc": {
-      "id": "c3-f1-wc",
-      "name": "Название c3-f1-wc",
-      "action": "info",
-      "disc": "Описание c3-f1-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c3-f1-n102": {
       "id": "c3-f1-n102",
-      "name": "Аудитория 102",
+      "name": "3-102 МИ Упр. междунар. образования",
       "action": "info",
-      "disc": "Описание c3-f1-n102",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n114": {
-      "id": "c3-f1-n114",
-      "name": "Аудитория 114",
-      "action": "info",
-      "disc": "Описание c3-f1-n114",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n122": {
-      "id": "c3-f1-n122",
-      "name": "Аудитория 122",
-      "action": "info",
-      "disc": "Описание c3-f1-n122",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n131": {
-      "id": "c3-f1-n131",
-      "name": "Аудитория 131",
-      "action": "info",
-      "disc": "Описание c3-f1-n131",
+      "disc": "Международный институт. Управление международного образования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -351,9 +43,23 @@
     },
     "c3-f1-n104": {
       "id": "c3-f1-n104",
-      "name": "Аудитория 104",
+      "name": "3-104 МИ Упр. междунар. образования Отд. внеш. связей ЦТТ",
       "action": "info",
-      "disc": "Описание c3-f1-n104",
+      "disc": "Международный институт. Управление международного образования. Отдел внешних связей. Центр трансфера технологий.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n105": {
+      "id": "c3-f1-n105",
+      "name": "3-105 АХЧ Подсобное помещение",
+      "action": "info",
+      "disc": "Административно-хозяйственная часть. Подсобное помещение.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -365,9 +71,9 @@
     },
     "c3-f1-n106a": {
       "id": "c3-f1-n106a",
-      "name": "Аудитория 106a",
+      "name": "3-106а ПФ МИ Учебная аудитория",
       "action": "info",
-      "disc": "Описание c3-f1-n106a",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -379,9 +85,23 @@
     },
     "c3-f1-n106b": {
       "id": "c3-f1-n106b",
-      "name": "Аудитория 106b",
+      "name": "3-106б МИ Служебное помещение",
       "action": "info",
-      "disc": "Описание c3-f1-n106b",
+      "disc": "Международный институт. Служебное помещение.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n107": {
+      "id": "c3-f1-n107",
+      "name": "3-107 Упр. информатизации Отд. обслуж. и ремонта ВТ",
+      "action": "info",
+      "disc": "Управление информатизации. Отдел обслуживания и ремонта вычислительной техники. Сектор ремонта и технической экспертизы вычислительной и оргтехники.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -393,9 +113,9 @@
     },
     "c3-f1-n108": {
       "id": "c3-f1-n108",
-      "name": "Аудитория 108",
+      "name": "3-108 МИ Сервисный центр",
       "action": "info",
-      "disc": "Описание c3-f1-n108",
+      "disc": "Международный институт. Сервисный центр.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -405,11 +125,25 @@
         "timetable": ""
       }
     },
-    "enter": {
-      "id": "enter",
-      "name": "Название enter",
+    "c3-f1-n110": {
+      "id": "c3-f1-n110",
+      "name": "3-110 ЭФ Каф. «ЭиАПУ» Лаборатория",
       "action": "info",
-      "disc": "Описание enter",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Лаборатория «Тепловые расчёты узлов электропривода». Лаборатория «Автоматизация технологических процессов».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-110"
+      }
+    },
+    "c3-f1-n110a": {
+      "id": "c3-f1-n110a",
+      "name": "3-110а ЭФ Каф. «ЭиАПУ» Преподавательская",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -419,11 +153,221 @@
         "timetable": ""
       }
     },
-    "enter_2": {
-      "id": "enter_2",
-      "name": "Название enter_2",
+    "c3-f1-n112": {
+      "id": "c3-f1-n112",
+      "name": "3-112 ЭФ Каф. «ЭиАПУ» Лаборатория",
       "action": "info",
-      "disc": "Описание enter_2",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Лаборатория «Автоматизированный электропривод типовых производственных механизмов». Лаборатория «Электропривод в современных технологиях». Лаборатория «Электрооборудование грузоподъёмных механизмов».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-112"
+      }
+    },
+    "c3-f1-n114": {
+      "id": "c3-f1-n114",
+      "name": "3-114 ЭФ Каф. «Электроснабжение» Преподавательская Зав. каф.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Преподавательская. Заведующий кафедрой Кузнецов А.В. Заместитель заведующего кафедрой Ребровская Д.А.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n115": {
+      "id": "c3-f1-n115",
+      "name": "3-115 ЭФ Каф. «Электроснабжение» Комп. класс",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Компьютерный класс. Лаборатория автоматизированных систем.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-115"
+      }
+    },
+    "c3-f1-n116": {
+      "id": "c3-f1-n116",
+      "name": "3-116 ЭФ Каф. «ЭиАПУ» Лаборатория",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Электрические машины и электроприводы. Кабинет технического регулирования и контроля качества.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-116"
+      }
+    },
+    "c3-f1-n117": {
+      "id": "c3-f1-n117",
+      "name": "3-117 ЭФ Каф. «Электроснабжение» Лаборатория",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Элементы автоматических устройств. Релейная защита и автоматика.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-117"
+      }
+    },
+    "c3-f1-n118": {
+      "id": "c3-f1-n118",
+      "name": "3-118 ЭФ Каф. «ЭиАПУ» Помещение",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n119": {
+      "id": "c3-f1-n119",
+      "name": "3-119 ЭФ Каф. «Электроснабжение» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная лаборатория «Электроэнергетические системы и сети».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-119"
+      }
+    },
+    "c3-f1-n122": {
+      "id": "c3-f1-n122",
+      "name": "3-122 ЭФ Каф. «ЭиАПУ» Секретарь кафедры",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электропривод и автоматизация промышленных установок». Секретарь кафедры.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n125ab": {
+      "id": "c3-f1-n125ab",
+      "name": "3-125 ЭФ Каф. «Электроснабжение» Лаборатория",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Лаборатория. Электрическая часть станций и подстанций.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-125"
+      }
+    },
+    "c3-f1-n127": {
+      "id": "c3-f1-n127",
+      "name": "3-127 ЭФ Каф. «Электроснабжение». Научная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Научная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n129": {
+      "id": "c3-f1-n129",
+      "name": "3-129 ЭФ Каф. «Электроснабжение». Аспирантская",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Аспирантская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n131": {
+      "id": "c3-f1-n131",
+      "name": "3-131 ЭФ Каф. «Электроснабжение». Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Электроснабжение». Учебная лаборатория «Электротехническое материаловедение». Кабинет материаловедения.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-131"
+      }
+    },
+    "c3-f1-itcube": {
+      "id": "c3-f1-itcube",
+      "name": "IT-CUBE.Ульяновск",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-\"ИТ-куб\""
+      }
+    },
+    "c3-f1-ipk": {
+      "id": "c3-f1-ipk",
+      "name": "ИПК «Венец»",
+      "action": "info",
+      "disc": "Издательско-полиграфический комплекс «Венец».",
+      "additional": {
+        "phone": "77-81-13, 77-80-05",
+        "responsible": "",
+        "workingHours": "",
+        "email": "venec@ulstu.ru",
+        "website": "http://venec.ulstu.ru",
+        "timetable": ""
+      }
+    },
+    "c3-f1-buffet": {
+      "id": "c3-f1-buffet",
+      "name": "Столовая «Зелёный остров»",
+      "action": "info",
+      "disc": "Ассортимент: Первые, вторые блюда (оплата по весу),  выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе. Замороженные продукты. Мороженное.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Круглый год, пн-пт с 08:00 до 17:00, сб с 8:00 до 14:00.",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-wc": {
+      "id": "c3-f1-wc",
+      "name": "Хоз. помещение",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

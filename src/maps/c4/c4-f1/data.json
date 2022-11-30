@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №4. Этаж 1",
     "mapName": "c4-f1",
     "prevMap": "",
     "nextMap": "c4-f2",
@@ -22,95 +22,39 @@
       "action": "move",
       "direction": "global"
     },
-    "security": {
-      "id": "security",
-      "name": "Название security",
+    "c4-f1-n11": {
+      "id": "c4-f1-n11",
+      "name": "4-11 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание security",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория «Материаловедение и технология конструкционных материалов».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "coffee": {
-      "id": "coffee",
-      "name": "Название coffee",
-      "action": "info",
-      "disc": "Описание coffee",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-11"
       }
     },
     "c4-f1-n12": {
       "id": "c4-f1-n12",
-      "name": "Аудитория 12",
+      "name": "4-12 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f1-n12",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория «Строительные материалы».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f1-n15": {
-      "id": "c4-f1-n15",
-      "name": "Аудитория 15",
-      "action": "info",
-      "disc": "Описание c4-f1-n15",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-12"
       }
     },
     "c4-f1-n13": {
       "id": "c4-f1-n13",
-      "name": "Аудитория 13",
+      "name": "4-13 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f1-n13",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f1-storeroom": {
-      "id": "c4-f1-storeroom",
-      "name": "Название c4-f1-storeroom",
-      "action": "info",
-      "disc": "Описание c4-f1-storeroom",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f1-n15_2": {
-      "id": "c4-f1-n15_2",
-      "name": "Аудитория 15_2",
-      "action": "info",
-      "disc": "Описание c4-f1-n15_2",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория грунтов.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -122,23 +66,37 @@
     },
     "c4-f1-n16": {
       "id": "c4-f1-n16",
-      "name": "Аудитория 16",
+      "name": "4-16 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f1-n16",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория инженерной геодезии.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-16"
       }
     },
     "c4-f1-n17": {
       "id": "c4-f1-n17",
-      "name": "Аудитория 17",
+      "name": "4-17 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f1-n17",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория для испытания образцов строительных конструкций.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=4-17"
+      }
+    },
+    "c4-f1-n15": {
+      "id": "c4-f1-n15",
+      "name": "Гардероб",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -148,11 +106,25 @@
         "timetable": ""
       }
     },
-    "c4-f1-storeroom_2": {
-      "id": "c4-f1-storeroom_2",
-      "name": "Название c4-f1-storeroom_2",
+    "coffee": {
+      "id": "coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание c4-f1-storeroom_2",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "security": {
+      "id": "security",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -164,9 +136,9 @@
     },
     "c4-f1-wc": {
       "id": "c4-f1-wc",
-      "name": "Название c4-f1-wc",
+      "name": "Туалет",
       "action": "info",
-      "disc": "Описание c4-f1-wc",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -176,11 +148,25 @@
         "timetable": ""
       }
     },
-    "c4-f1-n11": {
-      "id": "c4-f1-n11",
-      "name": "Аудитория 11",
+    "c4-f1-storeroom": {
+      "id": "c4-f1-storeroom",
+      "name": "Хоз. помещение 1",
       "action": "info",
-      "disc": "Описание c4-f1-n11",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c4-f1-storeroom_2": {
+      "id": "c4-f1-storeroom_2",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 4",
     "mapName": "c1-f4",
     "prevMap": "c1-f3",
     "nextMap": "",
@@ -12,23 +12,47 @@
       "action": "move",
       "direction": "c1-f3"
     },
-    "c1-f4-staff-only": {
-      "id": "c1-f4-staff-only",
-      "name": "Название 1",
+    "c1-f4-n400": {
+      "id": "c1-f4-n400",
+      "name": "1-400 МФ Каф. «Автомобили» Учеб. ауд.",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-400"
+      }
     },
     "c1-f4-n401": {
       "id": "c1-f4-n401",
-      "name": "Название 1",
+      "name": "1-401 МФ Каф. «Автомобили» Зав. каф.",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Заведующий кафедрой Обшивалкин Михаил Юрьевич.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
     },
-    "c1-f4-n400": {
-      "id": "c1-f4-n400",
-      "name": "Название 1",
+    "c1-f4-staff-only": {
+      "id": "c1-f4-staff-only",
+      "name": "Служебное помещение",
       "action": "info",
-      "disc": "Описание 1"
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
     }
   }
 }

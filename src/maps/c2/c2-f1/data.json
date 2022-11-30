@@ -1,12 +1,17 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №2. Этаж 1",
     "mapName": "c2-f1",
     "prevMap": "",
     "nextMap": "c2-f2",
     "floorName": 1
   },
   "items": {
+    "enter": {
+      "id": "enter",
+      "action": "move",
+      "direction": "global"
+    },
     "stairs": {
       "id": "stairs",
       "action": "move",
@@ -32,109 +37,11 @@
       "action": "move",
       "direction": "gym-c2"
     },
-    "bank": {
-      "id": "bank",
-      "name": "Название bank",
-      "action": "info",
-      "disc": "Описание bank",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-cloakroom2": {
-      "id": "c2-f1-cloakroom2",
-      "name": "Название c2-f1-cloakroom2",
-      "action": "info",
-      "disc": "Описание c2-f1-cloakroom2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-wc": {
-      "id": "c2-f1-wc",
-      "name": "Название c2-f1-wc",
-      "action": "info",
-      "disc": "Описание c2-f1-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-cloakroom": {
-      "id": "c2-f1-cloakroom",
-      "name": "Название c2-f1-cloakroom",
-      "action": "info",
-      "disc": "Описание c2-f1-cloakroom",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-buffet": {
-      "id": "c2-f1-buffet",
-      "name": "Название c2-f1-buffet",
-      "action": "info",
-      "disc": "Описание c2-f1-buffet",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c2-f1-n101": {
       "id": "c2-f1-n101",
-      "name": "Аудитория 101",
+      "name": "2-101 ИЭФ Каф. «Маркетинг» Лаборатория",
       "action": "info",
-      "disc": "Описание c2-f1-n101",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-watchman": {
-      "id": "c2-f1-watchman",
-      "name": "Название c2-f1-watchman",
-      "action": "info",
-      "disc": "Описание c2-f1-watchman",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "security": {
-      "id": "security",
-      "name": "Название security",
-      "action": "info",
-      "disc": "Описание security",
+      "disc": "Инженерно-экономический факультет. Кафедра «Маркетинг». Лаборатория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -146,79 +53,37 @@
     },
     "c2-f1-n103": {
       "id": "c2-f1-n103",
-      "name": "Аудитория 103",
+      "name": "2-103 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f1-n103",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-n111": {
-      "id": "c2-f1-n111",
-      "name": "Аудитория 111",
-      "action": "info",
-      "disc": "Описание c2-f1-n111",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-n113": {
-      "id": "c2-f1-n113",
-      "name": "Аудитория 113",
-      "action": "info",
-      "disc": "Описание c2-f1-n113",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c2-f1-n115": {
-      "id": "c2-f1-n115",
-      "name": "Аудитория 115",
-      "action": "info",
-      "disc": "Описание c2-f1-n115",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-103"
       }
     },
     "c2-f1-n105": {
       "id": "c2-f1-n105",
-      "name": "Аудитория 105",
+      "name": "2-105 ИЭФ Аудитория",
       "action": "info",
-      "disc": "Описание c2-f1-n105",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=2-105"
       }
     },
     "c2-f1-n107": {
       "id": "c2-f1-n107",
-      "name": "Аудитория 107",
+      "name": "2-107 Служба главного инженера АТС",
       "action": "info",
-      "disc": "Описание c2-f1-n107",
+      "disc": "Служба главного инженера АТС.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -230,9 +95,93 @@
     },
     "c2-f1-n109": {
       "id": "c2-f1-n109",
-      "name": "Аудитория 109",
+      "name": "2-109 Служба тех. средств безопасности Пункт управления ОПС",
       "action": "info",
-      "disc": "Описание c2-f1-n109",
+      "disc": "Служба технических средств безопасности. Пункт управления охранно-пожарной сигнализацией, оповещения и наблюдения.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-n111": {
+      "id": "c2-f1-n111",
+      "name": "2-111 Приёмная комиссия. Секретари",
+      "action": "info",
+      "disc": "Приёмная комиссия. Секретари.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-n113": {
+      "id": "c2-f1-n113",
+      "name": "2-113 ИЭФ Аудитория",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=2-113"
+      }
+    },
+    "c2-f1-n115": {
+      "id": "c2-f1-n115",
+      "name": "2-115 ИЭФ Каф. «ЭиМ» Помещение",
+      "action": "info",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономика и менеджмент». Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "bank": {
+      "id": "bank",
+      "name": "Банкомат. Банк «Открытие»",
+      "action": "info",
+      "disc": "Банкомат. Банк «Открытие»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-cloakroom": {
+      "id": "c2-f1-cloakroom",
+      "name": "Гардероб 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-cloakroom2": {
+      "id": "c2-f1-cloakroom2",
+      "name": "Гардероб 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -244,9 +193,51 @@
     },
     "coffee": {
       "id": "coffee",
-      "name": "Название coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание coffee",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-watchman": {
+      "id": "c2-f1-watchman",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-buffet": {
+      "id": "c2-f1-buffet",
+      "name": "Столовая «Зелёный остров»",
+      "action": "info",
+      "disc": "Ассортимент: Первые, вторые блюда (оплата по весу),  выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 08:00 до 17:00.",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c2-f1-wc": {
+      "id": "c2-f1-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

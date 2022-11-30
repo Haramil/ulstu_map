@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №3. Этаж 4",
     "mapName": "c3-f4",
     "prevMap": "c3-f3",
     "nextMap": "",
@@ -17,11 +17,11 @@
       "action": "move",
       "direction": "c3-f3"
     },
-    "c3-f4-n401": {
-      "id": "c3-f4-n401",
-      "name": "Аудитория 401",
+    "c3-f4-n400": {
+      "id": "c3-f4-n400",
+      "name": "3-400 ФИСТ. Лаборатория",
       "action": "info",
-      "disc": "Описание c3-f4-n401",
+      "disc": "ФИСТ. 400/А - компьютерный класс, 400 - Лаборатория инновационных образовательных технологий. Лаборатория вычислительной техники",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -31,11 +31,11 @@
         "timetable": ""
       }
     },
-    "c3-f4-n400": {
-      "id": "c3-f4-n400",
-      "name": "Аудитория 400",
+    "c3-f4-n401": {
+      "id": "c3-f4-n401",
+      "name": "3-401 УДО IT-лицей Математика",
       "action": "info",
-      "disc": "Описание c3-f4-n400",
+      "disc": "Управление довузовского образования. IT-лицей. Математика.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -47,79 +47,9 @@
     },
     "c3-f4-n402": {
       "id": "c3-f4-n402",
-      "name": "Аудитория 402",
+      "name": "3-402 УДО IT-лицей Информатика",
       "action": "info",
-      "disc": "Описание c3-f4-n402",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n417": {
-      "id": "c3-f4-n417",
-      "name": "Аудитория 417",
-      "action": "info",
-      "disc": "Описание c3-f4-n417",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n419": {
-      "id": "c3-f4-n419",
-      "name": "Аудитория 419",
-      "action": "info",
-      "disc": "Описание c3-f4-n419",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-buffet": {
-      "id": "c3-f4-buffet",
-      "name": "Название c3-f4-buffet",
-      "action": "info",
-      "disc": "Описание c3-f4-buffet",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n418": {
-      "id": "c3-f4-n418",
-      "name": "Аудитория 418",
-      "action": "info",
-      "disc": "Описание c3-f4-n418",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n420": {
-      "id": "c3-f4-n420",
-      "name": "Аудитория 420",
-      "action": "info",
-      "disc": "Описание c3-f4-n420",
+      "disc": "Управление довузовского образования. IT-лицей. Инженерный класс высоких технологий. Математика, информатика.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -131,9 +61,9 @@
     },
     "c3-f4-n403": {
       "id": "c3-f4-n403",
-      "name": "Аудитория 403",
+      "name": "3-403 УДО IT-лицей Иностранный язык",
       "action": "info",
-      "disc": "Описание c3-f4-n403",
+      "disc": "Управление довузовского образования. IT-лицей. Иностранный язык.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -145,9 +75,9 @@
     },
     "c3-f4-n404": {
       "id": "c3-f4-n404",
-      "name": "Аудитория 404",
+      "name": "3-404 УДО IT-лицей Русский язык",
       "action": "info",
-      "disc": "Описание c3-f4-n404",
+      "disc": "Управление довузовского образования. IT-лицей. Русский язык, литература.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -159,9 +89,9 @@
     },
     "c3-f4-n405": {
       "id": "c3-f4-n405",
-      "name": "Аудитория 405",
+      "name": "3-405 УДО IT-лицей Инженерный класс",
       "action": "info",
-      "disc": "Описание c3-f4-n405",
+      "disc": "Управление довузовского образования. IT-лицей. Инженерный класс высоких технологий.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -173,163 +103,9 @@
     },
     "c3-f4-n406": {
       "id": "c3-f4-n406",
-      "name": "Аудитория 406",
+      "name": "3-406 УДО IT-лицей История",
       "action": "info",
-      "disc": "Описание c3-f4-n406",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n411": {
-      "id": "c3-f4-n411",
-      "name": "Аудитория 411",
-      "action": "info",
-      "disc": "Описание c3-f4-n411",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n429": {
-      "id": "c3-f4-n429",
-      "name": "Аудитория 429",
-      "action": "info",
-      "disc": "Описание c3-f4-n429",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n431": {
-      "id": "c3-f4-n431",
-      "name": "Аудитория 431",
-      "action": "info",
-      "disc": "Описание c3-f4-n431",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n433": {
-      "id": "c3-f4-n433",
-      "name": "Аудитория 433",
-      "action": "info",
-      "disc": "Описание c3-f4-n433",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n414": {
-      "id": "c3-f4-n414",
-      "name": "Аудитория 414",
-      "action": "info",
-      "disc": "Описание c3-f4-n414",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n416": {
-      "id": "c3-f4-n416",
-      "name": "Аудитория 416",
-      "action": "info",
-      "disc": "Описание c3-f4-n416",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n423": {
-      "id": "c3-f4-n423",
-      "name": "Аудитория 423",
-      "action": "info",
-      "disc": "Описание c3-f4-n423",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n413": {
-      "id": "c3-f4-n413",
-      "name": "Аудитория 413",
-      "action": "info",
-      "disc": "Описание c3-f4-n413",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n415": {
-      "id": "c3-f4-n415",
-      "name": "Аудитория 415",
-      "action": "info",
-      "disc": "Описание c3-f4-n415",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f2-wc": {
-      "id": "c3-f2-wc",
-      "name": "Название c3-f2-wc",
-      "action": "info",
-      "disc": "Описание c3-f2-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f2-wc_2": {
-      "id": "c3-f2-wc_2",
-      "name": "Название c3-f2-wc_2",
-      "action": "info",
-      "disc": "Описание c3-f2-wc_2",
+      "disc": "Управление довузовского образования. IT-лицей. История, обществознание.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -341,23 +117,9 @@
     },
     "c3-f4-n407": {
       "id": "c3-f4-n407",
-      "name": "Аудитория 407",
+      "name": "3-407 УДО IT-лицей Математика",
       "action": "info",
-      "disc": "Описание c3-f4-n407",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n421": {
-      "id": "c3-f4-n421",
-      "name": "Аудитория 421",
-      "action": "info",
-      "disc": "Описание c3-f4-n421",
+      "disc": "Управление довузовского образования. IT-лицей. Математика.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -369,9 +131,9 @@
     },
     "c3-f4-n408": {
       "id": "c3-f4-n408",
-      "name": "Аудитория 408",
+      "name": "3-408 УДО IT-лицей Физика",
       "action": "info",
-      "disc": "Описание c3-f4-n408",
+      "disc": "Управление довузовского образования. IT-лицей. Физика.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,107 +145,9 @@
     },
     "c3-f4-n408a": {
       "id": "c3-f4-n408a",
-      "name": "Аудитория 408a",
+      "name": "3-408а УДО IT-лицей Преподавательская",
       "action": "info",
-      "disc": "Описание c3-f4-n408a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n418a": {
-      "id": "c3-f4-n418a",
-      "name": "Аудитория 418a",
-      "action": "info",
-      "disc": "Описание c3-f4-n418a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n422": {
-      "id": "c3-f4-n422",
-      "name": "Аудитория 422",
-      "action": "info",
-      "disc": "Описание c3-f4-n422",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n422_2": {
-      "id": "c3-f4-n422_2",
-      "name": "Аудитория 422_2",
-      "action": "info",
-      "disc": "Описание c3-f4-n422_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n424/1": {
-      "id": "c3-f4-n424/1",
-      "name": "Аудитория 424/1",
-      "action": "info",
-      "disc": "Описание c3-f4-n424/1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n424/4": {
-      "id": "c3-f4-n424/4",
-      "name": "Аудитория 424/4",
-      "action": "info",
-      "disc": "Описание c3-f4-n424/4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n424/2": {
-      "id": "c3-f4-n424/2",
-      "name": "Аудитория 424/2",
-      "action": "info",
-      "disc": "Описание c3-f4-n424/2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f4-n424/3": {
-      "id": "c3-f4-n424/3",
-      "name": "Аудитория 424/3",
-      "action": "info",
-      "disc": "Описание c3-f4-n424/3",
+      "disc": "Управление довузовского образования. IT-лицей. Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -495,9 +159,9 @@
     },
     "c3-f4-n410": {
       "id": "c3-f4-n410",
-      "name": "Аудитория 410",
+      "name": "3-410 УДО IT-лицей Иностранный язык",
       "action": "info",
-      "disc": "Описание c3-f4-n410",
+      "disc": "Управление довузовского образования. IT-лицей. Иностранный язык.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -507,11 +171,361 @@
         "timetable": ""
       }
     },
+    "c3-f4-n411": {
+      "id": "c3-f4-n411",
+      "name": "3-411 ФИСТ Каф. «ИС» Учебная ауд.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-411"
+      }
+    },
     "c3-f4-n412": {
       "id": "c3-f4-n412",
-      "name": "Аудитория 412",
+      "name": "3-412 УДО IT-лицей Русский язык",
       "action": "info",
-      "disc": "Описание c3-f4-n412",
+      "disc": "Управление довузовского образования. IT-лицей. Русский язык, литература.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n413": {
+      "id": "c3-f4-n413",
+      "name": "3-413 УДО IT-лицей Физика",
+      "action": "info",
+      "disc": "Управление довузовского образования. IT-лицей. Физика.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n414": {
+      "id": "c3-f4-n414",
+      "name": "3-414 УДО IT-лицей Математика",
+      "action": "info",
+      "disc": "Управление довузовского образования. IT-лицей. Математика.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n415": {
+      "id": "c3-f4-n415",
+      "name": "3-415 Упр. информатизации ОТК",
+      "action": "info",
+      "disc": "Управление информатизации. Отдел телекоммуникаций.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n416": {
+      "id": "c3-f4-n416",
+      "name": "3-416 УДО IT-лицей История",
+      "action": "info",
+      "disc": "Управление довузовского образования. IT-лицей. История, обществознание.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n417": {
+      "id": "c3-f4-n417",
+      "name": "3-417 ФИСТ Каф. «ИС» Аудитория",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Гиперлаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-417"
+      }
+    },
+    "c3-f4-n418": {
+      "id": "c3-f4-n418",
+      "name": "3-418 УУ Учеб. телевизионная ауд.",
+      "action": "info",
+      "disc": "Учебное управление. Учебная телевизионная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-418"
+      }
+    },
+    "c3-f4-n418a": {
+      "id": "c3-f4-n418a",
+      "name": "3-418а ФИСТ Каф. «ИС» Специализ. лаб.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Специализированная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-418а"
+      }
+    },
+    "c3-f4-n419": {
+      "id": "c3-f4-n419",
+      "name": "3-419 ФИСТ Деканат",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Деканат. Декан Святов Кирилл Валерьевич.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n420": {
+      "id": "c3-f4-n420",
+      "name": "3-420 ФИСТ Каф. «ИС» Лекционная ауд.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Лекционная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-420"
+      }
+    },
+    "c3-f4-n421": {
+      "id": "c3-f4-n421",
+      "name": "3-421 Сектор глобальных сетей",
+      "action": "info",
+      "disc": "Сектор глобальных сетей.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n422_2": {
+      "id": "c3-f4-n422_2",
+      "name": "3-422 ФИСТ Каф. «ИС» Преподавательская",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n422": {
+      "id": "c3-f4-n422",
+      "name": "3-422а ФИСТ Каф. «ИС» Преподавательская",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n423": {
+      "id": "c3-f4-n423",
+      "name": "3-423 ФИСТ ЦПО в обл. ИКТ Аудитория",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Центр профессионального образования в области ИКТ. Аудитория для самостоятельной работы студентов.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n424/1": {
+      "id": "c3-f4-n424/1",
+      "name": "3-424/1 ФИСТ Каф. «ИС» Комп. класс",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-424/1"
+      }
+    },
+    "c3-f4-n424/2": {
+      "id": "c3-f4-n424/2",
+      "name": "3-424/2 ФИСТ Каф. «ИС» Комп. класс",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-424/2"
+      }
+    },
+    "c3-f4-n424/3": {
+      "id": "c3-f4-n424/3",
+      "name": "3-424/3 ФИСТ Каф. «ИС» Администраторская",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Администраторская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-424/4"
+      }
+    },
+    "c3-f4-n424/4": {
+      "id": "c3-f4-n424/4",
+      "name": "3-424/4 ЦОО ФИСТ",
+      "action": "info",
+      "disc": "Центр открытого образования ФИСТ.",
+      "additional": {
+        "phone": "778-345",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-n429": {
+      "id": "c3-f4-n429",
+      "name": "3-429 ФИСТ Каф. «ИС» Специализ. лаб.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Специализированная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-429"
+      }
+    },
+    "c3-f4-n431": {
+      "id": "c3-f4-n431",
+      "name": "3-431 ФИСТ Каф. «ИС» Специализ. лаб.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Специализированная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=3-431"
+      }
+    },
+    "c3-f4-n433": {
+      "id": "c3-f4-n433",
+      "name": "3-433 Каф. «ИС» Зав. каф.",
+      "action": "info",
+      "disc": "Факультет информационных систем и технологий. Кафедра «Информационные системы». Заведующий кафедрой Ярушкина Н.Г.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-buffet1": {
+      "id": "c3-f4-buffet1",
+      "name": "Кафе «Как дома»",
+      "action": "info",
+      "disc": "Ассортимент: Вторые блюда (можно с собой), выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 09:00 по 16:00, сб выходной.",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f4-buffet2": {
+      "id": "c3-f4-buffet2",
+      "name": "Кафе «Пельменная Зелёный остров»",
+      "action": "info",
+      "disc": "Ассортимент: Пельмени, выпечка. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 07:30 по 17:00, сб выходной.",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f2-wc": {
+      "id": "c3-f2-wc",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f2-wc_2": {
+      "id": "c3-f2-wc_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №5. Этаж 4",
     "mapName": "c5-f4",
     "prevMap": "c5-f3",
     "nextMap": "",
@@ -12,165 +12,11 @@
       "action": "move",
       "direction": "c5-f3"
     },
-    "c5-f4-n410": {
-      "id": "c5-f4-n410",
-      "name": "Аудитория 410",
-      "action": "info",
-      "disc": "Описание c5-f4-n410",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n409": {
-      "id": "c5-f4-n409",
-      "name": "Аудитория 409",
-      "action": "info",
-      "disc": "Описание c5-f4-n409",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n408": {
-      "id": "c5-f4-n408",
-      "name": "Аудитория 408",
-      "action": "info",
-      "disc": "Описание c5-f4-n408",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n404": {
-      "id": "c5-f4-n404",
-      "name": "Аудитория 404",
-      "action": "info",
-      "disc": "Описание c5-f4-n404",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n411": {
-      "id": "c5-f4-n411",
-      "name": "Аудитория 411",
-      "action": "info",
-      "disc": "Описание c5-f4-n411",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n412": {
-      "id": "c5-f4-n412",
-      "name": "Аудитория 412",
-      "action": "info",
-      "disc": "Описание c5-f4-n412",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n405": {
-      "id": "c5-f4-n405",
-      "name": "Аудитория 405",
-      "action": "info",
-      "disc": "Описание c5-f4-n405",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n413": {
-      "id": "c5-f4-n413",
-      "name": "Аудитория 413",
-      "action": "info",
-      "disc": "Описание c5-f4-n413",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-chancellery": {
-      "id": "c5-f4-chancellery",
-      "name": "Название c5-f4-chancellery",
-      "action": "info",
-      "disc": "Описание c5-f4-chancellery",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c5-f4-n401": {
       "id": "c5-f4-n401",
-      "name": "Аудитория 401",
+      "name": "5-401 СФ Каф. «ПГС» Преподавательская",
       "action": "info",
-      "disc": "Описание c5-f4-n401",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n403": {
-      "id": "c5-f4-n403",
-      "name": "Аудитория 403",
-      "action": "info",
-      "disc": "Описание c5-f4-n403",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c5-f4-n403a": {
-      "id": "c5-f4-n403a",
-      "name": "Аудитория 403a",
-      "action": "info",
-      "disc": "Описание c5-f4-n403a",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -182,9 +28,9 @@
     },
     "c5-f4-n402": {
       "id": "c5-f4-n402",
-      "name": "Аудитория 402",
+      "name": "5-402 НИЛ «Сигнал» Лаборатория",
       "action": "info",
-      "disc": "Описание c5-f4-n402",
+      "disc": "Научно-исследовательская лаборатория по проектированию ПТК обработки изображений «Сигнал». Лаборатория управления научных исследований.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -194,11 +40,151 @@
         "timetable": ""
       }
     },
-    "c5-f4-cp2": {
-      "id": "c5-f4-cp2",
-      "name": "Название c5-f4-cp2",
+    "c5-f4-n403": {
+      "id": "c5-f4-n403",
+      "name": "5-403 РТФ. Каф. «Радиотехника»",
       "action": "info",
-      "disc": "Описание c5-f4-cp2",
+      "disc": "Радиотехнический факультет. Кафедра «Радиотехника»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-n403a": {
+      "id": "c5-f4-n403a",
+      "name": "5-403а",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-n404": {
+      "id": "c5-f4-n404",
+      "name": "5-404 СФ НИЦ «ИРАС» Научная лаб.",
+      "action": "info",
+      "disc": "Строительный факультет. Научно-исследовательский центр «ИРАС». Научная лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-n405": {
+      "id": "c5-f4-n405",
+      "name": "5-405 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория архитектурно-дизайнерского проектирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-405"
+      }
+    },
+    "c5-f4-n408": {
+      "id": "c5-f4-n408",
+      "name": "5-408 СФ Каф. «ТГВ» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Теплогазоснабжение и вентиляция». Лаборатория «Информационные технологии в системах ТГВ и ЖКХ».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-408"
+      }
+    },
+    "c5-f4-n409": {
+      "id": "c5-f4-n409",
+      "name": "5-409 СФ Каф. «ПГС» Кабинет",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Кабинет геодезического сопровождения в строительстве.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-n410": {
+      "id": "c5-f4-n410",
+      "name": "5-410 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория архитектурно-дизайнерского проектирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-410"
+      }
+    },
+    "c5-f4-n411": {
+      "id": "c5-f4-n411",
+      "name": "5-411",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-n412": {
+      "id": "c5-f4-n412",
+      "name": "5-412 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория архитектурно-дизайнерского проектирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-412"
+      }
+    },
+    "c5-f4-n413": {
+      "id": "c5-f4-n413",
+      "name": "5-413 СФ Каф. «АСП» Лаборатория",
+      "action": "info",
+      "disc": "Строительный факультет. Кафедра «Архитектурно-строительное проектирование». Лаборатория архитектурно-дизайнерского проектирования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=5-413"
+      }
+    },
+    "c5-f4-chancellery": {
+      "id": "c5-f4-chancellery",
+      "name": "Магазин канцтоваров",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -210,9 +196,23 @@
     },
     "c5-f4-wc": {
       "id": "c5-f4-wc",
-      "name": "Название c5-f4-wc",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c5-f4-wc",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c5-f4-cp2": {
+      "id": "c5-f4-cp2",
+      "name": "Хоз. помещение",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

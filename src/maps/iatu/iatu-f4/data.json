@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус ИАТУ. Этаж 4",
     "mapName": "iatu-f4",
     "prevMap": "iatu-f3",
     "nextMap": "",
@@ -17,137 +17,11 @@
       "action": "move",
       "direction": "iatu-f3"
     },
-    "f4-wc": {
-      "id": "f4-wc",
-      "name": "Название f4-wc",
-      "action": "info",
-      "disc": "Описание f4-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n405": {
-      "id": "f4-n405",
-      "name": "Аудитория 405",
-      "action": "info",
-      "disc": "Описание f4-n405",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n406": {
-      "id": "f4-n406",
-      "name": "Аудитория 406",
-      "action": "info",
-      "disc": "Описание f4-n406",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n408": {
-      "id": "f4-n408",
-      "name": "Аудитория 408",
-      "action": "info",
-      "disc": "Описание f4-n408",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n407": {
-      "id": "f4-n407",
-      "name": "Аудитория 407",
-      "action": "info",
-      "disc": "Описание f4-n407",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n410": {
-      "id": "f4-n410",
-      "name": "Аудитория 410",
-      "action": "info",
-      "disc": "Описание f4-n410",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n403b": {
-      "id": "f4-n403b",
-      "name": "Аудитория 403b",
-      "action": "info",
-      "disc": "Описание f4-n403b",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n403a": {
-      "id": "f4-n403a",
-      "name": "Аудитория 403a",
-      "action": "info",
-      "disc": "Описание f4-n403a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "f4-n401": {
       "id": "f4-n401",
-      "name": "Аудитория 401",
+      "name": "ИАТУ-401 ССФ Каф. «ОНД» Аудитория",
       "action": "info",
-      "disc": "Описание f4-n401",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n418": {
-      "id": "f4-n418",
-      "name": "Аудитория 418",
-      "action": "info",
-      "disc": "Описание f4-n418",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -159,149 +33,9 @@
     },
     "f4-n402": {
       "id": "f4-n402",
-      "name": "Аудитория 402",
+      "name": "ИАТУ-402 ССФ Каф. «СС» Кабинет",
       "action": "info",
-      "disc": "Описание f4-n402",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n419": {
-      "id": "f4-n419",
-      "name": "Аудитория 419",
-      "action": "info",
-      "disc": "Описание f4-n419",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n414": {
-      "id": "f4-n414",
-      "name": "Аудитория 414",
-      "action": "info",
-      "disc": "Описание f4-n414",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n415": {
-      "id": "f4-n415",
-      "name": "Аудитория 415",
-      "action": "info",
-      "disc": "Описание f4-n415",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n416": {
-      "id": "f4-n416",
-      "name": "Аудитория 416",
-      "action": "info",
-      "disc": "Описание f4-n416",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n412": {
-      "id": "f4-n412",
-      "name": "Аудитория 412",
-      "action": "info",
-      "disc": "Описание f4-n412",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-pf": {
-      "id": "f4-pf",
-      "name": "Название f4-pf",
-      "action": "info",
-      "disc": "Описание f4-pf",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n417": {
-      "id": "f4-n417",
-      "name": "Аудитория 417",
-      "action": "info",
-      "disc": "Описание f4-n417",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n413": {
-      "id": "f4-n413",
-      "name": "Аудитория 413",
-      "action": "info",
-      "disc": "Описание f4-n413",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n409": {
-      "id": "f4-n409",
-      "name": "Аудитория 409",
-      "action": "info",
-      "disc": "Описание f4-n409",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f4-n411": {
-      "id": "f4-n411",
-      "name": "Аудитория 411",
-      "action": "info",
-      "disc": "Описание f4-n411",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Кабинет для самостоятельной работы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -313,9 +47,37 @@
     },
     "f4-n403": {
       "id": "f4-n403",
-      "name": "Аудитория 403",
+      "name": "ИАТУ-403 ССФ Каф. «СС» Кабинет БЖД",
       "action": "info",
-      "disc": "Описание f4-n403",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Кабинет безопасности жизнедеятельности.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n403a": {
+      "id": "f4-n403a",
+      "name": "ИАТУ-403а ССФ Каф. «ОНД» Преподавательская",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Преподавательская",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n403b": {
+      "id": "f4-n403b",
+      "name": "ИАТУ-403б ССФ Каф. «ОНД» Преподавательская",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Преподавательская",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,9 +89,247 @@
     },
     "f4-n404": {
       "id": "f4-n404",
-      "name": "Аудитория 404",
+      "name": "ИАТУ-404 ССФ Каф. «СС» Лаборатория",
       "action": "info",
-      "disc": "Описание f4-n404",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Метрология».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n405": {
+      "id": "f4-n405",
+      "name": "ИАТУ-405",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n406": {
+      "id": "f4-n406",
+      "name": "ИАТУ-406 ССФ Каф. «ОНД» Метод. каб.",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Методический кабинет.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n407": {
+      "id": "f4-n407",
+      "name": "ИАТУ-407 ССФ Каф. «ОНД» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n408": {
+      "id": "f4-n408",
+      "name": "ИАТУ-408 ССФ Каф. «СС» Помещение",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n409": {
+      "id": "f4-n409",
+      "name": "ИАТУ-409 ССФ Каф. «СС» Лаборатория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Полимерные композитные материалы и защитные покрытия».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n410": {
+      "id": "f4-n410",
+      "name": "ИАТУ-410 ССФ Каф. «ОНД» Химия",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Лаборатория «Химия».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n411": {
+      "id": "f4-n411",
+      "name": "ИАТУ-411 ССФ Каф. «ОНД» Химия",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Лаборатория «Химия».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n412": {
+      "id": "f4-n412",
+      "name": "ИАТУ-412 Планово-финанс. отд.",
+      "action": "info",
+      "disc": "Планово-финансовый отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n413": {
+      "id": "f4-n413",
+      "name": "ИАТУ-413 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n414": {
+      "id": "f4-n414",
+      "name": "ИАТУ-414 ССФ Каф. «ОНД» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n415": {
+      "id": "f4-n415",
+      "name": "ИАТУ-415 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n416": {
+      "id": "f4-n416",
+      "name": "ИАТУ-416 ССФ Каф. «ОНД» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n417": {
+      "id": "f4-n417",
+      "name": "ИАТУ-417 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n418": {
+      "id": "f4-n418",
+      "name": "ИАТУ-418 ССФ Каф. «ОНД» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-n419": {
+      "id": "f4-n419",
+      "name": "ИАТУ-419 ОПиТВ",
+      "action": "info",
+      "disc": "Отдел практики и трудоустройства выпускников.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-pf": {
+      "id": "f4-pf",
+      "name": "Профком",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f4-wc": {
+      "id": "f4-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 2",
     "mapName": "c1-f2",
     "prevMap": "c1-f1a",
     "nextMap": "c1-f3",
@@ -52,165 +52,25 @@
       "action": "move",
       "direction": "c1-f1a"
     },
-    "c1-f2-n215": {
-      "id": "c1-f2-n215",
-      "name": "Аудитория 215",
+    "c1-f2-n200l": {
+      "id": "c1-f2-n200l",
+      "name": "1-200Л МФ Каф. «ТМ» Кабинет",
       "action": "info",
-      "disc": "Описание c1-f2-n215",
+      "disc": "Машиностроительный факультет. Кафедра «Технология машиностроения». Учебно-методический кабинет. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-200Л"
       }
     },
-    "c1-f2-n219": {
-      "id": "c1-f2-n219",
-      "name": "Аудитория 219",
+    "c1-f2-n200r": {
+      "id": "c1-f2-n200r",
+      "name": "1-200П МФ Каф. «ИТвМ» Преподавательская",
       "action": "info",
-      "disc": "Описание c1-f2-n219",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n217": {
-      "id": "c1-f2-n217",
-      "name": "Аудитория 217",
-      "action": "info",
-      "disc": "Описание c1-f2-n217",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n220": {
-      "id": "c1-f2-n220",
-      "name": "Аудитория 220",
-      "action": "info",
-      "disc": "Описание c1-f2-n220",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n216": {
-      "id": "c1-f2-n216",
-      "name": "Аудитория 216",
-      "action": "info",
-      "disc": "Описание c1-f2-n216",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n218": {
-      "id": "c1-f2-n218",
-      "name": "Аудитория 218",
-      "action": "info",
-      "disc": "Описание c1-f2-n218",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n214": {
-      "id": "c1-f2-n214",
-      "name": "Аудитория 214",
-      "action": "info",
-      "disc": "Описание c1-f2-n214",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n212": {
-      "id": "c1-f2-n212",
-      "name": "Аудитория 212",
-      "action": "info",
-      "disc": "Описание c1-f2-n212",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n210": {
-      "id": "c1-f2-n210",
-      "name": "Аудитория 210",
-      "action": "info",
-      "disc": "Описание c1-f2-n210",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n208": {
-      "id": "c1-f2-n208",
-      "name": "Аудитория 208",
-      "action": "info",
-      "disc": "Описание c1-f2-n208",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n206": {
-      "id": "c1-f2-n206",
-      "name": "Аудитория 206",
-      "action": "info",
-      "disc": "Описание c1-f2-n206",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n204": {
-      "id": "c1-f2-n204",
-      "name": "Аудитория 204",
-      "action": "info",
-      "disc": "Описание c1-f2-n204",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -222,37 +82,9 @@
     },
     "c1-f2-n202": {
       "id": "c1-f2-n202",
-      "name": "Аудитория 202",
+      "name": "1-202 МФ Каф. «ИТвМ» Зав. лаб.",
       "action": "info",
-      "disc": "Описание c1-f2-n202",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n200r": {
-      "id": "c1-f2-n200r",
-      "name": "Аудитория 200r",
-      "action": "info",
-      "disc": "Описание c1-f2-n200r",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n200l": {
-      "id": "c1-f2-n200l",
-      "name": "Аудитория 200l",
-      "action": "info",
-      "disc": "Описание c1-f2-n200l",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Кабинет заведующего лабораторией ИТМ.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -264,9 +96,9 @@
     },
     "c1-f2-n202a": {
       "id": "c1-f2-n202a",
-      "name": "Аудитория 202a",
+      "name": "1-202а",
       "action": "info",
-      "disc": "Описание c1-f2-n202a",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -276,137 +108,11 @@
         "timetable": ""
       }
     },
-    "c1-f2-n213": {
-      "id": "c1-f2-n213",
-      "name": "Аудитория 213",
+    "c1-f2-n204": {
+      "id": "c1-f2-n204",
+      "name": "1-204 МФ Каф. «ИТвМ» УИМЦ",
       "action": "info",
-      "disc": "Описание c1-f2-n213",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n232": {
-      "id": "c1-f2-n232",
-      "name": "Аудитория 232",
-      "action": "info",
-      "disc": "Описание c1-f2-n232",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n229": {
-      "id": "c1-f2-n229",
-      "name": "Аудитория 229",
-      "action": "info",
-      "disc": "Описание c1-f2-n229",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-wc2": {
-      "id": "c1-f2-wc2",
-      "name": "Название c1-f2-wc2",
-      "action": "info",
-      "disc": "Описание c1-f2-wc2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n225": {
-      "id": "c1-f2-n225",
-      "name": "Аудитория 225",
-      "action": "info",
-      "disc": "Описание c1-f2-n225",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n226": {
-      "id": "c1-f2-n226",
-      "name": "Аудитория 226",
-      "action": "info",
-      "disc": "Описание c1-f2-n226",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n227a": {
-      "id": "c1-f2-n227a",
-      "name": "Аудитория 227a",
-      "action": "info",
-      "disc": "Описание c1-f2-n227a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n228": {
-      "id": "c1-f2-n228",
-      "name": "Аудитория 228",
-      "action": "info",
-      "disc": "Описание c1-f2-n228",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n227": {
-      "id": "c1-f2-n227",
-      "name": "Аудитория 227",
-      "action": "info",
-      "disc": "Описание c1-f2-n227",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n233": {
-      "id": "c1-f2-n233",
-      "name": "Аудитория 233",
-      "action": "info",
-      "disc": "Описание c1-f2-n233",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Учебно-исследовательский машиностроительный центр.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -418,9 +124,9 @@
     },
     "c1-f2-n205": {
       "id": "c1-f2-n205",
-      "name": "Аудитория 205",
+      "name": "1-205 МФ Каф. «Автомобили» Лаборатория",
       "action": "info",
-      "disc": "Описание c1-f2-n205",
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Лаборатория «Электрооборудование автомобилей».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -430,11 +136,165 @@
         "timetable": ""
       }
     },
-    "c1-f2-n231": {
-      "id": "c1-f2-n231",
-      "name": "Аудитория 231",
+    "c1-f2-n206": {
+      "id": "c1-f2-n206",
+      "name": "1-206 МФ Каф. «ИТвМ» Аспирантская",
       "action": "info",
-      "disc": "Описание c1-f2-n231",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Аспирантская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n208": {
+      "id": "c1-f2-n208",
+      "name": "1-208 МФ Каф. «Автомобили» Лаборантская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Автомобили». Лаборантская. Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n210": {
+      "id": "c1-f2-n210",
+      "name": "1-210 АХЧ Комендант корпуса",
+      "action": "info",
+      "disc": "Административно-хозяйственная часть. Комендант корпуса.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n212": {
+      "id": "c1-f2-n212",
+      "name": "1-212 МФ Лекционная аудитория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Лекционная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-212"
+      }
+    },
+    "c1-f2-n213": {
+      "id": "c1-f2-n213",
+      "name": "1-213 МФ Каф. «ТМ» Учебная лаб.",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Технология машиностроения». Учебная лаборатория «Технологическая оснастка».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-213"
+      }
+    },
+    "c1-f2-n214": {
+      "id": "c1-f2-n214",
+      "name": "1-214 МФ Аудитория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n215": {
+      "id": "c1-f2-n215",
+      "name": "1-215 МФ Каф. «ИТвМ» НИЛ",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Научно-исследовательская лаборатория. Диссертационный совет.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n216": {
+      "id": "c1-f2-n216",
+      "name": "1-216 МФ Читальный зал",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Читальный зал.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n217": {
+      "id": "c1-f2-n217",
+      "name": "1-217 ИННО Отдел по работе со студентами и абитуриентами",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Отдел по работе со студентами и абитуриентами.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n218": {
+      "id": "c1-f2-n218",
+      "name": "1-218 Комната оперативных дежурных",
+      "action": "info",
+      "disc": "Комната оперативных дежурных.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n219": {
+      "id": "c1-f2-n219",
+      "name": "1-219 МФ Учебная аудитория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-219"
+      }
+    },
+    "c1-f2-n220": {
+      "id": "c1-f2-n220",
+      "name": "1-220 МФ Кафедра «ИТвМ»",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Худобин Леонид Викторович.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -446,65 +306,23 @@
     },
     "c1-f2-n221": {
       "id": "c1-f2-n221",
-      "name": "Аудитория 221",
+      "name": "1-221 ООУП ДИТ Компьютерный класс",
       "action": "info",
-      "disc": "Описание c1-f2-n221",
+      "disc": "Департамент информационных технологий. Отдел обеспечения учебного процесса. Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-wc1": {
-      "id": "c1-f2-wc1",
-      "name": "Название c1-f2-wc1",
-      "action": "info",
-      "disc": "Описание c1-f2-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-221"
       }
     },
     "c1-f2-n222": {
       "id": "c1-f2-n222",
-      "name": "Аудитория 222",
+      "name": "1-222 МФ Каф. «ИТвМ» Преподавательская",
       "action": "info",
-      "disc": "Описание c1-f2-n222",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n236": {
-      "id": "c1-f2-n236",
-      "name": "Аудитория 236",
-      "action": "info",
-      "disc": "Описание c1-f2-n236",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n224": {
-      "id": "c1-f2-n224",
-      "name": "Аудитория 224",
-      "action": "info",
-      "disc": "Описание c1-f2-n224",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -516,9 +334,163 @@
     },
     "c1-f2-n223": {
       "id": "c1-f2-n223",
-      "name": "Аудитория 223",
+      "name": "1-223 МФ Каф. «ИТвМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c1-f2-n223",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Учебная лаборатория «Технические измерения».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-223"
+      }
+    },
+    "c1-f2-n224": {
+      "id": "c1-f2-n224",
+      "name": "1-224 МФ Каф. «ИТвМ» Лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Лаборатория электронного обучения.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-224"
+      }
+    },
+    "c1-f2-n225": {
+      "id": "c1-f2-n225",
+      "name": "1-225 МФ Каф. «ИТвМ» Лаборантская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Лаборантская. Помещение для хранения и профилактического обслуживания учебного оборудования.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n226": {
+      "id": "c1-f2-n226",
+      "name": "1-226 МФ Каф. «ИТвМ» Кабинет",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Кабинет «Металлорежущие станки». Помещение для групповых и индивидуальных консультаций, текущего контроля и промежуточной аттестации.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-226"
+      }
+    },
+    "c1-f2-n227": {
+      "id": "c1-f2-n227",
+      "name": "1-227 МФ Каф. «ИТвМ» Зав. каф.",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Заведующий кафедрой Табаков Владимир Петрович.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n227a": {
+      "id": "c1-f2-n227a",
+      "name": "1-227а МФ Каф. «ИТвМ» Аспирантская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Аспирантская. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n228": {
+      "id": "c1-f2-n228",
+      "name": "1-228 МФ Каф. «ИТвМ» Преподавательская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n229": {
+      "id": "c1-f2-n229",
+      "name": "1-229 МФ Каф. «ИТвМ» Зав. лаб. ИТМ",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Кабинет заведующего лабораторией ИТМ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n231": {
+      "id": "c1-f2-n231",
+      "name": "1-231 МФ Каф. «ИТвМ» Лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Лаборатория программирования станков с ЧПУ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-231"
+      }
+    },
+    "c1-f2-n232": {
+      "id": "c1-f2-n232",
+      "name": "1-232 МФ Каф. «ИТвМ» Кабинет",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Кабинет «Режущие инструменты».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-232"
+      }
+    },
+    "c1-f2-n233": {
+      "id": "c1-f2-n233",
+      "name": "1-233 МФ Каф. «ИТвМ» Преподавательская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-n236": {
+      "id": "c1-f2-n236",
+      "name": "1-236 Подготовительные курсы",
+      "action": "info",
+      "disc": "Подготовительные курсы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -530,37 +502,65 @@
     },
     "c1-f2-n241": {
       "id": "c1-f2-n241",
-      "name": "Аудитория 241",
+      "name": "1-241 МФ Каф. «ИТвМ» Кабинет",
       "action": "info",
-      "disc": "Описание c1-f2-n241",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Кабинет технологии машиностроения.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f2-n243": {
-      "id": "c1-f2-n243",
-      "name": "Аудитория 243",
-      "action": "info",
-      "disc": "Описание c1-f2-n243",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=1-241"
       }
     },
     "c1-f2-n243_2": {
       "id": "c1-f2-n243_2",
-      "name": "Аудитория 243_2",
+      "name": "1-242 МФ Каф. «ИТвМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c1-f2-n243_2",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Учебная лаборатория «Стратегические методы регулирования и контроля качества продукции машиностроения».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-242"
+      }
+    },
+    "c1-f2-n243": {
+      "id": "c1-f2-n243",
+      "name": "1-243 МФ Каф. «ИТвМ» Метрологическая лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Метрологическая лаборатория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-243"
+      }
+    },
+    "c1-f2-wc1": {
+      "id": "c1-f2-wc1",
+      "name": "Туалет 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f2-wc2": {
+      "id": "c1-f2-wc2",
+      "name": "Туалет 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -14,9 +14,10 @@ const getBackgroundColor = (mapConfig, subdivision) => {
 
 const getCorpusItems = ({ mapData, setActiveElement, setDirectedElementId, filter, mapConfig }) => {
   const filteredItems = filter && mapData
-    ? Object.values(mapData)
-      .filter(({ name }) => name)
-      .filter(({ name }) => name.includes(filter))
+    ? Object.values(mapData).filter(({ name, disc }) =>
+        (name && name.toLowerCase().includes(filter.toLowerCase())) ||
+        (disc && disc.toLowerCase().includes(filter.toLowerCase()))
+      )
     : Object.values(mapData);
 
   const items = filteredItems.map((mapItem) => {

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №1. Этаж 1",
     "mapName": "c1-f1",
     "subdivisions": {
       "FIST": {
@@ -66,89 +66,11 @@
       "action": "move",
       "direction": "global"
     },
-    "barrier2": {
-      "id": "barrier2",
-      "name": "Название barrier2",
-      "action": "info",
-      "disc": "Описание barrier2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-security": {
-      "id": "c1-f1-security",
-      "name": "Название c1-f1-security",
-      "action": "info",
-      "disc": "Описание c1-f1-security",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n139a": {
-      "id": "c1-f1-n139a",
-      "name": "Название c1-f1-n139a",
-      "action": "info",
-      "disc": "Описание c1-f1-n139a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n139": {
-      "id": "c1-f1-n139",
-      "name": "Название c1-f1-n139",
-      "action": "info",
-      "disc": "Описание c1-f1-n139",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
     "c1-f1-n138Ð°": {
       "id": "c1-f1-n138Ð°",
-      "name": "Название c1-f1-n138Ð°",
+      "name": "1-138а",
       "action": "info",
-      "disc": "Описание c1-f1-n138Ð°",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown2": {
-      "id": "c1-f1-unknown2",
-      "name": "Название c1-f1-unknown2",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-138": {
-      "id": "c1-f1-138",
-      "name": "Название c1-f1-138",
-      "action": "info",
-      "disc": "Описание c1-f1-138",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -159,9 +81,9 @@
     },
     "c1-f1-138Ð±": {
       "id": "c1-f1-138Ð±",
-      "name": "Название c1-f1-138Ð±",
+      "name": "1-138б",
       "action": "info",
-      "disc": "Описание c1-f1-138Ð±",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -170,11 +92,11 @@
         "website": ""
       }
     },
-    "c1-f1-?": {
-      "id": "c1-f1-?",
-      "name": "Название c1-f1-?",
+    "c1-f1-138": {
+      "id": "c1-f1-138",
+      "name": "1-138в",
       "action": "info",
-      "disc": "Описание c1-f1-?",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -183,11 +105,11 @@
         "website": ""
       }
     },
-    "c1-f1-?_2": {
-      "id": "c1-f1-?_2",
-      "name": "Название c1-f1-?_2",
+    "c1-f1-n139": {
+      "id": "c1-f1-n139",
+      "name": "1-139 ИННО Отд. по упр. персоналом",
       "action": "info",
-      "disc": "Описание c1-f1-?_2",
+      "disc": "Институт непрерывного образования. Отдел по управлению персоналом.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -196,24 +118,11 @@
         "website": ""
       }
     },
-    "c1-f1-?_3": {
-      "id": "c1-f1-?_3",
-      "name": "Название c1-f1-?_3",
+    "c1-f1-n139a": {
+      "id": "c1-f1-n139a",
+      "name": "1-139а ИННО Отд. по упр. персоналом",
       "action": "info",
-      "disc": "Описание c1-f1-?_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown1": {
-      "id": "c1-f1-unknown1",
-      "name": "Название c1-f1-unknown1",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown1",
+      "disc": "Институт непрерывного образования. Отдел по управлению персоналом.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -224,139 +133,9 @@
     },
     "c1-f1-n140": {
       "id": "c1-f1-n140",
-      "name": "Название c1-f1-n140",
+      "name": "1-140 МФ Каф. «ИТвМ» Лаборатория",
       "action": "info",
-      "disc": "Описание c1-f1-n140",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n142": {
-      "id": "c1-f1-n142",
-      "name": "Название c1-f1-n142",
-      "action": "info",
-      "disc": "Описание c1-f1-n142",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown4": {
-      "id": "c1-f1-unknown4",
-      "name": "Название c1-f1-unknown4",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown4_2": {
-      "id": "c1-f1-unknown4_2",
-      "name": "Название c1-f1-unknown4_2",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown4_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown5": {
-      "id": "c1-f1-unknown5",
-      "name": "Название c1-f1-unknown5",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown6": {
-      "id": "c1-f1-unknown6",
-      "name": "Название c1-f1-unknown6",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown6",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-unknown6_2": {
-      "id": "c1-f1-unknown6_2",
-      "name": "Название c1-f1-unknown6_2",
-      "action": "info",
-      "disc": "Описание c1-f1-unknown6_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n144": {
-      "id": "c1-f1-n144",
-      "name": "Название c1-f1-n144",
-      "action": "info",
-      "disc": "Описание c1-f1-n144",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n146": {
-      "id": "c1-f1-n146",
-      "name": "Название c1-f1-n146",
-      "action": "info",
-      "disc": "Описание c1-f1-n146",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n148": {
-      "id": "c1-f1-n148",
-      "name": "Название c1-f1-n148",
-      "action": "info",
-      "disc": "Описание c1-f1-n148",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c1-f1-n150": {
-      "id": "c1-f1-n150",
-      "name": "Название c1-f1-n150",
-      "action": "info",
-      "disc": "Описание c1-f1-n150",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Лаборатория рентгено-структурного анализа.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -367,9 +146,36 @@
     },
     "c1-f1-n143": {
       "id": "c1-f1-n143",
-      "name": "Название c1-f1-n143",
+      "name": "1-141, ИННО Мультимедийная ауд.  1-143 ФСПО-КЭИ",
       "action": "info",
-      "disc": "Описание c1-f1-n143",
+      "disc": "1-141 Институт непрерывного образования. Мультимедийная аудитория. Центр проведения демонстрационного экзамена. 1-143 Заместитель декана по ДОТ - Шаблыгин В.В., специалист  - Николенко А.С., администратор - Лазарев Д.А. ",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-141"
+      }
+    },
+    "c1-f1-n142": {
+      "id": "c1-f1-n142",
+      "name": "1-142 МФ Каф. «ИТвМ» Лаборатория",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Инновационные технологии в машиностроении». Лаборатория рентгено-структурного анализа.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-n144": {
+      "id": "c1-f1-n144",
+      "name": "1-144",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -380,9 +186,23 @@
     },
     "c1-f1-n145": {
       "id": "c1-f1-n145",
-      "name": "Название c1-f1-n145",
+      "name": "1-145 ИННО Мультимедийная ауд.",
       "action": "info",
-      "disc": "Описание c1-f1-n145",
+      "disc": "Институт непрерывного образования. Мультимедийная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=1-145"
+      }
+    },
+    "c1-f1-n146": {
+      "id": "c1-f1-n146",
+      "name": "1-146 ИННО Сектор тех. обслуживания",
+      "action": "info",
+      "disc": "Институт непрерывного образования. Сектор технического обслуживания.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -391,11 +211,24 @@
         "website": ""
       }
     },
-    "c1-f1-wc": {
-      "id": "c1-f1-wc",
-      "name": "Название c1-f1-wc",
+    "c1-f1-n148": {
+      "id": "c1-f1-n148",
+      "name": "1-148 ИННО Отд. упр. персоналом",
       "action": "info",
-      "disc": "Описание c1-f1-wc",
+      "disc": "Институт непрерывного образования. Отдел управления персоналом.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-n150": {
+      "id": "c1-f1-n150",
+      "name": "1-150 ИННО",
+      "action": "info",
+      "disc": "Институт непрерывного образования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -406,9 +239,48 @@
     },
     "c1-f1-cloakroom": {
       "id": "c1-f1-cloakroom",
-      "name": "Название c1-f1-cloakroom",
+      "name": "Гардероб",
       "action": "info",
-      "disc": "Описание c1-f1-cloakroom",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-unknown4_2": {
+      "id": "c1-f1-unknown4_2",
+      "name": "Мультимедийная студия самозаписи",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-unknown2": {
+      "id": "c1-f1-unknown2",
+      "name": "Приемная комиссия ИННО и КЭИ",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-security": {
+      "id": "c1-f1-security",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -419,9 +291,35 @@
     },
     "c1-f1-buffet": {
       "id": "c1-f1-buffet",
-      "name": "Название c1-f1-buffet",
+      "name": "Кафе «Большая перемена»",
       "action": "info",
-      "disc": "Описание c1-f1-buffet",
+      "disc": "Кафе «Большая перемена». Первые, вторые блюда (оплата по весу),  выпечка, кондитерские изделия, снеки. Соки, лимонады, чай, кофе.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "Во время учебного года, пн-пт с 08:00 до 22:00",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c1-f1-wc": {
+      "id": "c1-f1-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "barrier2": {
+      "id": "barrier2",
+      "name": "Шлагбаум",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

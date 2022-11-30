@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус ИАТУ. Этаж 3",
     "mapName": "iatu-f3",
     "prevMap": "iatu-f2",
     "nextMap": "iatu-f4",
@@ -17,109 +17,11 @@
       "action": "move",
       "direction": "iatu-f4"
     },
-    "f3-wc": {
-      "id": "f3-wc",
-      "name": "Название f3-wc",
-      "action": "info",
-      "disc": "Описание f3-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n305": {
-      "id": "f3-n305",
-      "name": "Аудитория 305",
-      "action": "info",
-      "disc": "Описание f3-n305",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n307": {
-      "id": "f3-n307",
-      "name": "Аудитория 307",
-      "action": "info",
-      "disc": "Описание f3-n307",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n306": {
-      "id": "f3-n306",
-      "name": "Аудитория 306",
-      "action": "info",
-      "disc": "Описание f3-n306",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n309": {
-      "id": "f3-n309",
-      "name": "Аудитория 309",
-      "action": "info",
-      "disc": "Описание f3-n309",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n303Ð°": {
-      "id": "f3-n303Ð°",
-      "name": "Аудитория 303Ð°",
-      "action": "info",
-      "disc": "Описание f3-n303Ð°",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "f3-n301": {
       "id": "f3-n301",
-      "name": "Аудитория 301",
+      "name": "ИАТУ-301 ИВЦ Комп. класс",
       "action": "info",
-      "disc": "Описание f3-n301",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n321": {
-      "id": "f3-n321",
-      "name": "Аудитория 321",
-      "action": "info",
-      "disc": "Описание f3-n321",
+      "disc": "Информационно-вычислительный центр. Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -131,177 +33,9 @@
     },
     "f3-n302": {
       "id": "f3-n302",
-      "name": "Аудитория 302",
+      "name": "ИАТУ-302 ИВЦ Серверная",
       "action": "info",
-      "disc": "Описание f3-n302",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-st": {
-      "id": "f3-st",
-      "name": "Название f3-st",
-      "action": "info",
-      "disc": "Описание f3-st",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n314": {
-      "id": "f3-n314",
-      "name": "Аудитория 314",
-      "action": "info",
-      "disc": "Описание f3-n314",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n315": {
-      "id": "f3-n315",
-      "name": "Аудитория 315",
-      "action": "info",
-      "disc": "Описание f3-n315",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n317": {
-      "id": "f3-n317",
-      "name": "Аудитория 317",
-      "action": "info",
-      "disc": "Описание f3-n317",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n313": {
-      "id": "f3-n313",
-      "name": "Аудитория 313",
-      "action": "info",
-      "disc": "Описание f3-n313",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n319": {
-      "id": "f3-n319",
-      "name": "Аудитория 319",
-      "action": "info",
-      "disc": "Описание f3-n319",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n316": {
-      "id": "f3-n316",
-      "name": "Аудитория 316",
-      "action": "info",
-      "disc": "Описание f3-n316",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n318": {
-      "id": "f3-n318",
-      "name": "Аудитория 318",
-      "action": "info",
-      "disc": "Описание f3-n318",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n311": {
-      "id": "f3-n311",
-      "name": "Аудитория 311",
-      "action": "info",
-      "disc": "Описание f3-n311",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n312": {
-      "id": "f3-n312",
-      "name": "Аудитория 312",
-      "action": "info",
-      "disc": "Описание f3-n312",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n308": {
-      "id": "f3-n308",
-      "name": "Аудитория 308",
-      "action": "info",
-      "disc": "Описание f3-n308",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f3-n310": {
-      "id": "f3-n310",
-      "name": "Аудитория 310",
-      "action": "info",
-      "disc": "Описание f3-n310",
+      "disc": "Информационно-вычислительный центр. Серверная.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -313,9 +47,23 @@
     },
     "f3-n303": {
       "id": "f3-n303",
-      "name": "Аудитория 303",
+      "name": "ИАТУ-303 ИВЦ Комп. класс",
       "action": "info",
-      "disc": "Описание f3-n303",
+      "disc": "Информационно-вычислительный центр. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n303Ð°": {
+      "id": "f3-n303Ð°",
+      "name": "ИАТУ-303а ИВЦ Помещение",
+      "action": "info",
+      "disc": "Информационно-вычислительный центр. Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,9 +75,261 @@
     },
     "f3-n304": {
       "id": "f3-n304",
-      "name": "Аудитория 304",
+      "name": "ИАТУ-304 ССФ Каф. «СС» Комп. класс",
       "action": "info",
-      "disc": "Описание f3-n304",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n305": {
+      "id": "f3-n305",
+      "name": "ИАТУ-305 Отдел кадров",
+      "action": "info",
+      "disc": "Отдел кадров.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n306": {
+      "id": "f3-n306",
+      "name": "ИАТУ-306 ССФ Каф. «СС» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Кабинет курсового и дипломного проектирования. Аудитория для самостоятельной работы.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n307": {
+      "id": "f3-n307",
+      "name": "ИАТУ-307",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n308": {
+      "id": "f3-n308",
+      "name": "ИАТУ-308 ИВЦ Комп. класс",
+      "action": "info",
+      "disc": "Информационно-вычислительный центр. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n309": {
+      "id": "f3-n309",
+      "name": "ИАТУ-309",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n310": {
+      "id": "f3-n310",
+      "name": "ИАТУ-310 ИВЦ Комп. класс",
+      "action": "info",
+      "disc": "Информационно-вычислительный центр. Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n311": {
+      "id": "f3-n311",
+      "name": "ИАТУ-311 ССФ Деканат",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Деканат.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n312": {
+      "id": "f3-n312",
+      "name": "ИАТУ-312",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n313": {
+      "id": "f3-n313",
+      "name": "ИАТУ-313",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n314": {
+      "id": "f3-n314",
+      "name": "ИАТУ-314 Директор ИАТУ",
+      "action": "info",
+      "disc": "Приёмная. Директор ИАТУ УлГТУ.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n315": {
+      "id": "f3-n315",
+      "name": "ИАТУ-315 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n316": {
+      "id": "f3-n316",
+      "name": "ИАТУ-316 Учеб. отдел",
+      "action": "info",
+      "disc": "Учебный отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n317": {
+      "id": "f3-n317",
+      "name": "ИАТУ-317 ССФ Каф. «СС» Зав. каф.",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Заведующий кафедрой Фёдоров Александр Александрович. Заместитель директора по НИР и НИРС.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n318": {
+      "id": "f3-n318",
+      "name": "ИАТУ-318 ССФ Каф. «СС» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n319": {
+      "id": "f3-n319",
+      "name": "ИАТУ-319 Нач. учеб. отдела",
+      "action": "info",
+      "disc": "Начальник учебного отдела.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-n321": {
+      "id": "f3-n321",
+      "name": "ИАТУ-321 ССФ Каф. «СС» Лаборатория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Материаловедение»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-st": {
+      "id": "f3-st",
+      "name": "Магазин канцтоваров",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f3-wc": {
+      "id": "f3-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

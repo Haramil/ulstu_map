@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Аудитории 1–5. Этаж 1",
     "mapName": "c3-cr-f1",
     "prevMap": "",
     "nextMap": "c3-cr-f2",
@@ -32,221 +32,11 @@
       "action": "move",
       "direction": "c3-f1"
     },
-    "coffee": {
-      "id": "coffee",
-      "name": "Название coffee",
-      "action": "info",
-      "disc": "Описание coffee",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "food": {
-      "id": "food",
-      "name": "Название food",
-      "action": "info",
-      "disc": "Описание food",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "food_2": {
-      "id": "food_2",
-      "name": "Название food_2",
-      "action": "info",
-      "disc": "Описание food_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "bank": {
-      "id": "bank",
-      "name": "Название bank",
-      "action": "info",
-      "disc": "Описание bank",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "Rectangle 19": {
-      "id": "Rectangle 19",
-      "name": "Название Rectangle 19",
-      "action": "info",
-      "disc": "Описание Rectangle 19",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "Rectangle 20": {
-      "id": "Rectangle 20",
-      "name": "Название Rectangle 20",
-      "action": "info",
-      "disc": "Описание Rectangle 20",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "schedule": {
-      "id": "schedule",
-      "name": "Название schedule",
-      "action": "info",
-      "disc": "Описание schedule",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f2-wc": {
-      "id": "c3-f2-wc",
-      "name": "Название c3-f2-wc",
-      "action": "info",
-      "disc": "Описание c3-f2-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f2-wc_2": {
-      "id": "c3-f2-wc_2",
-      "name": "Название c3-f2-wc_2",
-      "action": "info",
-      "disc": "Описание c3-f2-wc_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "numbers_2": {
-      "id": "numbers_2",
-      "name": "Название numbers_2",
-      "action": "info",
-      "disc": "Описание numbers_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c1-f1-cloakroom": {
-      "id": "c1-f1-cloakroom",
-      "name": "Название c1-f1-cloakroom",
-      "action": "info",
-      "disc": "Описание c1-f1-cloakroom",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n107": {
-      "id": "c3-f1-n107",
-      "name": "Аудитория 107",
-      "action": "info",
-      "disc": "Описание c3-f1-n107",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n107_2": {
-      "id": "c3-f1-n107_2",
-      "name": "Аудитория 107_2",
-      "action": "info",
-      "disc": "Описание c3-f1-n107_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n107_3": {
-      "id": "c3-f1-n107_3",
-      "name": "Аудитория 107_3",
-      "action": "info",
-      "disc": "Описание c3-f1-n107_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-n107_4": {
-      "id": "c3-f1-n107_4",
-      "name": "Аудитория 107_4",
-      "action": "info",
-      "disc": "Описание c3-f1-n107_4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c3-f1-n107_5": {
       "id": "c3-f1-n107_5",
-      "name": "Аудитория 107_5",
+      "name": "3-1 Ректорат Зал заседаний",
       "action": "info",
-      "disc": "Описание c3-f1-n107_5",
+      "disc": "Ректорат. Зал заседаний учёного совета.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -258,9 +48,9 @@
     },
     "c3-f1-n107_6": {
       "id": "c3-f1-n107_6",
-      "name": "Аудитория 107_6",
+      "name": "3-2 Лекционная аудитория",
       "action": "info",
-      "disc": "Описание c3-f1-n107_6",
+      "disc": "Лекционная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -270,68 +60,11 @@
         "timetable": ""
       }
     },
-    "c3-f1-n107_7": {
-      "id": "c3-f1-n107_7",
-      "name": "Аудитория 107_7",
+    "c3-f1-n107": {
+      "id": "c3-f1-n107",
+      "name": "3-3 Лекционная аудитория",
       "action": "info",
-      "disc": "Описание c3-f1-n107_7",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "enter_2": {
-      "id": "enter_2",
-      "name": "Название enter_2",
-      "action": "info",
-      "disc": "Описание enter_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-
-    "c3-f1-wc": {
-      "id": "c3-f1-wc",
-      "name": "Название c3-f1-wc",
-      "action": "info",
-      "disc": "Описание c3-f1-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-wc_2": {
-      "id": "c3-f1-wc_2",
-      "name": "Название c3-f1-wc_2",
-      "action": "info",
-      "disc": "Описание c3-f1-wc_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c3-f1-wc_3": {
-      "id": "c3-f1-wc_3",
-      "name": "Название c3-f1-wc_3",
-      "action": "info",
-      "disc": "Описание c3-f1-wc_3",
+      "disc": "Лекционная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -343,9 +76,9 @@
     },
     "c3-f1-n131": {
       "id": "c3-f1-n131",
-      "name": "Аудитория 131",
+      "name": "3-4 Лекционная аудитория",
       "action": "info",
-      "disc": "Описание c3-f1-n131",
+      "disc": "Лекционная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -357,9 +90,9 @@
     },
     "c3-f1-n131_2": {
       "id": "c3-f1-n131_2",
-      "name": "Аудитория 131_2",
+      "name": "3-4а",
       "action": "info",
-      "disc": "Описание c3-f1-n131_2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -371,9 +104,9 @@
     },
     "c3-f1-n131_3": {
       "id": "c3-f1-n131_3",
-      "name": "Аудитория 131_3",
+      "name": "3-5 Лекционная аудитория",
       "action": "info",
-      "disc": "Описание c3-f1-n131_3",
+      "disc": "Лекционная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,11 +116,67 @@
         "timetable": ""
       }
     },
-    "c3-f1-n131_4": {
-      "id": "c3-f1-n131_4",
-      "name": "Аудитория 131_4",
+    "c3-f1-n107_2": {
+      "id": "c3-f1-n107_2",
+      "name": "3-100б Бюро пропусков",
       "action": "info",
-      "disc": "Описание c3-f1-n131_4",
+      "disc": "Бюро пропусков.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "bank": {
+      "id": "bank",
+      "name": "Банкомат «Сбер банк»",
+      "action": "info",
+      "disc": "Банкомат «Сбер банк»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c1-f1-cloakroom": {
+      "id": "c1-f1-cloakroom",
+      "name": "Гардероб",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n107_3": {
+      "id": "c3-f1-n107_3",
+      "name": "Комендант 3 корпуса",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "coffee": {
+      "id": "coffee",
+      "name": "Кофейный автомат",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -399,9 +188,23 @@
     },
     "c3-f1-n131_5": {
       "id": "c3-f1-n131_5",
-      "name": "Аудитория 131_5",
+      "name": "Профком студентов УлГТУ",
       "action": "info",
-      "disc": "Описание c3-f1-n131_5",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n107_7": {
+      "id": "c3-f1-n107_7",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -413,9 +216,9 @@
     },
     "c3-f1-n131_6": {
       "id": "c3-f1-n131_6",
-      "name": "Аудитория 131_6",
+      "name": "Студсовет УлГТУ",
       "action": "info",
-      "disc": "Описание c3-f1-n131_6",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -425,11 +228,109 @@
         "timetable": ""
       }
     },
-    "c3-f1-n131_7": {
-      "id": "c3-f1-n131_7",
-      "name": "Аудитория 131_7",
+    "food": {
+      "id": "food",
+      "name": "Торговый автомат 1",
       "action": "info",
-      "disc": "Описание c3-f1-n131_7",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "food_2": {
+      "id": "food_2",
+      "name": "Торговый автомат 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f2-wc_2": {
+      "id": "c3-f2-wc_2",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f2-wc": {
+      "id": "c3-f2-wc",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-wc": {
+      "id": "c3-f1-wc",
+      "name": "Хоз. помещение 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-wc_2": {
+      "id": "c3-f1-wc_2",
+      "name": "Хоз. помещение 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-wc_3": {
+      "id": "c3-f1-wc_3",
+      "name": "Хоз. помещение 3",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c3-f1-n107_4": {
+      "id": "c3-f1-n107_4",
+      "name": "Хоз. помещение 4",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 8",
     "mapName": "c6-f8",
     "prevMap": "c6-f7",
     "nextMap": "c6-f9",
@@ -17,249 +17,53 @@
       "action": "move",
       "direction": "c6-f9"
     },
-    "viewpoint": {
-      "id": "viewpoint",
-      "name": "Название viewpoint",
-      "action": "info",
-      "disc": "Описание viewpoint",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n818": {
-      "id": "c6-f8-n818",
-      "name": "Аудитория 818",
-      "action": "info",
-      "disc": "Описание c6-f8-n818",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n822": {
-      "id": "c6-f8-n822",
-      "name": "Аудитория 822",
-      "action": "info",
-      "disc": "Описание c6-f8-n822",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n823": {
-      "id": "c6-f8-n823",
-      "name": "Аудитория 823",
-      "action": "info",
-      "disc": "Описание c6-f8-n823",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n821": {
-      "id": "c6-f8-n821",
-      "name": "Аудитория 821",
-      "action": "info",
-      "disc": "Описание c6-f8-n821",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f6-n825": {
-      "id": "c6-f6-n825",
-      "name": "Название c6-f6-n825",
-      "action": "info",
-      "disc": "Описание c6-f6-n825",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n809": {
-      "id": "c6-f8-n809",
-      "name": "Аудитория 809",
-      "action": "info",
-      "disc": "Описание c6-f8-n809",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n815": {
-      "id": "c6-f8-n815",
-      "name": "Аудитория 815",
-      "action": "info",
-      "disc": "Описание c6-f8-n815",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n811": {
-      "id": "c6-f8-n811",
-      "name": "Аудитория 811",
-      "action": "info",
-      "disc": "Описание c6-f8-n811",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n813": {
-      "id": "c6-f8-n813",
-      "name": "Аудитория 813",
-      "action": "info",
-      "disc": "Описание c6-f8-n813",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f8-n800": {
       "id": "c6-f8-n800",
-      "name": "Аудитория 800",
+      "name": "6-800 ЭФ Каф. «ХТКМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f8-n800",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Физико-химические методы анализа. Химия атмосферы и гидросферы».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n802": {
-      "id": "c6-f8-n802",
-      "name": "Аудитория 802",
-      "action": "info",
-      "disc": "Описание c6-f8-n802",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-800"
       }
     },
     "c6-f8-n801": {
       "id": "c6-f8-n801",
-      "name": "Аудитория 801",
+      "name": "6-801 ЭФ Каф. «ХТКМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f8-n801",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Физическая и коллоидная химия».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-801"
       }
     },
-    "c6-f8-n807": {
-      "id": "c6-f8-n807",
-      "name": "Аудитория 807",
+    "c6-f8-n802": {
+      "id": "c6-f8-n802",
+      "name": "6-802 ЭФ Каф. «ХТКМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f8-n807",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Химия».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n805": {
-      "id": "c6-f8-n805",
-      "name": "Аудитория 805",
-      "action": "info",
-      "disc": "Описание c6-f8-n805",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-802"
       }
     },
     "c6-f8-n803": {
       "id": "c6-f8-n803",
-      "name": "Аудитория 803",
+      "name": "6-803 ЭФ Каф. «ХТКМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f8-n803",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n808": {
-      "id": "c6-f8-n808",
-      "name": "Аудитория 808",
-      "action": "info",
-      "disc": "Описание c6-f8-n808",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n806": {
-      "id": "c6-f8-n806",
-      "name": "Аудитория 806",
-      "action": "info",
-      "disc": "Описание c6-f8-n806",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Химия. Химия нефти и газа».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -271,9 +75,9 @@
     },
     "c6-f8-n804": {
       "id": "c6-f8-n804",
-      "name": "Аудитория 804",
+      "name": "6-804 ЭФ Каф. «ХТКМ» Материальная",
       "action": "info",
-      "disc": "Описание c6-f8-n804",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Материальная.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -283,11 +87,11 @@
         "timetable": ""
       }
     },
-    "c6-f8-n816": {
-      "id": "c6-f8-n816",
-      "name": "Аудитория 816",
+    "c6-f8-n805": {
+      "id": "c6-f8-n805",
+      "name": "6-805 ЭФ Каф. «ХТКМ» Весовая",
       "action": "info",
-      "disc": "Описание c6-f8-n816",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Весовая.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -297,11 +101,11 @@
         "timetable": ""
       }
     },
-    "c6-f8-n814": {
-      "id": "c6-f8-n814",
-      "name": "Аудитория 814",
+    "c6-f8-n806": {
+      "id": "c6-f8-n806",
+      "name": "6-806 ЭФ Каф. «ХТКМ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c6-f8-n814",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Заведующий кафедрой Бузаева М.В.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -311,11 +115,39 @@
         "timetable": ""
       }
     },
-    "c6-f8-n812": {
-      "id": "c6-f8-n812",
-      "name": "Аудитория 812",
+    "c6-f8-n807": {
+      "id": "c6-f8-n807",
+      "name": "6-807 ЭФ Каф. «ХТКМ» Лаборантская",
       "action": "info",
-      "disc": "Описание c6-f8-n812",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Лаборантская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-807"
+      }
+    },
+    "c6-f8-n808": {
+      "id": "c6-f8-n808",
+      "name": "6-808 ЭФ Каф. «ПЭТБ» Кабинет НИР",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Кабинет дипломного проектирования, НИР.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-n809": {
+      "id": "c6-f8-n809",
+      "name": "6-809 ЭФ Каф. «ХТКМ» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Общая и неорганическая, органическая химия».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,9 +159,9 @@
     },
     "c6-f6-n810": {
       "id": "c6-f6-n810",
-      "name": "Название c6-f6-n810",
+      "name": "8-810 ЭФ Каф. «ХТКМ» НИЛ",
       "action": "info",
-      "disc": "Описание c6-f6-n810",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Научно-исследовательская лаборатория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -339,11 +171,81 @@
         "timetable": ""
       }
     },
-    "c6-f8-n827": {
-      "id": "c6-f8-n827",
-      "name": "Аудитория 827",
+    "c6-f8-n811": {
+      "id": "c6-f8-n811",
+      "name": "6-811 ЭФ Каф. «ХТКМ» Учебная лаб.",
       "action": "info",
-      "disc": "Описание c6-f8-n827",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Учебная лаборатория «Механические испытания и физико-химические измерения».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-811"
+      }
+    },
+    "c6-f8-n812": {
+      "id": "c6-f8-n812",
+      "name": "6-812 ДИТ. Лаборатория",
+      "action": "info",
+      "disc": "Департамент информационных технологий. Лаборатория",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-n813": {
+      "id": "c6-f8-n813",
+      "name": "6-813 ЭФ Каф. «ХТКМ» Преподавательская",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композитных материалов». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-813"
+      }
+    },
+    "c6-f8-n814": {
+      "id": "c6-f8-n814",
+      "name": "6-814 ПФ МИ Каф. «РКИ»",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Кафедра «Русский язык как иностранный».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-n815": {
+      "id": "c6-f8-n815",
+      "name": "6-815 ЭФ «ПЭТБ» Учебная лаб.",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Промышленная экология и техносферная безопасность». Учебная лаборатория «Инженерная защита окружающей среды. Методы контроля качества окружающей среды».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-815"
+      }
+    },
+    "c6-f8-n816": {
+      "id": "c6-f8-n816",
+      "name": "6-816 Служба текущего ремонта",
+      "action": "info",
+      "disc": "Служба текущего ремонта",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -355,9 +257,23 @@
     },
     "c6-f8-n817": {
       "id": "c6-f8-n817",
-      "name": "Аудитория 817",
+      "name": "6-817",
       "action": "info",
-      "disc": "Описание c6-f8-n817",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-817"
+      }
+    },
+    "c6-f8-n818": {
+      "id": "c6-f8-n818",
+      "name": "6-818 ПФ МИ Каф. «РКИ»",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Кафедра «Русский язык как иностранный».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -369,23 +285,9 @@
     },
     "c6-f8-n819": {
       "id": "c6-f8-n819",
-      "name": "Аудитория 819",
+      "name": "6-819 ПФ МИ Каф. «РКИ»",
       "action": "info",
-      "disc": "Описание c6-f8-n819",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f8-n824": {
-      "id": "c6-f8-n824",
-      "name": "Аудитория 824",
-      "action": "info",
-      "disc": "Описание c6-f8-n824",
+      "disc": "Международный институт. Подготовительный факультет. Кафедра «Русский язык как иностранный».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -397,9 +299,23 @@
     },
     "c6-f8-n820": {
       "id": "c6-f8-n820",
-      "name": "Аудитория 820",
+      "name": "6-820 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f8-n820",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-820"
+      }
+    },
+    "c6-f8-n821": {
+      "id": "c6-f8-n821",
+      "name": "6-821 ПФ МИ Интерклуб",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Интерклуб.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -409,11 +325,25 @@
         "timetable": ""
       }
     },
-    "c6-f8-wc1": {
-      "id": "c6-f8-wc1",
-      "name": "Название c6-f8-wc1",
+    "c6-f8-n822": {
+      "id": "c6-f8-n822",
+      "name": "6-822 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f8-wc1",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-822"
+      }
+    },
+    "c6-f8-n823": {
+      "id": "c6-f8-n823",
+      "name": "6-823 ПФ МИ Учебная ауд.",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -423,25 +353,39 @@
         "timetable": ""
       }
     },
-    "c6-f8-wc1_2": {
-      "id": "c6-f8-wc1_2",
-      "name": "Название c6-f8-wc1_2",
+    "c6-f8-n824": {
+      "id": "c6-f8-n824",
+      "name": "6-824 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f8-wc1_2",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-824"
       }
     },
-    "c6-f8-elevator2": {
-      "id": "c6-f8-elevator2",
-      "name": "Название c6-f8-elevator2",
+    "c6-f6-n825": {
+      "id": "c6-f6-n825",
+      "name": "6-825 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f8-elevator2",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-825"
+      }
+    },
+    "c6-f8-n827": {
+      "id": "c6-f8-n827",
+      "name": "6-827 ПФ МИ Учебная ауд.",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -453,9 +397,65 @@
     },
     "c6-f8-elevator1": {
       "id": "c6-f8-elevator1",
-      "name": "Название c6-f8-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f8-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-elevator2": {
+      "id": "c6-f8-elevator2",
+      "name": "Лифт 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "viewpoint": {
+      "id": "viewpoint",
+      "name": "Смотровая площадка «Мосты в будущее»",
+      "action": "info",
+      "disc": "Смотровая площадка «Мосты в будущее»",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-wc1": {
+      "id": "c6-f8-wc1",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f8-wc1_2": {
+      "id": "c6-f8-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -467,9 +467,9 @@
     },
     "c6-f8-sp": {
       "id": "c6-f8-sp",
-      "name": "Название c6-f8-sp",
+      "name": "Хоз. помещение",
       "action": "info",
-      "disc": "Описание c6-f8-sp",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

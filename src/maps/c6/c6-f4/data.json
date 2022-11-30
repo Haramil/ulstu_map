@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 4",
     "mapName": "c6-f4",
     "prevMap": "c6-f3",
     "nextMap": "c6-f5",
@@ -17,151 +17,39 @@
       "action": "move",
       "direction": "c6-f5"
     },
-    "c6-f4-n414": {
-      "id": "c6-f4-n414",
-      "name": "Аудитория 414",
+    "c6-f4-n400": {
+      "id": "c6-f4-n400",
+      "name": "6-400 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f4-n414",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-400"
       }
     },
-    "c6-f4-n416": {
-      "id": "c6-f4-n416",
-      "name": "Аудитория 416",
+    "c6-f4-n401": {
+      "id": "c6-f4-n401",
+      "name": "6-401 МФ Каф. «ОПМиИГ» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f4-n416",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Лаборатория «Детали машин и основы конструирования». Лаборатория «Теория машин и механизмов». Лаборатория «Строительные машины и оборудование».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-401"
       }
     },
-    "c6-f4-n417": {
-      "id": "c6-f4-n417",
-      "name": "Аудитория 417",
+    "c6-f4-n401a": {
+      "id": "c6-f4-n401a",
+      "name": "6-401а МФ Каф. «ОПМиИГ» Аудитория",
       "action": "info",
-      "disc": "Описание c6-f4-n417",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n410": {
-      "id": "c6-f4-n410",
-      "name": "Аудитория 410",
-      "action": "info",
-      "disc": "Описание c6-f4-n410",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n408": {
-      "id": "c6-f4-n408",
-      "name": "Аудитория 408",
-      "action": "info",
-      "disc": "Описание c6-f4-n408",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n419": {
-      "id": "c6-f4-n419",
-      "name": "Аудитория 419",
-      "action": "info",
-      "disc": "Описание c6-f4-n419",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-sp": {
-      "id": "c6-f4-sp",
-      "name": "Название c6-f4-sp",
-      "action": "info",
-      "disc": "Описание c6-f4-sp",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n406": {
-      "id": "c6-f4-n406",
-      "name": "Аудитория 406",
-      "action": "info",
-      "disc": "Описание c6-f4-n406",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n409": {
-      "id": "c6-f4-n409",
-      "name": "Аудитория 409",
-      "action": "info",
-      "disc": "Описание c6-f4-n409",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n405": {
-      "id": "c6-f4-n405",
-      "name": "Аудитория 405",
-      "action": "info",
-      "disc": "Описание c6-f4-n405",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n404": {
-      "id": "c6-f4-n404",
-      "name": "Аудитория 404",
-      "action": "info",
-      "disc": "Описание c6-f4-n404",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Лаборатория «Строительные машины». Аудитория для лекционных, практических, лабораторных занятий и индивидуальных консультаций.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -173,37 +61,9 @@
     },
     "c6-f4-n402": {
       "id": "c6-f4-n402",
-      "name": "Аудитория 402",
+      "name": "6-402 МФ Каф. «ОПМиИГ» Мастерская",
       "action": "info",
-      "disc": "Описание c6-f4-n402",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n400": {
-      "id": "c6-f4-n400",
-      "name": "Аудитория 400",
-      "action": "info",
-      "disc": "Описание c6-f4-n400",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-n401": {
-      "id": "c6-f4-n401",
-      "name": "Аудитория 401",
-      "action": "info",
-      "disc": "Описание c6-f4-n401",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Технические средства обучения. Мастерская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -215,9 +75,37 @@
     },
     "c6-f4-n403": {
       "id": "c6-f4-n403",
-      "name": "Аудитория 403",
+      "name": "6-403 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f4-n403",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-403"
+      }
+    },
+    "c6-f4-n404": {
+      "id": "c6-f4-n404",
+      "name": "6-404 ЛАОД ДЦТ",
+      "action": "info",
+      "disc": "Лаборатория автоматизации организационной деятельности. Департамент цифровой трансформации. Заведующий - Шеркунов В.В..",
+      "additional": {
+        "phone": "+78422778176",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-n405": {
+      "id": "c6-f4-n405",
+      "name": "6-405 Департамент по РМ и СО ЦНТК",
+      "action": "info",
+      "disc": "Департамент по работе с молодежью и связям с общественностью. Центр науки, техники и культуры. Управление молодёжной политики.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -227,11 +115,11 @@
         "timetable": ""
       }
     },
-    "c6-f4-n412": {
-      "id": "c6-f4-n412",
-      "name": "Аудитория 412",
+    "c6-f4-n406": {
+      "id": "c6-f4-n406",
+      "name": "6-406 ИЭФ Каф. «ЭТ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c6-f4-n412",
+      "disc": "Инженерно-экономический факультет. Кафедра «Экономическая теория». Заведующий кафедрой.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -243,9 +131,9 @@
     },
     "c6-f4-n407": {
       "id": "c6-f4-n407",
-      "name": "Аудитория 407",
+      "name": "6-407 УЛАКО",
       "action": "info",
-      "disc": "Описание c6-f4-n407",
+      "disc": "Управление лицензирования, аккредитации и качества образования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -255,11 +143,11 @@
         "timetable": ""
       }
     },
-    "c6-f4-n401a": {
-      "id": "c6-f4-n401a",
-      "name": "Аудитория 401a",
+    "c6-f4-n408": {
+      "id": "c6-f4-n408",
+      "name": "6-408",
       "action": "info",
-      "disc": "Описание c6-f4-n401a",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -269,11 +157,25 @@
         "timetable": ""
       }
     },
-    "c6-f4-n413": {
-      "id": "c6-f4-n413",
-      "name": "Аудитория 413",
+    "c6-f4-n409": {
+      "id": "c6-f4-n409",
+      "name": "6-409 НИИ ППТ Зам. директора",
       "action": "info",
-      "disc": "Описание c6-f4-n413",
+      "disc": "Научно-исследовательский институт перспективных промышленных технологий. Заместитель директора.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-n410": {
+      "id": "c6-f4-n410",
+      "name": "6-410 ГУЗ ГП №1 Здравпункт",
+      "action": "info",
+      "disc": "ГУЗ городская поликлиника №1 им. С. М. Кирова. Студенческое подразделение. Здравпункт.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -285,9 +187,51 @@
     },
     "c6-f4-n411": {
       "id": "c6-f4-n411",
-      "name": "Аудитория 411",
+      "name": "6-411 ООУП Сектор сопр. расписания",
       "action": "info",
-      "disc": "Описание c6-f4-n411",
+      "disc": "Отдел организации учебного процесса. Сектор сопровождения расписания.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-n412": {
+      "id": "c6-f4-n412",
+      "name": "6-412 АХЧ Служба ремонта",
+      "action": "info",
+      "disc": "Административно-хозяйственная часть. Служба текущего ремонта.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-n413": {
+      "id": "c6-f4-n413",
+      "name": "6-413 ООУП Аудитория",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-413"
+      }
+    },
+    "c6-f4-n414": {
+      "id": "c6-f4-n414",
+      "name": "6-414 МФ Каф. «ОПМиИГ» Кладовая",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Кладовая.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -299,9 +243,9 @@
     },
     "c6-f4-n415": {
       "id": "c6-f4-n415",
-      "name": "Аудитория 415",
+      "name": "6-415 МФ Каф. «ОПМиИГ» Зав. каф.",
       "action": "info",
-      "disc": "Описание c6-f4-n415",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Заведующий кафедрой.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -311,11 +255,25 @@
         "timetable": ""
       }
     },
-    "c6-f4-n420": {
-      "id": "c6-f4-n420",
-      "name": "Аудитория 420",
+    "c6-f4-n416": {
+      "id": "c6-f4-n416",
+      "name": "6-416 МФ Каф. «ОПМиИГ» Комп. класс",
       "action": "info",
-      "disc": "Описание c6-f4-n420",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Компьютерный класс.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-416"
+      }
+    },
+    "c6-f4-n417": {
+      "id": "c6-f4-n417",
+      "name": "6-417 МФ Каф. «ОПМиИГ» Преподавательская",
+      "action": "info",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -327,51 +285,37 @@
     },
     "c6-f4-n418": {
       "id": "c6-f4-n418",
-      "name": "Аудитория 418",
+      "name": "6-418 МФ Каф. «ОПМиИГ» Кабинет",
       "action": "info",
-      "disc": "Описание c6-f4-n418",
+      "disc": "Машиностроительный факультет. Кафедра «Основы проектирования машин и инженерная графика». Кабинет «Начертательная геометрия и инженерная графика».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-418"
       }
     },
-    "c6-f4-wc1": {
-      "id": "c6-f4-wc1",
-      "name": "Название c6-f4-wc1",
+    "c6-f4-n419": {
+      "id": "c6-f4-n419",
+      "name": "6-419 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f4-wc1",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-419"
       }
     },
-    "c6-f4-wc1_2": {
-      "id": "c6-f4-wc1_2",
-      "name": "Название c6-f4-wc1_2",
+    "c6-f4-n420": {
+      "id": "c6-f4-n420",
+      "name": "6-420",
       "action": "info",
-      "disc": "Описание c6-f4-wc1_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f4-elevator2": {
-      "id": "c6-f4-elevator2",
-      "name": "Название c6-f4-elevator2",
-      "action": "info",
-      "disc": "Описание c6-f4-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,9 +327,65 @@
     },
     "c6-f4-elevator1": {
       "id": "c6-f4-elevator1",
-      "name": "Название c6-f4-elevator1",
+      "name": "Лифт 1",
       "action": "info",
-      "disc": "Описание c6-f4-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-elevator2": {
+      "id": "c6-f4-elevator2",
+      "name": "Лифт 2",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-wc1": {
+      "id": "c6-f4-wc1",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-wc1_2": {
+      "id": "c6-f4-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f4-sp": {
+      "id": "c6-f4-sp",
+      "name": "Хоз. помещение",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

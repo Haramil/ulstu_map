@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус ИАТУ. Этаж 2",
     "mapName": "iatu-f2",
     "prevMap": "iatu-f1",
     "nextMap": "iatu-f3",
@@ -17,207 +17,11 @@
       "action": "move",
       "direction": "iatu-f3"
     },
-    "f2-wc": {
-      "id": "f2-wc",
-      "name": "Название f2-wc",
+    "f2-archive": {
+      "id": "f2-archive",
+      "name": "Архив 1",
       "action": "info",
-      "disc": "Описание f2-wc",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f1-n208": {
-      "id": "f1-n208",
-      "name": "Аудитория 208",
-      "action": "info",
-      "disc": "Описание f1-n208",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n208": {
-      "id": "f2-n208",
-      "name": "Аудитория 208",
-      "action": "info",
-      "disc": "Описание f2-n208",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n209": {
-      "id": "f2-n209",
-      "name": "Аудитория 209",
-      "action": "info",
-      "disc": "Описание f2-n209",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n210": {
-      "id": "f2-n210",
-      "name": "Аудитория 210",
-      "action": "info",
-      "disc": "Описание f2-n210",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n213": {
-      "id": "f2-n213",
-      "name": "Аудитория 213",
-      "action": "info",
-      "disc": "Описание f2-n213",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n212": {
-      "id": "f2-n212",
-      "name": "Аудитория 212",
-      "action": "info",
-      "disc": "Описание f2-n212",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n215": {
-      "id": "f2-n215",
-      "name": "Аудитория 215",
-      "action": "info",
-      "disc": "Описание f2-n215",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n203": {
-      "id": "f2-n203",
-      "name": "Аудитория 203",
-      "action": "info",
-      "disc": "Описание f2-n203",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n201": {
-      "id": "f2-n201",
-      "name": "Аудитория 201",
-      "action": "info",
-      "disc": "Описание f2-n201",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n202": {
-      "id": "f2-n202",
-      "name": "Аудитория 202",
-      "action": "info",
-      "disc": "Описание f2-n202",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n201a": {
-      "id": "f2-n201a",
-      "name": "Аудитория 201a",
-      "action": "info",
-      "disc": "Описание f2-n201a",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n?": {
-      "id": "f2-n?",
-      "name": "Аудитория ?",
-      "action": "info",
-      "disc": "Описание f2-n?",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n?_2": {
-      "id": "f2-n?_2",
-      "name": "Аудитория ?_2",
-      "action": "info",
-      "disc": "Описание f2-n?_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-buffet": {
-      "id": "f2-buffet",
-      "name": "Название f2-buffet",
-      "action": "info",
-      "disc": "Описание f2-buffet",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -229,9 +33,9 @@
     },
     "f2-archive2": {
       "id": "f2-archive2",
-      "name": "Название f2-archive2",
+      "name": "Архив 2",
       "action": "info",
-      "disc": "Описание f2-archive2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -241,11 +45,11 @@
         "timetable": ""
       }
     },
-    "f2-archive": {
-      "id": "f2-archive",
-      "name": "Название f2-archive",
+    "f2-n201": {
+      "id": "f2-n201",
+      "name": "ИАТУ-201 ССФ Каф. «ЭУИ»",
       "action": "info",
-      "disc": "Описание f2-archive",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -255,11 +59,11 @@
         "timetable": ""
       }
     },
-    "f2-book": {
-      "id": "f2-book",
-      "name": "Название f2-book",
+    "f2-n201a": {
+      "id": "f2-n201a",
+      "name": "ИАТУ-201a ССФ Каф. «ЭУИ» Преподавательская",
       "action": "info",
-      "disc": "Описание f2-book",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -269,11 +73,11 @@
         "timetable": ""
       }
     },
-    "f2-n214": {
-      "id": "f2-n214",
-      "name": "Аудитория 214",
+    "f2-n202": {
+      "id": "f2-n202",
+      "name": "ИАТУ-202 Глав. бухгалтер" ,
       "action": "info",
-      "disc": "Описание f2-n214",
+      "disc": "Главный бухгалтер.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -283,11 +87,11 @@
         "timetable": ""
       }
     },
-    "f2-n216": {
-      "id": "f2-n216",
-      "name": "Аудитория 216",
+    "f2-n203": {
+      "id": "f2-n203",
+      "name": "ИАТУ-203 ССФ Каф. «СС» Лаборатория",
       "action": "info",
-      "disc": "Описание f2-n216",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Теория механизмов и машин».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -299,9 +103,9 @@
     },
     "f2-n204": {
       "id": "f2-n204",
-      "name": "Аудитория 204",
+      "name": "ИАТУ-204 ССФ Каф. «СС» Лаборатория",
       "action": "info",
-      "disc": "Описание f2-n204",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Детали машин».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -311,25 +115,11 @@
         "timetable": ""
       }
     },
-    "f2-n211": {
-      "id": "f2-n211",
-      "name": "Аудитория 211",
+    "f2-n205": {
+      "id": "f2-n205",
+      "name": "ИАТУ-205 ССФ Каф. «ЭУИ» Аудитория",
       "action": "info",
-      "disc": "Описание f2-n211",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "f2-n207": {
-      "id": "f2-n207",
-      "name": "Аудитория 207",
-      "action": "info",
-      "disc": "Описание f2-n207",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -341,9 +131,191 @@
     },
     "f2-n206": {
       "id": "f2-n206",
-      "name": "Аудитория 206",
+      "name": "ИАТУ-206 Профессор",
       "action": "info",
-      "disc": "Описание f2-n206",
+      "disc": "Профессор Ляшко Фёдор Евгеньевич.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n207": {
+      "id": "f2-n207",
+      "name": "ИАТУ-207 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n208": {
+      "id": "f2-n208",
+      "name": "ИАТУ-208 ССФ Каф. «ЭУИ» Метод. кабинет",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Методический кабинет.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n209": {
+      "id": "f2-n209",
+      "name": "ИАТУ-209 ССФ Каф. «ЭУИ» Зам. зав. каф.",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Заместитель заведующего кафедрой Арлашкина Нина Николаевна.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n210": {
+      "id": "f2-n210",
+      "name": "ИАТУ-210 ССФ Каф. «ЭУИ» Зав. каф.",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Заведующий кафедрой Нуретдинов Ильдар Габбасович.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n211": {
+      "id": "f2-n211",
+      "name": "ИАТУ-211 ССФ Каф. «ЭУИ» Аудитория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Экономика, управление и информатика». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n212": {
+      "id": "f2-n212",
+      "name": "ИАТУ-212 ССФ Каф. «СС» Лаборатория",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Самолётостроение». Лаборатория «Аэродинамика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n213": {
+      "id": "f2-n213",
+      "name": "ИАТУ-213",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n214": {
+      "id": "f2-n214",
+      "name": "ИАТУ-214 ССФ Каф. «ОНД» Физика",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Лаборатория «Физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n215": {
+      "id": "f2-n215",
+      "name": "ИАТУ-215 ССФ Каф. «ОНД» Физика",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Лаборатория «Физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-n216": {
+      "id": "f2-n216",
+      "name": "ИАТУ-216 ССФ Каф. «ОНД» Физика",
+      "action": "info",
+      "disc": "Самолётостроительный факультет. Кафедра «Общенаучные дисциплины». Лаборатория «Физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-book": {
+      "id": "f2-book",
+      "name": "Книгохранилище",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-buffet": {
+      "id": "f2-buffet",
+      "name": "Столовая",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "f2-wc": {
+      "id": "f2-wc",
+      "name": "Туалет",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "«Новый» спортзал",
     "mapName": "gym-c2",
     "prevMap": "",
     "nextMap": "",
@@ -22,151 +22,11 @@
       "action": "move",
       "direction": "c2-f1"
     },
-    "food": {
-      "id": "food",
-      "name": "Название food",
-      "action": "info",
-      "disc": "Описание food",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "coffee": {
       "id": "coffee",
-      "name": "Название coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание coffee",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n106": {
-      "id": "gym-c2-n106",
-      "name": "Название gym-c2-n106",
-      "action": "info",
-      "disc": "Описание gym-c2-n106",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n104": {
-      "id": "gym-c2-n104",
-      "name": "Название gym-c2-n104",
-      "action": "info",
-      "disc": "Описание gym-c2-n104",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n108": {
-      "id": "gym-c2-n108",
-      "name": "Название gym-c2-n108",
-      "action": "info",
-      "disc": "Описание gym-c2-n108",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n122": {
-      "id": "gym-c2-n122",
-      "name": "Название gym-c2-n122",
-      "action": "info",
-      "disc": "Описание gym-c2-n122",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n8c": {
-      "id": "gym-c2-n8c",
-      "name": "Название gym-c2-n8c",
-      "action": "info",
-      "disc": "Описание gym-c2-n8c",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n123": {
-      "id": "gym-c2-n123",
-      "name": "Название gym-c2-n123",
-      "action": "info",
-      "disc": "Описание gym-c2-n123",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n128": {
-      "id": "gym-c2-n128",
-      "name": "Название gym-c2-n128",
-      "action": "info",
-      "disc": "Описание gym-c2-n128",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n124": {
-      "id": "gym-c2-n124",
-      "name": "Название gym-c2-n124",
-      "action": "info",
-      "disc": "Описание gym-c2-n124",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n127": {
-      "id": "gym-c2-n127",
-      "name": "Название gym-c2-n127",
-      "action": "info",
-      "disc": "Описание gym-c2-n127",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -178,9 +38,9 @@
     },
     "gym-c2-n6c": {
       "id": "gym-c2-n6c",
-      "name": "Название gym-c2-n6c",
+      "name": "НСЗ-6с",
       "action": "info",
-      "disc": "Описание gym-c2-n6c",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -190,95 +50,11 @@
         "timetable": ""
       }
     },
-    "gym-c2-n120": {
-      "id": "gym-c2-n120",
-      "name": "Название gym-c2-n120",
+    "gym-c2-n8c": {
+      "id": "gym-c2-n8c",
+      "name": "НСЗ-8с",
       "action": "info",
-      "disc": "Описание gym-c2-n120",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n121": {
-      "id": "gym-c2-n121",
-      "name": "Название gym-c2-n121",
-      "action": "info",
-      "disc": "Описание gym-c2-n121",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n119": {
-      "id": "gym-c2-n119",
-      "name": "Название gym-c2-n119",
-      "action": "info",
-      "disc": "Описание gym-c2-n119",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n117": {
-      "id": "gym-c2-n117",
-      "name": "Название gym-c2-n117",
-      "action": "info",
-      "disc": "Описание gym-c2-n117",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n?": {
-      "id": "gym-c2-n?",
-      "name": "Название gym-c2-n?",
-      "action": "info",
-      "disc": "Описание gym-c2-n?",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n11c": {
-      "id": "gym-c2-n11c",
-      "name": "Название gym-c2-n11c",
-      "action": "info",
-      "disc": "Описание gym-c2-n11c",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n10c": {
-      "id": "gym-c2-n10c",
-      "name": "Название gym-c2-n10c",
-      "action": "info",
-      "disc": "Описание gym-c2-n10c",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -290,9 +66,9 @@
     },
     "gym-c2-n9c": {
       "id": "gym-c2-n9c",
-      "name": "Название gym-c2-n9c",
+      "name": "НСЗ-9с",
       "action": "info",
-      "disc": "Описание gym-c2-n9c",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -302,11 +78,11 @@
         "timetable": ""
       }
     },
-    "gym-c2-n113": {
-      "id": "gym-c2-n113",
-      "name": "Название gym-c2-n113",
+    "gym-c2-n10c": {
+      "id": "gym-c2-n10c",
+      "name": "НСЗ-10с",
       "action": "info",
-      "disc": "Описание gym-c2-n113",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -316,11 +92,11 @@
         "timetable": ""
       }
     },
-    "gym-c2-n101b": {
-      "id": "gym-c2-n101b",
-      "name": "Название gym-c2-n101b",
+    "gym-c2-n11c": {
+      "id": "gym-c2-n11c",
+      "name": "НСЗ-11с",
       "action": "info",
-      "disc": "Описание gym-c2-n101b",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -332,9 +108,9 @@
     },
     "gym-c2-n101a": {
       "id": "gym-c2-n101a",
-      "name": "Название gym-c2-n101a",
+      "name": "НСЗ-101а КЗСС Спортзал",
       "action": "info",
-      "disc": "Описание gym-c2-n101a",
+      "disc": "Корпус закрытых спортивных сооружений. Спортивный зал.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -344,67 +120,11 @@
         "timetable": ""
       }
     },
-    "gym-c2-n114": {
-      "id": "gym-c2-n114",
-      "name": "Название gym-c2-n114",
+    "gym-c2-n101b": {
+      "id": "gym-c2-n101b",
+      "name": "НСЗ-101б КЗСС Спортзал",
       "action": "info",
-      "disc": "Описание gym-c2-n114",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n109": {
-      "id": "gym-c2-n109",
-      "name": "Название gym-c2-n109",
-      "action": "info",
-      "disc": "Описание gym-c2-n109",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-wc1": {
-      "id": "gym-c2-wc1",
-      "name": "Название gym-c2-wc1",
-      "action": "info",
-      "disc": "Описание gym-c2-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-wc2": {
-      "id": "gym-c2-wc2",
-      "name": "Название gym-c2-wc2",
-      "action": "info",
-      "disc": "Описание gym-c2-wc2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-c2-n118": {
-      "id": "gym-c2-n118",
-      "name": "Название gym-c2-n118",
-      "action": "info",
-      "disc": "Описание gym-c2-n118",
+      "disc": "Корпус закрытых спортивных сооружений. Спортивный зал.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -416,9 +136,9 @@
     },
     "gym-c2-n102": {
       "id": "gym-c2-n102",
-      "name": "Название gym-c2-n102",
+      "name": "НСЗ-102 КЗСС Раздевалка",
       "action": "info",
-      "disc": "Описание gym-c2-n102",
+      "disc": "Корпус закрытых спортивных сооружений. Раздевалка (женская).",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -428,11 +148,263 @@
         "timetable": ""
       }
     },
-    "gym": {
-      "id": "gym",
-      "name": "Название gym",
+    "gym-c2-n104": {
+      "id": "gym-c2-n104",
+      "name": "НСЗ-104 КЗСС Комната",
       "action": "info",
-      "disc": "Описание gym",
+      "disc": "Корпус закрытых спортивных сооружений. Комната уборочного инвентаря.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n106": {
+      "id": "gym-c2-n106",
+      "name": "НСЗ-106 КЗСС Раздевалка",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Раздевалка (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n108": {
+      "id": "gym-c2-n108",
+      "name": "НСЗ-108 КЗСС Преподавательская",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n109": {
+      "id": "gym-c2-n109",
+      "name": "НСЗ-109 КЗСС Дирекция спорт. сооруж.",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Дирекция спортивных сооружений.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n113": {
+      "id": "gym-c2-n113",
+      "name": "НСЗ-113 КЗСС Шахматный клуб",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Шахматный клуб.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n114": {
+      "id": "gym-c2-n114",
+      "name": "НСЗ-114 КЗСС Раздевалка",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Раздевалка (женская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n117": {
+      "id": "gym-c2-n117",
+      "name": "НСЗ-117 КЗСС Раздевалка",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Раздевалка (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n118": {
+      "id": "gym-c2-n118",
+      "name": "НСЗ-118 КЗСС Методический каб.",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Методический кабинет.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n119": {
+      "id": "gym-c2-n119",
+      "name": "НСЗ-119 КЗСС Преподавательская",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Преподавательская (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n120": {
+      "id": "gym-c2-n120",
+      "name": "НСЗ-120 КЗСС Преподавательская",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Преподавательская (женская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n121": {
+      "id": "gym-c2-n121",
+      "name": "НСЗ-121 КЗСС Гардероб",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Гардероб.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n122": {
+      "id": "gym-c2-n122",
+      "name": "НСЗ-122 КЗСС Вахта",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Вахта.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n123": {
+      "id": "gym-c2-n123",
+      "name": "НСЗ-123 КЗСС Зал аэробики",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Зал аэробики.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n124": {
+      "id": "gym-c2-n124",
+      "name": "НСЗ-124 КЗСС Гардероб",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Гардероб.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n127": {
+      "id": "gym-c2-n127",
+      "name": "НСЗ-127 КЗСС Кабинет врача",
+      "action": "info",
+      "disc": "Корпус закрытых спортивных сооружений. Кабинет врача.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-n128": {
+      "id": "gym-c2-n128",
+      "name": "НСЗ-128 Науч. библ. Подсобный фонд",
+      "action": "info",
+      "disc": "Научная библиотека. Подсобный фонд.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "food": {
+      "id": "food",
+      "name": "Торговый автомат",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-wc1": {
+      "id": "gym-c2-wc1",
+      "name": "Туалет 1",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-c2-wc2": {
+      "id": "gym-c2-wc2",
+      "name": "Туалет 2",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

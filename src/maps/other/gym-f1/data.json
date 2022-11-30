@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "«Старый» спортзал. Этаж 1",
     "mapName": "gym-f1",
     "prevMap": "",
     "nextMap": "gym-f2",
@@ -27,347 +27,11 @@
       "action": "move",
       "direction": "global"
     },
-    "coffee": {
-      "id": "coffee",
-      "name": "Название coffee",
+    "gym-f1-z1": {
+      "id": "gym-f1-z1",
+      "name": "Зал №1",
       "action": "info",
-      "disc": "Описание coffee",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n27": {
-      "id": "gym-f1-n27",
-      "name": "Название gym-f1-n27",
-      "action": "info",
-      "disc": "Описание gym-f1-n27",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n28": {
-      "id": "gym-f1-n28",
-      "name": "Название gym-f1-n28",
-      "action": "info",
-      "disc": "Описание gym-f1-n28",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n24": {
-      "id": "gym-f1-n24",
-      "name": "Название gym-f1-n24",
-      "action": "info",
-      "disc": "Описание gym-f1-n24",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n23": {
-      "id": "gym-f1-n23",
-      "name": "Название gym-f1-n23",
-      "action": "info",
-      "disc": "Описание gym-f1-n23",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n20": {
-      "id": "gym-f1-n20",
-      "name": "Название gym-f1-n20",
-      "action": "info",
-      "disc": "Описание gym-f1-n20",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n?": {
-      "id": "gym-f1-n?",
-      "name": "Название gym-f1-n?",
-      "action": "info",
-      "disc": "Описание gym-f1-n?",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n13": {
-      "id": "gym-f1-n13",
-      "name": "Название gym-f1-n13",
-      "action": "info",
-      "disc": "Описание gym-f1-n13",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n12": {
-      "id": "gym-f1-n12",
-      "name": "Название gym-f1-n12",
-      "action": "info",
-      "disc": "Описание gym-f1-n12",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n10": {
-      "id": "gym-f1-n10",
-      "name": "Название gym-f1-n10",
-      "action": "info",
-      "disc": "Описание gym-f1-n10",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n11": {
-      "id": "gym-f1-n11",
-      "name": "Название gym-f1-n11",
-      "action": "info",
-      "disc": "Описание gym-f1-n11",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n6": {
-      "id": "gym-f1-n6",
-      "name": "Название gym-f1-n6",
-      "action": "info",
-      "disc": "Описание gym-f1-n6",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n?_2": {
-      "id": "gym-f1-n?_2",
-      "name": "Название gym-f1-n?_2",
-      "action": "info",
-      "disc": "Описание gym-f1-n?_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n9": {
-      "id": "gym-f1-n9",
-      "name": "Название gym-f1-n9",
-      "action": "info",
-      "disc": "Описание gym-f1-n9",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n8": {
-      "id": "gym-f1-n8",
-      "name": "Название gym-f1-n8",
-      "action": "info",
-      "disc": "Описание gym-f1-n8",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-wc1": {
-      "id": "gym-f1-wc1",
-      "name": "Название gym-f1-wc1",
-      "action": "info",
-      "disc": "Описание gym-f1-wc1",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-wc2": {
-      "id": "gym-f1-wc2",
-      "name": "Название gym-f1-wc2",
-      "action": "info",
-      "disc": "Описание gym-f1-wc2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n5": {
-      "id": "gym-f1-n5",
-      "name": "Название gym-f1-n5",
-      "action": "info",
-      "disc": "Описание gym-f1-n5",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n4": {
-      "id": "gym-f1-n4",
-      "name": "Название gym-f1-n4",
-      "action": "info",
-      "disc": "Описание gym-f1-n4",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n3": {
-      "id": "gym-f1-n3",
-      "name": "Название gym-f1-n3",
-      "action": "info",
-      "disc": "Описание gym-f1-n3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n2": {
-      "id": "gym-f1-n2",
-      "name": "Название gym-f1-n2",
-      "action": "info",
-      "disc": "Описание gym-f1-n2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n?_3": {
-      "id": "gym-f1-n?_3",
-      "name": "Название gym-f1-n?_3",
-      "action": "info",
-      "disc": "Описание gym-f1-n?_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n21": {
-      "id": "gym-f1-n21",
-      "name": "Название gym-f1-n21",
-      "action": "info",
-      "disc": "Описание gym-f1-n21",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n15Ñ": {
-      "id": "gym-f1-n15Ñ",
-      "name": "Название gym-f1-n15Ñ",
-      "action": "info",
-      "disc": "Описание gym-f1-n15Ñ",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "gym-f1-n25": {
-      "id": "gym-f1-n25",
-      "name": "Название gym-f1-n25",
-      "action": "info",
-      "disc": "Описание gym-f1-n25",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -379,9 +43,9 @@
     },
     "gym-f1-z2": {
       "id": "gym-f1-z2",
-      "name": "Название gym-f1-z2",
+      "name": "Зал №2",
       "action": "info",
-      "disc": "Описание gym-f1-z2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -391,11 +55,333 @@
         "timetable": ""
       }
     },
-    "gym-f1-z1": {
-      "id": "gym-f1-z1",
-      "name": "Название gym-f1-z1",
+    "coffee": {
+      "id": "coffee",
+      "name": "Кофейный автомат",
       "action": "info",
-      "disc": "Описание gym-f1-z1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n?_3": {
+      "id": "gym-f1-n?_3",
+      "name": "Пункт охраны",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n2": {
+      "id": "gym-f1-n2",
+      "name": "ССЗ-2 ГФ Каф. «ФВ» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n3": {
+      "id": "gym-f1-n3",
+      "name": "ССЗ-3 ГФ Каф. «ФВ» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n4": {
+      "id": "gym-f1-n4",
+      "name": "ССЗ-4 ГФ Каф. «ФВ» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n5": {
+      "id": "gym-f1-n5",
+      "name": "ССЗ-5 ГФ Каф. «ФВ» Преподавательская",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n6": {
+      "id": "gym-f1-n6",
+      "name": "ССЗ-6 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка (женская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n?_2": {
+      "id": "gym-f1-n?_2",
+      "name": "ССЗ-7 ГФ Каф. «ФВ» Спортзал №1",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Спортзал №1.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n8": {
+      "id": "gym-f1-n8",
+      "name": "ССЗ-8 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n9": {
+      "id": "gym-f1-n9",
+      "name": "ССЗ-9",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n10": {
+      "id": "gym-f1-n10",
+      "name": "ССЗ-10 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n11": {
+      "id": "gym-f1-n11",
+      "name": "ССЗ-11",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n12": {
+      "id": "gym-f1-n12",
+      "name": "ССЗ-12",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n13": {
+      "id": "gym-f1-n13",
+      "name": "ССЗ-13",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n15Ñ": {
+      "id": "gym-f1-n15Ñ",
+      "name": "ССЗ-15с",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n20": {
+      "id": "gym-f1-n20",
+      "name": "ССЗ-20 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n21": {
+      "id": "gym-f1-n21",
+      "name": "ССЗ-21",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n23": {
+      "id": "gym-f1-n23",
+      "name": "ССЗ-23 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка (мужская).",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n24": {
+      "id": "gym-f1-n24",
+      "name": "ССЗ-24",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n25": {
+      "id": "gym-f1-n25",
+      "name": "ССЗ-25 ГФ Каф. «ФВ» Раздевалка",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Раздевалка.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n27": {
+      "id": "gym-f1-n27",
+      "name": "ССЗ-27 ГФ Каф. «ФВ» Инвентарная",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Инвентарная.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-n28": {
+      "id": "gym-f1-n28",
+      "name": "ССЗ-28 ГФ Каф. «ФВ» Запасный выход",
+      "action": "info",
+      "disc": "Гуманитарный факультет. Кафедра «Физическое воспитание». Запасный выход.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-wc1": {
+      "id": "gym-f1-wc1",
+      "name": "Туалет (жен.)",
+      "action": "info",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "gym-f1-wc2": {
+      "id": "gym-f1-wc2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

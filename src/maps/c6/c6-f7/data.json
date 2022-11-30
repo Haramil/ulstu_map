@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №6 (Главный корпус). Этаж 7",
     "mapName": "c6-f7",
     "prevMap": "c6-f6",
     "nextMap": "c6-f8",
@@ -17,263 +17,67 @@
       "action": "move",
       "direction": "c6-f8"
     },
-    "c6-f7-n716": {
-      "id": "c6-f7-n716",
-      "name": "Аудитория 716",
-      "action": "info",
-      "disc": "Описание c6-f7-n716",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n718": {
-      "id": "c6-f7-n718",
-      "name": "Аудитория 718",
-      "action": "info",
-      "disc": "Описание c6-f7-n718",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n725": {
-      "id": "c6-f7-n725",
-      "name": "Аудитория 725",
-      "action": "info",
-      "disc": "Описание c6-f7-n725",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n723": {
-      "id": "c6-f7-n723",
-      "name": "Аудитория 723",
-      "action": "info",
-      "disc": "Описание c6-f7-n723",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n727": {
-      "id": "c6-f7-n727",
-      "name": "Аудитория 727",
-      "action": "info",
-      "disc": "Описание c6-f7-n727",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n711": {
-      "id": "c6-f7-n711",
-      "name": "Аудитория 711",
-      "action": "info",
-      "disc": "Описание c6-f7-n711",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n713": {
-      "id": "c6-f7-n713",
-      "name": "Аудитория 713",
-      "action": "info",
-      "disc": "Описание c6-f7-n713",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n710": {
-      "id": "c6-f7-n710",
-      "name": "Аудитория 710",
-      "action": "info",
-      "disc": "Описание c6-f7-n710",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n708": {
-      "id": "c6-f7-n708",
-      "name": "Аудитория 708",
-      "action": "info",
-      "disc": "Описание c6-f7-n708",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n712": {
-      "id": "c6-f7-n712",
-      "name": "Аудитория 712",
-      "action": "info",
-      "disc": "Описание c6-f7-n712",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
     "c6-f7-n700": {
       "id": "c6-f7-n700",
-      "name": "Аудитория 700",
+      "name": "6-700 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f7-n700",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория «Молекулярная физика и термодинамика».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n706": {
-      "id": "c6-f7-n706",
-      "name": "Аудитория 706",
-      "action": "info",
-      "disc": "Описание c6-f7-n706",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n704": {
-      "id": "c6-f7-n704",
-      "name": "Аудитория 704",
-      "action": "info",
-      "disc": "Описание c6-f7-n704",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n702": {
-      "id": "c6-f7-n702",
-      "name": "Аудитория 702",
-      "action": "info",
-      "disc": "Описание c6-f7-n702",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c6-f7-n703": {
-      "id": "c6-f7-n703",
-      "name": "Аудитория 703",
-      "action": "info",
-      "disc": "Описание c6-f7-n703",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-700"
       }
     },
     "c6-f7-n701": {
       "id": "c6-f7-n701",
-      "name": "Аудитория 701",
+      "name": "6-701 РТФ Каф. «Физика» Комп. класс ",
       "action": "info",
-      "disc": "Описание c6-f7-n701",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Компьютерный класс.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-701"
       }
     },
-    "c6-f7-n709": {
-      "id": "c6-f7-n709",
-      "name": "Аудитория 709",
+    "c6-f7-n702": {
+      "id": "c6-f7-n702",
+      "name": "6-702 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f7-n709",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория «Механика».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-702"
       }
     },
-    "c6-f7-n714": {
-      "id": "c6-f7-n714",
-      "name": "Аудитория 714",
+    "c6-f7-n703": {
+      "id": "c6-f7-n703",
+      "name": "6-703 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f7-n714",
+      "disc": "Радиотехнический факультет. Кафедра «Физика»  Лаборатория «Электричество и магнетизм».",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-703"
       }
     },
-    "c6-f7-n707": {
-      "id": "c6-f7-n707",
-      "name": "Аудитория 707",
+    "c6-f7-n704": {
+      "id": "c6-f7-n704",
+      "name": "6-704 РТФ Каф. «Физика» Помещение",
       "action": "info",
-      "disc": "Описание c6-f7-n707",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -285,9 +89,9 @@
     },
     "c6-f7-n705": {
       "id": "c6-f7-n705",
-      "name": "Аудитория 705",
+      "name": "6-705 РТФ Каф. «Физика» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f7-n705",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Преподавательская.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -297,11 +101,11 @@
         "timetable": ""
       }
     },
-    "c6-f7-n729": {
-      "id": "c6-f7-n729",
-      "name": "Аудитория 729",
+    "c6-f7-n706": {
+      "id": "c6-f7-n706",
+      "name": "6-706 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f7-n729",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория «Физика наноструктур и наносистем».",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -311,11 +115,11 @@
         "timetable": ""
       }
     },
-    "c6-f7-n719": {
-      "id": "c6-f7-n719",
-      "name": "Аудитория 719",
+    "c6-f7-n707": {
+      "id": "c6-f7-n707",
+      "name": "6-707 РТФ Каф. «Физика» Помещение",
       "action": "info",
-      "disc": "Описание c6-f7-n719",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Помещение для хранения и профилактического обслуживания учебного оборудования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -325,11 +129,95 @@
         "timetable": ""
       }
     },
-    "c6-f7-n717": {
-      "id": "c6-f7-n717",
-      "name": "Аудитория 717",
+    "c6-f7-n708": {
+      "id": "c6-f7-n708",
+      "name": "6-708 РТФ Каф. «Физика» Лаборатория",
       "action": "info",
-      "disc": "Описание c6-f7-n717",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория «Колебания и волны».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-708"
+      }
+    },
+    "c6-f7-n709": {
+      "id": "c6-f7-n709",
+      "name": "6-709 РТФ Каф. «Физика» Зав. каф.",
+      "action": "info",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Заведующий кафедрой.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-709"
+      }
+    },
+    "c6-f7-n710": {
+      "id": "c6-f7-n710",
+      "name": "6-710 ООУП Аудитория",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-710"
+      }
+    },
+    "c6-f7-n711": {
+      "id": "c6-f7-n711",
+      "name": "6-711 РТФ Каф. «Физика» Лаборатория",
+      "action": "info",
+      "disc": "Радиотехнический факультет. Кафедра «Физика». Лаборатория «Квантовая физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-711"
+      }
+    },
+    "c6-f7-n712": {
+      "id": "c6-f7-n712",
+      "name": "6-712 ООУП Аудитория",
+      "action": "info",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-712"
+      }
+    },
+    "c6-f7-n713": {
+      "id": "c6-f7-n713",
+      "name": "6-713 РТФ Каф. «Физика» Лаборатория",
+      "action": "info",
+      "disc": "Радио-технический факультет. Кафедра «Физика». Лаборатория «Физика твёрдого тела и статическая физика».",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-713"
+      }
+    },
+    "c6-f7-n714": {
+      "id": "c6-f7-n714",
+      "name": "6-714 Бытовое помещение",
+      "action": "info",
+      "disc": "Бытовое помещение",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -341,9 +229,23 @@
     },
     "c6-f7-n715": {
       "id": "c6-f7-n715",
-      "name": "Аудитория 715",
+      "name": "6-715 СФ Каф. «ПГС» Преподавательская",
       "action": "info",
-      "disc": "Описание c6-f7-n715",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Преподавательская.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-715"
+      }
+    },
+    "c6-f7-n716": {
+      "id": "c6-f7-n716",
+      "name": "6-716",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -353,25 +255,39 @@
         "timetable": ""
       }
     },
-    "c6-f7-n721": {
-      "id": "c6-f7-n721",
-      "name": "Аудитория 721",
+    "c6-f7-n717": {
+      "id": "c6-f7-n717",
+      "name": "6-717 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f7-n721",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=6-717"
       }
     },
-    "c6-f7-n722": {
-      "id": "c6-f7-n722",
-      "name": "Аудитория 722",
+    "c6-f7-n718": {
+      "id": "c6-f7-n718",
+      "name": "6-718 ООУП Аудитория",
       "action": "info",
-      "disc": "Описание c6-f7-n722",
+      "disc": "Отдел организации учебного процесса. Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-718"
+      }
+    },
+    "c6-f7-n719": {
+      "id": "c6-f7-n719",
+      "name": "6-719 УКК Начальник Отделы",
+      "action": "info",
+      "disc": "Управление корпоративных коммуникаций. Начальник управления. Отделы.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -383,9 +299,9 @@
     },
     "c6-f7-n720": {
       "id": "c6-f7-n720",
-      "name": "Аудитория 720",
+      "name": "6-720 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f7-n720",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -395,11 +311,11 @@
         "timetable": ""
       }
     },
-    "c6-f7-wc1": {
-      "id": "c6-f7-wc1",
-      "name": "Название c6-f7-wc1",
+    "c6-f7-n721": {
+      "id": "c6-f7-n721",
+      "name": "6-721 УЛАКО Отдел обесп. кач.",
       "action": "info",
-      "disc": "Описание c6-f7-wc1",
+      "disc": "Управление лицензирования, аккредитации и качества образования. Отдел обеспечения качества.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -409,11 +325,81 @@
         "timetable": ""
       }
     },
-    "c6-f7-wc1_2": {
-      "id": "c6-f7-wc1_2",
-      "name": "Название c6-f7-wc1_2",
+    "c6-f7-n722": {
+      "id": "c6-f7-n722",
+      "name": "6-722 ПФ МИ Учебная ауд.",
       "action": "info",
-      "disc": "Описание c6-f7-wc1_2",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f7-n723": {
+      "id": "c6-f7-n723",
+      "name": "6-723 ЭФ Каф. «ХТКМ» Аудитория",
+      "action": "info",
+      "disc": "Энергетический факультет. Кафедра «Химия и технологии композиционных материалов». Аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-723"
+      }
+    },
+    "c6-f7-n725": {
+      "id": "c6-f7-n725",
+      "name": "6-725 ПФ МИ Учебная ауд.",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f7-n727": {
+      "id": "c6-f7-n727",
+      "name": "6-727 ПФ МИ Учебная ауд.",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f7-n729": {
+      "id": "c6-f7-n729",
+      "name": "6-729 ПФ МИ Учебная ауд.",
+      "action": "info",
+      "disc": "Международный институт. Подготовительный факультет. Учебная аудитория.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": "https://time.ulstu.ru/?filter=6-729"
+      }
+    },
+    "c6-f7-elevator1": {
+      "id": "c6-f7-elevator1",
+      "name": "Лифт 1",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -425,9 +411,9 @@
     },
     "c6-f7-elevator2": {
       "id": "c6-f7-elevator2",
-      "name": "Название c6-f7-elevator2",
+      "name": "Лифт 2",
       "action": "info",
-      "disc": "Описание c6-f7-elevator2",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -437,11 +423,25 @@
         "timetable": ""
       }
     },
-    "c6-f7-elevator1": {
-      "id": "c6-f7-elevator1",
-      "name": "Название c6-f7-elevator1",
+    "c6-f7-wc1": {
+      "id": "c6-f7-wc1",
+      "name": "Туалет (жен.)",
       "action": "info",
-      "disc": "Описание c6-f7-elevator1",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
+    "c6-f7-wc1_2": {
+      "id": "c6-f7-wc1_2",
+      "name": "Туалет (муж.)",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -453,9 +453,9 @@
     },
     "c6-f7-sp": {
       "id": "c6-f7-sp",
-      "name": "Название c6-f7-sp",
+      "name": "Хоз. помещение",
       "action": "info",
-      "disc": "Описание c6-f7-sp",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

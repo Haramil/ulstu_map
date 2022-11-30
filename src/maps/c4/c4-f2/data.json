@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Корпус №4. Этаж 2",
     "mapName": "c4-f2",
     "prevMap": "c4-f1",
     "nextMap": "c4-f3",
@@ -17,11 +17,25 @@
       "action": "move",
       "direction": "c4-f3"
     },
+    "c4-f2-n21": {
+      "id": "c4-f2-n21",
+      "name": "4-21 СФ Науч. библиотека",
+      "action": "info",
+      "disc": "Строительный факультет. Научная библиотека.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": "",
+        "timetable": ""
+      }
+    },
     "c4-f2-n22": {
       "id": "c4-f2-n22",
-      "name": "Аудитория 22",
+      "name": "4-22 СФ Науч. библиотека Чит. зал",
       "action": "info",
-      "disc": "Описание c4-f2-n22",
+      "disc": "Строительный факультет. Научная библиотека. Читальный зал.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -33,9 +47,9 @@
     },
     "c4-f2-n23": {
       "id": "c4-f2-n23",
-      "name": "Аудитория 23",
+      "name": "4-23 СФ Кабинет декана",
       "action": "info",
-      "disc": "Описание c4-f2-n23",
+      "disc": "Строительный факультет. Кабинет декана. Декан Тур Виталий Иванович.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -47,9 +61,9 @@
     },
     "c4-f2-n24": {
       "id": "c4-f2-n24",
-      "name": "Аудитория 24",
+      "name": "4-24 СФ Деканат",
       "action": "info",
-      "disc": "Описание c4-f2-n24",
+      "disc": "Строительный факультет. Деканат. Заместители декана Дементьев Евгений Григорьевич, Куканов Николай Иванович.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -61,9 +75,9 @@
     },
     "c4-f2-n25": {
       "id": "c4-f2-n25",
-      "name": "Аудитория 25",
+      "name": "4-25",
       "action": "info",
-      "disc": "Описание c4-f2-n25",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -75,9 +89,9 @@
     },
     "c4-f2-n26": {
       "id": "c4-f2-n26",
-      "name": "Аудитория 26",
+      "name": "4-26 СФ Каф. «ПГС» Помещение",
       "action": "info",
-      "disc": "Описание c4-f2-n26",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Помещение для курсового проектирования.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -89,37 +103,23 @@
     },
     "c4-f2-n27": {
       "id": "c4-f2-n27",
-      "name": "Аудитория 27",
+      "name": "4-27 СФ Каф. «ПГС» Лаборатория",
       "action": "info",
-      "disc": "Описание c4-f2-n27",
+      "disc": "Строительный факультет. Кафедра «Промышленное и гражданское строительство». Лаборатория.",
       "additional": {
         "phone": "",
         "responsible": "",
         "workingHours": "",
         "email": "",
         "website": "",
-        "timetable": ""
+        "timetable": "https://time.ulstu.ru/?filter=4-27"
       }
     },
     "c4-f2-storeroom": {
       "id": "c4-f2-storeroom",
-      "name": "Название c4-f2-storeroom",
+      "name": "Хоз. помещение",
       "action": "info",
-      "disc": "Описание c4-f2-storeroom",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": "",
-        "timetable": ""
-      }
-    },
-    "c4-f2-n21": {
-      "id": "c4-f2-n21",
-      "name": "Аудитория 21",
-      "action": "info",
-      "disc": "Описание c4-f2-n21",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",

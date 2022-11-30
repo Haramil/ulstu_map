@@ -1,6 +1,6 @@
 {
   "config": {
-    "mapLabel": "c1-f0",
+    "mapLabel": "Учебная библиотека. Этаж 2",
     "mapName": "c4-f1-2",
     "prevMap": "c4-f1-1",
     "nextMap": "",
@@ -17,50 +17,11 @@
       "action": "move",
       "direction": "c4-f1-1"
     },
-    "c4-f1-n111": {
-      "id": "c4-f1-n111",
-      "name": "Название c4-f1-n111",
-      "action": "info",
-      "disc": "Описание c4-f1-n111",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_2": {
-      "id": "c4-f1-n111_2",
-      "name": "Название c4-f1-n111_2",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_2",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "c4-f1-n111_3": {
-      "id": "c4-f1-n111_3",
-      "name": "Название c4-f1-n111_3",
-      "action": "info",
-      "disc": "Описание c4-f1-n111_3",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
     "c4-f1-n111_4": {
       "id": "c4-f1-n111_4",
-      "name": "Название c4-f1-n111_4",
+      "name": "УБ-6 Директор",
       "action": "info",
-      "disc": "Описание c4-f1-n111_4",
+      "disc": "Учебная библиотека. Директор Синдюкова Елизавета Сергеевна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -71,9 +32,9 @@
     },
     "c4-f1-n111_5": {
       "id": "c4-f1-n111_5",
-      "name": "Название c4-f1-n111_5",
+      "name": "УБ-7 Зам. директора",
       "action": "info",
-      "disc": "Описание c4-f1-n111_5",
+      "disc": "Учебная библиотека. Заместитель директора Долгова Ирина Анатольевна.",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -84,9 +45,22 @@
     },
     "c4-f1-n111_6": {
       "id": "c4-f1-n111_6",
-      "name": "Название c4-f1-n111_6",
+      "name": "УБ-8 Организационно-метод. отд.",
       "action": "info",
-      "disc": "Описание c4-f1-n111_6",
+      "disc": "Учебная библиотека. Организационно-методический отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_3": {
+      "id": "c4-f1-n111_3",
+      "name": "УБ-9",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -97,9 +71,35 @@
     },
     "c4-f1-n111_7": {
       "id": "c4-f1-n111_7",
-      "name": "Название c4-f1-n111_7",
+      "name": "УБ-11",
       "action": "info",
-      "disc": "Описание c4-f1-n111_7",
+      "disc": "",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111_2": {
+      "id": "c4-f1-n111_2",
+      "name": "УБ-13 Научно-библиогр. отд.",
+      "action": "info",
+      "disc": "Учебная библиотека. Научно-библиографический отдел.",
+      "additional": {
+        "phone": "",
+        "responsible": "",
+        "workingHours": "",
+        "email": "",
+        "website": ""
+      }
+    },
+    "c4-f1-n111": {
+      "id": "c4-f1-n111",
+      "name": "УБ-14",
+      "action": "info",
+      "disc": "",
       "additional": {
         "phone": "",
         "responsible": "",
@@ -110,22 +110,9 @@
     },
     "c4-f1-n111_8": {
       "id": "c4-f1-n111_8",
-      "name": "Название c4-f1-n111_8",
+      "name": "УБ-14-1 Медиатека",
       "action": "info",
-      "disc": "Описание c4-f1-n111_8",
-      "additional": {
-        "phone": "",
-        "responsible": "",
-        "workingHours": "",
-        "email": "",
-        "website": ""
-      }
-    },
-    "Group 1": {
-      "id": "Group 1",
-      "name": "Название Group 1",
-      "action": "info",
-      "disc": "Описание Group 1",
+      "disc": "Учебная библиотека. Зал каталогов. Медиатека.",
       "additional": {
         "phone": "",
         "responsible": "",
